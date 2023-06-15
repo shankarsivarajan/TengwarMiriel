@@ -1,0 +1,6299 @@
+SplineFontDB: 3.2
+FontName: TengwarMiriel
+FullName: Tengwar Miriel
+FamilyName: Tengwar Miriel
+Weight: Book
+Copyright: Shankar Sivarajan.\nBased on Tengwar Tellepsalinnacontar by Bas van Hoorn.
+Version: 
+ItalicAngle: 0
+UnderlinePosition: -292
+UnderlineWidth: 150
+Ascent: 1638
+Descent: 410
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 1 "Back" 1
+Layer: 1 1 "Fore" 0
+XUID: [1021 146 -1796264217 20344]
+StyleMap: 0x0040
+FSType: 0
+OS2Version: 3
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1275331735
+ModificationTime: 1686854785
+PfmFamily: 33
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 67
+VLineGap: 0
+Panose: 2 11 6 4 2 2 2 2 2 4
+OS2TypoAscent: 1491
+OS2TypoAOffset: 0
+OS2TypoDescent: -431
+OS2TypoDOffset: 0
+OS2TypoLinegap: 307
+OS2WinAscent: 1854
+OS2WinAOffset: 0
+OS2WinDescent: 434
+OS2WinDOffset: 0
+HheadAscent: 1854
+HheadAOffset: 0
+HheadDescent: -434
+HheadDOffset: 0
+OS2SubXSize: 1434
+OS2SubYSize: 1331
+OS2SubXOff: 0
+OS2SubYOff: 283
+OS2SupXSize: 1434
+OS2SupYSize: 1331
+OS2SupXOff: 0
+OS2SupYOff: 977
+OS2StrikeYSize: 102
+OS2StrikeYPos: 512
+OS2CapHeight: 1466
+OS2XHeight: 1062
+OS2FamilyClass: 2053
+OS2Vendor: 'HL  '
+OS2CodePages: 20000011.00000000
+OS2UnicodeRanges: 800000af.1000005a.00000000.00000000
+Lookup: 6 0 0 "WidthAdjust" { "WidthAdjust contextual 0"  "WidthAdjust contextual 1"  "WidthAdjust contextual 2"  "WidthAdjust contextual 3"  "WidthAdjust contextual 4"  "WidthAdjust contextual 5"  "WidthAdjust contextual 6"  "WidthAdjust contextual 7"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 1" { "Single Substitution lookup 1 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 2" { "Single Substitution lookup 2 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 3" { "Single Substitution lookup 3 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 4" { "Single Substitution lookup 4 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 5" { "Single Substitution lookup 5 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 6" { "Single Substitution lookup 6 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 7" { "Single Substitution lookup 7 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 8" { "Single Substitution lookup 8 subtable"  } []
+Lookup: 6 0 0 "LambeBar" { "LambeBar contextual 0"  "LambeBar contextual 1"  "LambeBar contextual 2"  "LambeBar contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 10" { "Single Substitution lookup 10 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 11" { "Single Substitution lookup 11 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 12" { "Single Substitution lookup 12 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 13" { "Single Substitution lookup 13 subtable"  } []
+Lookup: 6 0 0 "LambeXhook" { "LambeXhook contextual 0"  "LambeXhook contextual 1"  "LambeXhook contextual 2"  "LambeXhook contextual 3"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 1 0 0 "Single Substitution lookup 15" { "Single Substitution lookup 15 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 16" { "Single Substitution lookup 16 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 17" { "Single Substitution lookup 17 subtable"  } []
+Lookup: 1 0 0 "Single Substitution lookup 18" { "Single Substitution lookup 18 subtable"  } []
+Lookup: 4 0 1 "Ligatures" { "Ligatures subtable"  } ['liga' ('latn' <'dflt' > 'DFLT' <'dflt' > ) ]
+Lookup: 258 8 0 "'kern' Horizontal Kerning in Latin lookup 2" { "'kern' Horizontal Kerning in Latin lookup 2-1" [307,30,2] } ['kern' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 260 0 0 "Mark to base attachment lookup 1" { "Mark to base attachment lookup 1-1"  } ['mark' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2-1"  } ['mkmk' ('DFLT' <'dflt' > 'latn' <'dflt' > ) ]
+MarkAttachClasses: 1
+DEI: 91125
+ChainSub2: coverage "LambeXhook contextual 3" 0 0 0 1
+ 1 1 0
+  Coverage: 7 uniE059
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 18"
+EndFPST
+ChainSub2: coverage "LambeXhook contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 7 uniE059
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 17"
+EndFPST
+ChainSub2: coverage "LambeXhook contextual 1" 0 0 0 1
+ 1 3 0
+  Coverage: 7 uniE059
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 16"
+EndFPST
+ChainSub2: coverage "LambeXhook contextual 0" 0 0 0 1
+ 1 4 0
+  Coverage: 7 uniE059
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 15"
+EndFPST
+ChainSub2: coverage "LambeBar contextual 3" 0 0 0 1
+ 1 1 0
+  Coverage: 9 bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 13"
+EndFPST
+ChainSub2: coverage "LambeBar contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 9 bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 12"
+EndFPST
+ChainSub2: coverage "LambeBar contextual 1" 0 0 0 1
+ 1 3 0
+  Coverage: 9 bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 11"
+EndFPST
+ChainSub2: coverage "LambeBar contextual 0" 0 0 0 1
+ 1 4 0
+  Coverage: 9 bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 10 lambe alda
+ 1
+  SeqLookup: 0 "Single Substitution lookup 10"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 7" 0 0 0 1
+ 1 1 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 32 uniE02C uniE02D uniE02E uniE02F 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 8"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 6" 0 0 0 1
+ 1 2 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 32 uniE02C uniE02D uniE02E uniE02F 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 7"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 5" 0 0 0 1
+ 1 3 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 32 uniE02C uniE02D uniE02E uniE02F 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 6"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 4" 0 0 0 1
+ 1 4 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 32 uniE02C uniE02D uniE02E uniE02F 
+ 1
+  SeqLookup: 0 "Single Substitution lookup 5"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 3" 0 0 0 1
+ 1 1 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 159 uniE004 uniE005 uniE006 uniE007 uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE01C uniE01D uniE01E uniE01F uniE03A uniE073 uniE076 uniE079
+ 1
+  SeqLookup: 0 "Single Substitution lookup 4"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 2" 0 0 0 1
+ 1 2 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 159 uniE004 uniE005 uniE006 uniE007 uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE01C uniE01D uniE01E uniE01F uniE03A uniE073 uniE076 uniE079
+ 1
+  SeqLookup: 0 "Single Substitution lookup 3"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 1" 0 0 0 1
+ 1 3 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 159 uniE004 uniE005 uniE006 uniE007 uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE01C uniE01D uniE01E uniE01F uniE03A uniE073 uniE076 uniE079
+ 1
+  SeqLookup: 0 "Single Substitution lookup 2"
+EndFPST
+ChainSub2: coverage "WidthAdjust contextual 0" 0 0 0 1
+ 1 4 0
+  Coverage: 19 bar_above bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 310 uniE040 uniE041 uniE042 uniE043 uniE044 uniE045 uniE046 uniE047 uniE048 uniE049 uniE04A uniE04B uniE04C uniE04D uniE052 uniE053 uniE054 uniE055 uniE056 uniE057 uniE059 uniE05A bar_above bar_below rightcurl_above_double leftcurl_above_double bar_above bar_below bar_above_narrow bar_below_narrow lambe_bar_below
+  BCoverage: 159 uniE004 uniE005 uniE006 uniE007 uniE00C uniE00D uniE00E uniE00F uniE010 uniE011 uniE012 uniE013 uniE01C uniE01D uniE01E uniE01F uniE03A uniE073 uniE076 uniE079
+ 1
+  SeqLookup: 0 "Single Substitution lookup 1"
+EndFPST
+TtTable: prep
+PUSHW_1
+ 0
+CALL
+EndTTInstrs
+TtTable: fpgm
+PUSHW_1
+ 0
+FDEF
+MPPEM
+PUSHW_1
+ 9
+LT
+IF
+PUSHB_2
+ 1
+ 1
+INSTCTRL
+EIF
+PUSHW_1
+ 511
+SCANCTRL
+PUSHW_1
+ 68
+SCVTCI
+PUSHW_2
+ 9
+ 3
+SDS
+SDB
+ENDF
+PUSHW_1
+ 1
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 2
+FDEF
+PUSHW_1
+ 1
+LOOPCALL
+POP
+ENDF
+PUSHW_1
+ 3
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 3
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+EIF
+DUP
+ROLL
+DUP
+ROLL
+MD[grid]
+ABS
+ROLL
+DUP
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[Grey]
+SUB
+ABS
+GT
+IF
+SWAP
+NEG
+ROLL
+EIF
+MDAP[rnd]
+DUP
+PUSHB_1
+ 0
+GTEQ
+IF
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+EIF
+ELSE
+ROUND[Black]
+DUP
+PUSHB_1
+ 0
+EQ
+IF
+POP
+PUSHB_1
+ 64
+NEG
+EIF
+EIF
+MSIRP[no-rp0]
+ENDF
+PUSHW_1
+ 4
+FDEF
+DUP
+GC[cur]
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+GT
+IF
+SWAP
+ROLL
+EIF
+DUP
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+PUSHB_1
+ 4
+CINDEX
+GC[cur]
+DUP
+ROUND[White]
+SUB
+ABS
+GT
+IF
+SWAP
+ROLL
+EIF
+MDAP[rnd]
+MIRP[rp0,min,rnd,black]
+ENDF
+PUSHW_1
+ 5
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+LT
+IF
+LTEQ
+IF
+PUSHB_1
+ 128
+WCVTP
+ELSE
+PUSHB_1
+ 64
+WCVTP
+EIF
+ELSE
+POP
+POP
+DUP
+RCVT
+PUSHB_1
+ 192
+LT
+IF
+PUSHB_1
+ 192
+WCVTP
+ELSE
+POP
+EIF
+EIF
+ENDF
+PUSHW_1
+ 6
+FDEF
+DUP
+DUP
+RCVT
+ROUND[Black]
+WCVTP
+PUSHB_1
+ 1
+ADD
+DUP
+DUP
+RCVT
+RDTG
+ROUND[Black]
+RTG
+WCVTP
+PUSHB_1
+ 1
+ADD
+ENDF
+PUSHW_1
+ 7
+FDEF
+PUSHW_1
+ 6
+LOOPCALL
+ENDF
+PUSHW_1
+ 8
+FDEF
+MPPEM
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 64
+ELSE
+PUSHB_1
+ 0
+EIF
+ROLL
+ROLL
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHB_1
+ 128
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 192
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 256
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHB_1
+ 3
+MINDEX
+GTEQ
+IF
+SWAP
+POP
+PUSHW_1
+ 320
+ROLL
+ROLL
+ELSE
+ROLL
+SWAP
+EIF
+DUP
+PUSHW_1
+ 3
+MINDEX
+GTEQ
+IF
+PUSHB_1
+ 3
+CINDEX
+RCVT
+PUSHW_1
+ 384
+LT
+IF
+SWAP
+POP
+PUSHW_1
+ 384
+SWAP
+POP
+ELSE
+PUSHB_1
+ 3
+CINDEX
+RCVT
+SWAP
+POP
+SWAP
+POP
+EIF
+ELSE
+POP
+EIF
+WCVTP
+ENDF
+PUSHW_1
+ 9
+FDEF
+MPPEM
+GTEQ
+IF
+RCVT
+WCVTP
+ELSE
+POP
+POP
+EIF
+ENDF
+EndTTInstrs
+ShortTable: cvt  1
+  42
+EndShort
+ShortTable: maxp 16
+  1
+  0
+  1799
+  266
+  20
+  230
+  19
+  1
+  0
+  0
+  10
+  0
+  512
+  955
+  2
+  1
+EndShort
+LangName: 1033 "" "" "Regular"
+GaspTable: 3 8 10 17 5 65535 15 1
+Encoding: UnicodeBmp
+Compacted: 1
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 0 48 16
+BeginPrivate: 0
+EndPrivate
+AnchorClass2: "LambeXhook" "Mark to base attachment lookup 1-1" "LambeBar" "Mark to base attachment lookup 1-1" "mkmk_down" "'mkmk' Mark to Mark lookup 2-1" "mkmk_up" "'mkmk' Mark to Mark lookup 2-1" "TehtaBelow" "Mark to base attachment lookup 1-1" "TehtaAbove" "Mark to base attachment lookup 1-1"
+BeginChars: 65550 139
+
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 1553
+GlyphClass: 1
+Flags: W
+TtInstrs:
+PUSHW_1
+ 8
+MDAP[rnd]
+PUSHW_1
+ 5
+MDAP[rnd]
+PUSHW_1
+ 8
+SRP0
+PUSHW_1
+ 0
+MDRP[rp0,grey]
+PUSHW_1
+ 0
+MDAP[rnd]
+PUSHW_1
+ 5
+SRP0
+PUSHW_1
+ 3
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 0
+SRP0
+PUSHW_1
+ 4
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 3
+SRP0
+PUSHW_1
+ 9
+MDRP[rp0,min,rnd,grey]
+SVTCA[y-axis]
+PUSHW_3
+ 4
+ 0
+ 3
+CALL
+PUSHW_3
+ 2
+ 6
+ 3
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+LayerCount: 2
+Fore
+SplineSet
+252 0 m 1,0,-1
+ 252 1063 l 1,1,-1
+ 1315 1063 l 1,2,-1
+ 1315 0 l 1,3,-1
+ 252 0 l 1,0,-1
+348 95 m 1,4,-1
+ 1219 95 l 1,5,-1
+ 1219 968 l 1,6,-1
+ 348 968 l 1,7,-1
+ 348 95 l 1,4,-1
+EndSplineSet
+EndChar
+
+StartChar: NULL
+Encoding: 65537 -1 1
+Width: 144
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: nonmarkingreturn
+Encoding: 65538 -1 2
+Width: 144
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: space
+Encoding: 32 32 3
+Width: 720
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: uniE000
+Encoding: 57344 57344 4
+Width: 1093
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 593 -200 basechar 0
+AnchorPoint: "TehtaAbove" 593 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+315 -406 m 1,0,-1
+ 127 -406 l 1,1,-1
+ 127 1061 l 1,2,-1
+ 315 1061 l 1,3,-1
+ 315 928 l 1,4,5
+ 424 1085 424 1085 617 1085 c 0,6,7
+ 701 1085 701 1085 773 1050 c 128,-1,8
+ 845 1015 845 1015 897 946.5 c 128,-1,9
+ 949 878 949 878 978.5 778 c 128,-1,10
+ 1008 678 1008 678 1008 549 c 0,11,12
+ 1008 414 1008 414 968 279 c 128,-1,13
+ 928 144 928 144 849 0 c 1,14,-1
+ 664 0 l 1,15,16
+ 718 121 718 121 750 207.5 c 128,-1,17
+ 782 294 782 294 793 346 c 0,18,19
+ 805 401 805 401 811.5 452.5 c 128,-1,20
+ 818 504 818 504 818 555 c 0,21,22
+ 818 641 818 641 802 711.5 c 128,-1,23
+ 786 782 786 782 757 832 c 128,-1,24
+ 728 882 728 882 687 909 c 128,-1,25
+ 646 936 646 936 596 936 c 0,26,27
+ 540 936 540 936 492.5 912 c 128,-1,28
+ 445 888 445 888 408.5 850 c 128,-1,29
+ 372 812 372 812 348 766 c 128,-1,30
+ 324 720 324 720 315 677 c 1,31,-1
+ 315 -406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE001
+Encoding: 57345 57345 5
+Width: 1170
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 670 -200 basechar 0
+AnchorPoint: "TehtaAbove" 670 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+730 155 m 1,0,1
+ 755 218 755 218 770 264.5 c 128,-1,2
+ 785 311 785 311 793 346 c 0,3,4
+ 821 465 821 465 821 555 c 0,5,6
+ 821 636 821 636 805 706 c 128,-1,7
+ 789 776 789 776 760 827 c 128,-1,8
+ 731 878 731 878 689.5 907 c 128,-1,9
+ 648 936 648 936 596 936 c 0,10,11
+ 556 936 556 936 518.5 922.5 c 128,-1,12
+ 481 909 481 909 448.5 885 c 128,-1,13
+ 416 861 416 861 390 829 c 128,-1,14
+ 364 797 364 797 348 761 c 0,15,16
+ 322 704 322 704 308.5 631.5 c 128,-1,17
+ 295 559 295 559 295 468 c 0,18,19
+ 295 369 295 369 300 292 c 128,-1,20
+ 305 215 305 215 314 155 c 1,21,-1
+ 730 155 l 1,0,1
+315 0 m 1,22,-1
+ 315 -406 l 1,23,-1
+ 127 -406 l 1,24,-1
+ 127 1061 l 1,25,-1
+ 315 1061 l 1,26,-1
+ 315 928 l 1,27,28
+ 424 1085 424 1085 618 1085 c 0,29,30
+ 702 1085 702 1085 773.5 1049.5 c 128,-1,31
+ 845 1014 845 1014 897 946 c 128,-1,32
+ 949 878 949 878 978.5 778 c 128,-1,33
+ 1008 678 1008 678 1008 549 c 0,34,35
+ 1008 354 1008 354 925 155 c 1,36,-1
+ 1084 155 l 1,37,-1
+ 1084 0 l 1,38,-1
+ 315 0 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE002
+Encoding: 57346 57346 6
+Width: 1095
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
+AnchorPoint: "TehtaAbove" 595 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+763 1061 m 1,0,-1
+ 950 1061 l 1,1,-1
+ 950 -406 l 1,2,-1
+ 763 -406 l 1,3,-1
+ 763 132 l 1,4,5
+ 654 -25 654 -25 459 -25 c 0,6,7
+ 375 -25 375 -25 303.5 11 c 128,-1,8
+ 232 47 232 47 180 115.5 c 128,-1,9
+ 128 184 128 184 98.5 284 c 128,-1,10
+ 69 384 69 384 69 512 c 0,11,12
+ 69 646 69 646 109 781 c 128,-1,13
+ 149 916 149 916 228 1061 c 1,14,-1
+ 413 1061 l 1,15,16
+ 359 939 359 939 328 857.5 c 128,-1,17
+ 297 776 297 776 282 716 c 128,-1,18
+ 267 656 267 656 263 608 c 128,-1,19
+ 259 560 259 560 259 506 c 0,20,21
+ 259 417 259 417 275.5 346.5 c 128,-1,22
+ 292 276 292 276 321.5 226.5 c 128,-1,23
+ 351 177 351 177 391 150.5 c 128,-1,24
+ 431 124 431 124 478 124 c 2,25,-1
+ 482 124 l 2,26,27
+ 537 124 537 124 584 147.5 c 128,-1,28
+ 631 171 631 171 668 208 c 128,-1,29
+ 705 245 705 245 729.5 291.5 c 128,-1,30
+ 754 338 754 338 763 383 c 1,31,-1
+ 763 1061 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE003
+Encoding: 57347 57347 7
+Width: 1172
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 906 m 1,0,1
+ 393 830 393 830 375 771.5 c 128,-1,2
+ 357 713 357 713 347.5 666 c 128,-1,3
+ 338 619 338 619 335.5 580.5 c 128,-1,4
+ 333 542 333 542 333 506 c 0,5,6
+ 333 422 333 422 349 351.5 c 128,-1,7
+ 365 281 365 281 394.5 230.5 c 128,-1,8
+ 424 180 424 180 465.5 152 c 128,-1,9
+ 507 124 507 124 558 124 c 0,10,11
+ 597 124 597 124 633.5 137 c 128,-1,12
+ 670 150 670 150 702.5 173.5 c 128,-1,13
+ 735 197 735 197 761.5 229 c 128,-1,14
+ 788 261 788 261 806 299 c 0,15,16
+ 858 407 858 407 858 589 c 2,17,-1
+ 858 602 l 2,18,19
+ 857 696 857 696 852 771 c 128,-1,20
+ 847 846 847 846 839 906 c 1,21,-1
+ 424 906 l 1,0,1
+70 1061 m 1,22,-1
+ 1026 1061 l 1,23,-1
+ 1026 -405 l 1,24,-1
+ 839 -405 l 1,25,-1
+ 839 132 l 1,26,27
+ 730 -25 730 -25 536 -25 c 0,28,29
+ 452 -25 452 -25 380.5 10 c 128,-1,30
+ 309 45 309 45 257 113.5 c 128,-1,31
+ 205 182 205 182 175.5 282 c 128,-1,32
+ 146 382 146 382 146 512 c 0,33,34
+ 146 705 146 705 228 906 c 1,35,-1
+ 70 906 l 1,36,-1
+ 70 1061 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE004
+Encoding: 57348 57348 8
+Width: 1729
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 929 -200 basechar 0
+AnchorPoint: "TehtaAbove" 929 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 -406 m 1,0,-1
+ 128 -406 l 1,1,-1
+ 128 1061 l 1,2,-1
+ 316 1061 l 1,3,-1
+ 316 928 l 1,4,5
+ 425 1085 425 1085 616 1085 c 0,6,7
+ 811 1085 811 1085 927 893 c 1,8,9
+ 981 990 981 990 1061.5 1037.5 c 128,-1,10
+ 1142 1085 1142 1085 1235 1085 c 0,11,12
+ 1332 1085 1332 1085 1407.5 1048 c 128,-1,13
+ 1483 1011 1483 1011 1535 941.5 c 128,-1,14
+ 1587 872 1587 872 1613.5 772.5 c 128,-1,15
+ 1640 673 1640 673 1640 549 c 0,16,17
+ 1640 414 1640 414 1600 279 c 128,-1,18
+ 1560 144 1560 144 1481 0 c 1,19,-1
+ 1298 0 l 1,20,21
+ 1350 121 1350 121 1382.5 207.5 c 128,-1,22
+ 1415 294 1415 294 1427 346 c 0,23,24
+ 1437 400 1437 400 1443.5 453.5 c 128,-1,25
+ 1450 507 1450 507 1450 555 c 0,26,27
+ 1450 643 1450 643 1433.5 714 c 128,-1,28
+ 1417 785 1417 785 1388 834 c 128,-1,29
+ 1359 883 1359 883 1318.5 909.5 c 128,-1,30
+ 1278 936 1278 936 1229 936 c 0,31,32
+ 1177 936 1177 936 1135 908.5 c 128,-1,33
+ 1093 881 1093 881 1063.5 830.5 c 128,-1,34
+ 1034 780 1034 780 1018 708.5 c 128,-1,35
+ 1002 637 1002 637 1002 549 c 0,36,37
+ 1002 413 1002 413 962.5 278 c 128,-1,38
+ 923 143 923 143 845 0 c 1,39,-1
+ 660 0 l 1,40,41
+ 713 122 713 122 743.5 205 c 128,-1,42
+ 774 288 774 288 790 348.5 c 128,-1,43
+ 806 409 806 409 810 456.5 c 128,-1,44
+ 814 504 814 504 814 555 c 0,45,46
+ 814 640 814 640 798 710 c 128,-1,47
+ 782 780 782 780 753 830.5 c 128,-1,48
+ 724 881 724 881 683.5 908.5 c 128,-1,49
+ 643 936 643 936 594 936 c 256,50,51
+ 545 936 545 936 498.5 914.5 c 128,-1,52
+ 452 893 452 893 413.5 857.5 c 128,-1,53
+ 375 822 375 822 349 776 c 128,-1,54
+ 323 730 323 730 316 681 c 1,55,-1
+ 316 -406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE005
+Encoding: 57349 57349 9
+Width: 1810
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 1010 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1010 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 0 m 1,0,-1
+ 316 -406 l 1,1,-1
+ 129 -406 l 1,2,-1
+ 129 1061 l 1,3,-1
+ 316 1061 l 1,4,-1
+ 316 928 l 1,5,6
+ 425 1085 425 1085 617 1085 c 0,7,8
+ 713 1085 713 1085 792 1037 c 128,-1,9
+ 871 989 871 989 928 892 c 1,10,11
+ 982 989 982 989 1062 1037 c 128,-1,12
+ 1142 1085 1142 1085 1235 1085 c 0,13,14
+ 1335 1085 1335 1085 1411 1046.5 c 128,-1,15
+ 1487 1008 1487 1008 1538 937.5 c 128,-1,16
+ 1589 867 1589 867 1615 768.5 c 128,-1,17
+ 1641 670 1641 670 1641 549 c 0,18,19
+ 1641 356 1641 356 1558 155 c 1,20,-1
+ 1721 155 l 1,21,-1
+ 1721 0 l 1,22,-1
+ 316 0 l 1,0,-1
+1363 155 m 1,23,24
+ 1393 231 1393 231 1411 286 c 128,-1,25
+ 1429 341 1429 341 1438 386 c 128,-1,26
+ 1447 431 1447 431 1449.5 470.5 c 128,-1,27
+ 1452 510 1452 510 1452 555 c 0,28,29
+ 1452 639 1452 639 1436 709 c 128,-1,30
+ 1420 779 1420 779 1391 829.5 c 128,-1,31
+ 1362 880 1362 880 1320 908 c 128,-1,32
+ 1278 936 1278 936 1227 936 c 256,33,34
+ 1176 936 1176 936 1134.5 908.5 c 128,-1,35
+ 1093 881 1093 881 1063.5 830 c 128,-1,36
+ 1034 779 1034 779 1018 707.5 c 128,-1,37
+ 1002 636 1002 636 1002 549 c 2,38,-1
+ 1002 544 l 2,39,40
+ 1002 447 1002 447 981.5 351 c 128,-1,41
+ 961 255 961 255 921 155 c 1,42,-1
+ 1363 155 l 1,23,24
+726 155 m 1,43,44
+ 754 223 754 223 771 277.5 c 128,-1,45
+ 788 332 788 332 797.5 378.5 c 128,-1,46
+ 807 425 807 425 810.5 467.5 c 128,-1,47
+ 814 510 814 510 814 555 c 0,48,49
+ 814 643 814 643 797.5 713.5 c 128,-1,50
+ 781 784 781 784 752 833.5 c 128,-1,51
+ 723 883 723 883 683 909.5 c 128,-1,52
+ 643 936 643 936 595 936 c 0,53,54
+ 556 936 556 936 519 922.5 c 128,-1,55
+ 482 909 482 909 450 885.5 c 128,-1,56
+ 418 862 418 862 392 830 c 128,-1,57
+ 366 798 366 798 349 761 c 0,58,59
+ 296 649 296 649 296 467 c 0,60,61
+ 296 369 296 369 301 292 c 128,-1,62
+ 306 215 306 215 315 155 c 1,63,-1
+ 726 155 l 1,43,44
+EndSplineSet
+EndChar
+
+StartChar: uniE006
+Encoding: 57350 57350 10
+Width: 1731
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 931 -200 basechar 0
+AnchorPoint: "TehtaAbove" 931 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1396 1061 m 1,0,-1
+ 1582 1061 l 1,1,-1
+ 1582 -405 l 1,2,-1
+ 1396 -405 l 1,3,-1
+ 1396 132 l 1,4,5
+ 1287 -25 1287 -25 1095 -25 c 0,6,7
+ 929 -25 929 -25 819 115 c 1,8,-1
+ 819 114 l 1,9,10
+ 808 126 808 126 800 139 c 128,-1,11
+ 792 152 792 152 784 166 c 1,12,13
+ 757 118 757 118 722.5 82 c 128,-1,14
+ 688 46 688 46 648 22 c 128,-1,15
+ 608 -2 608 -2 565 -13.5 c 128,-1,16
+ 522 -25 522 -25 477 -25 c 0,17,18
+ 378 -25 378 -25 302 13 c 128,-1,19
+ 226 51 226 51 174.5 121 c 128,-1,20
+ 123 191 123 191 97 290.5 c 128,-1,21
+ 71 390 71 390 71 512 c 0,22,23
+ 71 774 71 774 229 1061 c 1,24,-1
+ 414 1061 l 1,25,26
+ 378 979 378 979 353 916 c 128,-1,27
+ 328 853 328 853 311 803.5 c 128,-1,28
+ 294 754 294 754 284 715 c 128,-1,29
+ 274 676 274 676 268.5 642 c 128,-1,30
+ 263 608 263 608 261.5 575.5 c 128,-1,31
+ 260 543 260 543 260 506 c 0,32,33
+ 260 418 260 418 276.5 347.5 c 128,-1,34
+ 293 277 293 277 322 227.5 c 128,-1,35
+ 351 178 351 178 392 151 c 128,-1,36
+ 433 124 433 124 481 124 c 0,37,38
+ 535 124 535 124 577.5 152.5 c 128,-1,39
+ 620 181 620 181 649.5 232 c 128,-1,40
+ 679 283 679 283 694.5 354.5 c 128,-1,41
+ 710 426 710 426 710 512 c 0,42,43
+ 710 781 710 781 867 1061 c 1,44,-1
+ 1051 1061 l 1,45,46
+ 1015 979 1015 979 990 916 c 128,-1,47
+ 965 853 965 853 948 803.5 c 128,-1,48
+ 931 754 931 754 921 715 c 128,-1,49
+ 911 676 911 676 905.5 642 c 128,-1,50
+ 900 608 900 608 898.5 575.5 c 128,-1,51
+ 897 543 897 543 897 506 c 0,52,53
+ 897 417 897 417 913.5 346.5 c 128,-1,54
+ 930 276 930 276 959.5 226.5 c 128,-1,55
+ 989 177 989 177 1029.5 150.5 c 128,-1,56
+ 1070 124 1070 124 1117 124 c 0,57,58
+ 1162 124 1162 124 1208.5 144.5 c 128,-1,59
+ 1255 165 1255 165 1294 200.5 c 128,-1,60
+ 1333 236 1333 236 1360.5 282 c 128,-1,61
+ 1388 328 1388 328 1396 379 c 1,62,-1
+ 1396 1061 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE007
+Encoding: 57351 57351 11
+Width: 1812
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 1015 1500 basechar 0
+AnchorPoint: "TehtaBelow" 1012 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+71 1061 m 1,0,-1
+ 1663 1061 l 1,1,-1
+ 1663 -406 l 1,2,-1
+ 1475 -406 l 1,3,-1
+ 1475 132 l 1,4,5
+ 1366 -25 1366 -25 1174 -25 c 0,6,7
+ 1009 -25 1009 -25 899 115 c 1,8,-1
+ 899 114 l 1,9,10
+ 888 126 888 126 880 139 c 128,-1,11
+ 872 152 872 152 864 166 c 1,12,13
+ 809 69 809 69 728 22 c 128,-1,14
+ 647 -25 647 -25 556 -25 c 0,15,16
+ 458 -25 458 -25 382 13 c 128,-1,17
+ 306 51 306 51 254.5 120.5 c 128,-1,18
+ 203 190 203 190 176.5 289.5 c 128,-1,19
+ 150 389 150 389 150 512 c 0,20,21
+ 150 706 150 706 234 906 c 1,22,-1
+ 71 906 l 1,23,-1
+ 71 1061 l 1,0,-1
+428 906 m 1,24,25
+ 404 846 404 846 388 797.5 c 128,-1,26
+ 372 749 372 749 365 715 c 0,27,28
+ 353 658 353 658 346.5 604.5 c 128,-1,29
+ 340 551 340 551 340 506 c 0,30,31
+ 340 417 340 417 356.5 346.5 c 128,-1,32
+ 373 276 373 276 402.5 226.5 c 128,-1,33
+ 432 177 432 177 473 150.5 c 128,-1,34
+ 514 124 514 124 564 124 c 256,35,36
+ 614 124 614 124 655.5 151 c 128,-1,37
+ 697 178 697 178 726.5 228 c 128,-1,38
+ 756 278 756 278 772.5 350 c 128,-1,39
+ 789 422 789 422 789 512 c 0,40,41
+ 789 708 789 708 871 906 c 1,42,-1
+ 428 906 l 1,24,25
+1065 906 m 1,43,44
+ 1041 846 1041 846 1025.5 797.5 c 128,-1,45
+ 1010 749 1010 749 1002 715 c 0,46,47
+ 989 658 989 658 983 604.5 c 128,-1,48
+ 977 551 977 551 977 506 c 0,49,50
+ 977 417 977 417 993.5 346.5 c 128,-1,51
+ 1010 276 1010 276 1039.5 226.5 c 128,-1,52
+ 1069 177 1069 177 1109 150.5 c 128,-1,53
+ 1149 124 1149 124 1197 124 c 0,54,55
+ 1235 124 1235 124 1272.5 138 c 128,-1,56
+ 1310 152 1310 152 1342 176 c 128,-1,57
+ 1374 200 1374 200 1400 232 c 128,-1,58
+ 1426 264 1426 264 1442 300 c 0,59,60
+ 1494 407 1494 407 1494 589 c 2,61,-1
+ 1494 602 l 2,62,63
+ 1493 696 1493 696 1488 771 c 128,-1,64
+ 1483 846 1483 846 1475 906 c 1,65,-1
+ 1065 906 l 1,43,44
+EndSplineSet
+EndChar
+
+StartChar: uniE008
+Encoding: 57352 57352 12
+Width: 1093
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 593 1500 basechar 0
+AnchorPoint: "TehtaBelow" 593 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+315 0 m 1,0,-1
+ 127 0 l 1,1,-1
+ 127 1465 l 1,2,-1
+ 315 1465 l 1,3,-1
+ 315 928 l 1,4,5
+ 424 1085 424 1085 617 1085 c 0,6,7
+ 701 1085 701 1085 773 1050 c 128,-1,8
+ 845 1015 845 1015 897 946.5 c 128,-1,9
+ 949 878 949 878 978.5 778 c 128,-1,10
+ 1008 678 1008 678 1008 549 c 0,11,12
+ 1008 414 1008 414 968 279 c 128,-1,13
+ 928 144 928 144 849 0 c 1,14,-1
+ 664 0 l 1,15,16
+ 718 121 718 121 750 207.5 c 128,-1,17
+ 782 294 782 294 793 346 c 0,18,19
+ 805 401 805 401 811.5 452.5 c 128,-1,20
+ 818 504 818 504 818 555 c 0,21,22
+ 818 641 818 641 802 711.5 c 128,-1,23
+ 786 782 786 782 757 832 c 128,-1,24
+ 728 882 728 882 687 909 c 128,-1,25
+ 646 936 646 936 596 936 c 0,26,27
+ 540 936 540 936 492.5 912 c 128,-1,28
+ 445 888 445 888 408.5 850 c 128,-1,29
+ 372 812 372 812 348 766 c 128,-1,30
+ 324 720 324 720 315 677 c 1,31,-1
+ 315 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE009
+Encoding: 57353 57353 13
+Width: 1170
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 670 1500 basechar 0
+AnchorPoint: "TehtaBelow" 670 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+730 155 m 1,0,1
+ 755 218 755 218 770 264.5 c 128,-1,2
+ 785 311 785 311 793 346 c 0,3,4
+ 821 465 821 465 821 555 c 0,5,6
+ 821 636 821 636 805 706 c 128,-1,7
+ 789 776 789 776 760 827 c 128,-1,8
+ 731 878 731 878 689.5 907 c 128,-1,9
+ 648 936 648 936 596 936 c 0,10,11
+ 556 936 556 936 518.5 922.5 c 128,-1,12
+ 481 909 481 909 448.5 885 c 128,-1,13
+ 416 861 416 861 390 829 c 128,-1,14
+ 364 797 364 797 348 761 c 0,15,16
+ 322 704 322 704 308.5 631.5 c 128,-1,17
+ 295 559 295 559 295 468 c 0,18,19
+ 295 369 295 369 300 292 c 128,-1,20
+ 305 215 305 215 314 155 c 1,21,-1
+ 730 155 l 1,0,1
+1084 0 m 1,22,-1
+ 127 0 l 1,23,-1
+ 127 1465 l 1,24,-1
+ 315 1465 l 1,25,-1
+ 315 928 l 1,26,27
+ 424 1085 424 1085 618 1085 c 0,28,29
+ 702 1085 702 1085 773.5 1049.5 c 128,-1,30
+ 845 1014 845 1014 897 946 c 128,-1,31
+ 949 878 949 878 978.5 778 c 128,-1,32
+ 1008 678 1008 678 1008 549 c 0,33,34
+ 1008 354 1008 354 925 155 c 1,35,-1
+ 1084 155 l 1,36,-1
+ 1084 0 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE00A
+Encoding: 57354 57354 14
+Width: 1095
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 595 1500 basechar 0
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+763 1465 m 1,0,-1
+ 950 1465 l 1,1,-1
+ 950 0 l 1,2,-1
+ 763 0 l 1,3,-1
+ 763 132 l 1,4,5
+ 654 -25 654 -25 459 -25 c 0,6,7
+ 375 -25 375 -25 303.5 11 c 128,-1,8
+ 232 47 232 47 180 115.5 c 128,-1,9
+ 128 184 128 184 98.5 284 c 128,-1,10
+ 69 384 69 384 69 512 c 0,11,12
+ 69 646 69 646 109 781 c 128,-1,13
+ 149 916 149 916 228 1061 c 1,14,-1
+ 413 1061 l 1,15,16
+ 359 939 359 939 328 857.5 c 128,-1,17
+ 297 776 297 776 282 716 c 128,-1,18
+ 267 656 267 656 263 608 c 128,-1,19
+ 259 560 259 560 259 506 c 0,20,21
+ 259 417 259 417 275.5 346.5 c 128,-1,22
+ 292 276 292 276 321.5 226.5 c 128,-1,23
+ 351 177 351 177 391 150.5 c 128,-1,24
+ 431 124 431 124 478 124 c 2,25,-1
+ 482 124 l 2,26,27
+ 537 124 537 124 584 147.5 c 128,-1,28
+ 631 171 631 171 668 208 c 128,-1,29
+ 705 245 705 245 729.5 291.5 c 128,-1,30
+ 754 338 754 338 763 383 c 1,31,-1
+ 763 1465 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE00B
+Encoding: 57355 57355 15
+Width: 1172
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 906 m 1,0,1
+ 393 830 393 830 375 771.5 c 128,-1,2
+ 357 713 357 713 347.5 666 c 128,-1,3
+ 338 619 338 619 335.5 580.5 c 128,-1,4
+ 333 542 333 542 333 506 c 0,5,6
+ 333 422 333 422 349 351.5 c 128,-1,7
+ 365 281 365 281 394.5 230.5 c 128,-1,8
+ 424 180 424 180 465.5 152 c 128,-1,9
+ 507 124 507 124 558 124 c 0,10,11
+ 597 124 597 124 633.5 137 c 128,-1,12
+ 670 150 670 150 702.5 173.5 c 128,-1,13
+ 735 197 735 197 761.5 229 c 128,-1,14
+ 788 261 788 261 806 299 c 0,15,16
+ 858 407 858 407 858 589 c 2,17,-1
+ 858 602 l 2,18,19
+ 857 696 857 696 852 771 c 128,-1,20
+ 847 846 847 846 839 906 c 1,21,-1
+ 424 906 l 1,0,1
+839 1061 m 1,22,-1
+ 839 1465 l 1,23,-1
+ 1026 1465 l 1,24,-1
+ 1026 0 l 1,25,-1
+ 839 0 l 1,26,-1
+ 839 132 l 1,27,28
+ 730 -25 730 -25 536 -25 c 0,29,30
+ 452 -25 452 -25 380.5 10 c 128,-1,31
+ 309 45 309 45 257 113.5 c 128,-1,32
+ 205 182 205 182 175.5 282 c 128,-1,33
+ 146 382 146 382 146 512 c 0,34,35
+ 146 705 146 705 228 906 c 1,36,-1
+ 70 906 l 1,37,-1
+ 70 1061 l 1,38,-1
+ 839 1061 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE00C
+Encoding: 57356 57356 16
+Width: 1729
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 929 1500 basechar 0
+AnchorPoint: "TehtaBelow" 929 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 0 m 1,0,-1
+ 128 0 l 1,1,-1
+ 128 1465 l 1,2,-1
+ 316 1465 l 1,3,-1
+ 316 928 l 1,4,5
+ 425 1085 425 1085 616 1085 c 0,6,7
+ 811 1085 811 1085 927 893 c 1,8,9
+ 981 990 981 990 1061.5 1037.5 c 128,-1,10
+ 1142 1085 1142 1085 1235 1085 c 0,11,12
+ 1332 1085 1332 1085 1407.5 1048 c 128,-1,13
+ 1483 1011 1483 1011 1535 941.5 c 128,-1,14
+ 1587 872 1587 872 1613.5 772.5 c 128,-1,15
+ 1640 673 1640 673 1640 549 c 0,16,17
+ 1640 414 1640 414 1600 279 c 128,-1,18
+ 1560 144 1560 144 1481 0 c 1,19,-1
+ 1298 0 l 1,20,21
+ 1350 121 1350 121 1382.5 207.5 c 128,-1,22
+ 1415 294 1415 294 1427 346 c 0,23,24
+ 1437 400 1437 400 1443.5 453.5 c 128,-1,25
+ 1450 507 1450 507 1450 555 c 0,26,27
+ 1450 643 1450 643 1433.5 714 c 128,-1,28
+ 1417 785 1417 785 1388 834 c 128,-1,29
+ 1359 883 1359 883 1318.5 909.5 c 128,-1,30
+ 1278 936 1278 936 1229 936 c 0,31,32
+ 1177 936 1177 936 1135 908.5 c 128,-1,33
+ 1093 881 1093 881 1063.5 830.5 c 128,-1,34
+ 1034 780 1034 780 1018 708.5 c 128,-1,35
+ 1002 637 1002 637 1002 549 c 0,36,37
+ 1002 413 1002 413 962.5 278 c 128,-1,38
+ 923 143 923 143 845 0 c 1,39,-1
+ 660 0 l 1,40,41
+ 713 122 713 122 743.5 205 c 128,-1,42
+ 774 288 774 288 790 348.5 c 128,-1,43
+ 806 409 806 409 810 456.5 c 128,-1,44
+ 814 504 814 504 814 555 c 0,45,46
+ 814 640 814 640 798 710 c 128,-1,47
+ 782 780 782 780 753 830.5 c 128,-1,48
+ 724 881 724 881 683.5 908.5 c 128,-1,49
+ 643 936 643 936 594 936 c 256,50,51
+ 545 936 545 936 498.5 914.5 c 128,-1,52
+ 452 893 452 893 413.5 857.5 c 128,-1,53
+ 375 822 375 822 349 776 c 128,-1,54
+ 323 730 323 730 316 681 c 1,55,-1
+ 316 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE00D
+Encoding: 57357 57357 17
+Width: 1810
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 1010 1500 basechar 0
+AnchorPoint: "TehtaBelow" 1010 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1721 0 m 1,0,-1
+ 129 0 l 1,1,-1
+ 129 1465 l 1,2,-1
+ 316 1465 l 1,3,-1
+ 316 928 l 1,4,5
+ 425 1085 425 1085 617 1085 c 0,6,7
+ 713 1085 713 1085 792 1037 c 128,-1,8
+ 871 989 871 989 928 892 c 1,9,10
+ 982 989 982 989 1062 1037 c 128,-1,11
+ 1142 1085 1142 1085 1235 1085 c 0,12,13
+ 1335 1085 1335 1085 1411 1046.5 c 128,-1,14
+ 1487 1008 1487 1008 1538 937.5 c 128,-1,15
+ 1589 867 1589 867 1615 768.5 c 128,-1,16
+ 1641 670 1641 670 1641 549 c 0,17,18
+ 1641 356 1641 356 1558 155 c 1,19,-1
+ 1721 155 l 1,20,-1
+ 1721 0 l 1,0,-1
+1363 155 m 1,21,22
+ 1393 231 1393 231 1411 286 c 128,-1,23
+ 1429 341 1429 341 1438 386 c 128,-1,24
+ 1447 431 1447 431 1449.5 470.5 c 128,-1,25
+ 1452 510 1452 510 1452 555 c 0,26,27
+ 1452 639 1452 639 1436 709 c 128,-1,28
+ 1420 779 1420 779 1391 829.5 c 128,-1,29
+ 1362 880 1362 880 1320 908 c 128,-1,30
+ 1278 936 1278 936 1227 936 c 256,31,32
+ 1176 936 1176 936 1134.5 908.5 c 128,-1,33
+ 1093 881 1093 881 1063.5 830 c 128,-1,34
+ 1034 779 1034 779 1018 707.5 c 128,-1,35
+ 1002 636 1002 636 1002 549 c 2,36,-1
+ 1002 544 l 2,37,38
+ 1002 447 1002 447 981.5 351 c 128,-1,39
+ 961 255 961 255 921 155 c 1,40,-1
+ 1363 155 l 1,21,22
+726 155 m 1,41,42
+ 754 223 754 223 771 277.5 c 128,-1,43
+ 788 332 788 332 797.5 378.5 c 128,-1,44
+ 807 425 807 425 810.5 467.5 c 128,-1,45
+ 814 510 814 510 814 555 c 0,46,47
+ 814 643 814 643 797.5 713.5 c 128,-1,48
+ 781 784 781 784 752 833.5 c 128,-1,49
+ 723 883 723 883 683 909.5 c 128,-1,50
+ 643 936 643 936 595 936 c 0,51,52
+ 556 936 556 936 519 922.5 c 128,-1,53
+ 482 909 482 909 450 885.5 c 128,-1,54
+ 418 862 418 862 392 830 c 128,-1,55
+ 366 798 366 798 349 761 c 0,56,57
+ 296 649 296 649 296 467 c 0,58,59
+ 296 369 296 369 301 292 c 128,-1,60
+ 306 215 306 215 315 155 c 1,61,-1
+ 726 155 l 1,41,42
+EndSplineSet
+EndChar
+
+StartChar: uniE00E
+Encoding: 57358 57358 18
+Width: 1731
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 931 1500 basechar 0
+AnchorPoint: "TehtaBelow" 931 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1396 1465 m 1,0,-1
+ 1582 1465 l 1,1,-1
+ 1582 0 l 1,2,-1
+ 1396 0 l 1,3,-1
+ 1396 132 l 1,4,5
+ 1287 -25 1287 -25 1095 -25 c 0,6,7
+ 929 -25 929 -25 819 115 c 1,8,-1
+ 819 114 l 1,9,10
+ 808 126 808 126 800 139 c 128,-1,11
+ 792 152 792 152 784 166 c 1,12,13
+ 757 118 757 118 722.5 82 c 128,-1,14
+ 688 46 688 46 648 22 c 128,-1,15
+ 608 -2 608 -2 565 -13.5 c 128,-1,16
+ 522 -25 522 -25 477 -25 c 0,17,18
+ 378 -25 378 -25 302 13 c 128,-1,19
+ 226 51 226 51 174.5 121 c 128,-1,20
+ 123 191 123 191 97 290.5 c 128,-1,21
+ 71 390 71 390 71 512 c 0,22,23
+ 71 774 71 774 229 1061 c 1,24,-1
+ 414 1061 l 1,25,26
+ 378 979 378 979 353 916 c 128,-1,27
+ 328 853 328 853 311 803.5 c 128,-1,28
+ 294 754 294 754 284 715 c 128,-1,29
+ 274 676 274 676 268.5 642 c 128,-1,30
+ 263 608 263 608 261.5 575.5 c 128,-1,31
+ 260 543 260 543 260 506 c 0,32,33
+ 260 418 260 418 276.5 347.5 c 128,-1,34
+ 293 277 293 277 322 227.5 c 128,-1,35
+ 351 178 351 178 392 151 c 128,-1,36
+ 433 124 433 124 481 124 c 0,37,38
+ 535 124 535 124 577.5 152.5 c 128,-1,39
+ 620 181 620 181 649.5 232 c 128,-1,40
+ 679 283 679 283 694.5 354.5 c 128,-1,41
+ 710 426 710 426 710 512 c 0,42,43
+ 710 781 710 781 867 1061 c 1,44,-1
+ 1051 1061 l 1,45,46
+ 1015 979 1015 979 990 916 c 128,-1,47
+ 965 853 965 853 948 803.5 c 128,-1,48
+ 931 754 931 754 921 715 c 128,-1,49
+ 911 676 911 676 905.5 642 c 128,-1,50
+ 900 608 900 608 898.5 575.5 c 128,-1,51
+ 897 543 897 543 897 506 c 0,52,53
+ 897 417 897 417 913.5 346.5 c 128,-1,54
+ 930 276 930 276 959.5 226.5 c 128,-1,55
+ 989 177 989 177 1029.5 150.5 c 128,-1,56
+ 1070 124 1070 124 1117 124 c 0,57,58
+ 1162 124 1162 124 1208.5 144.5 c 128,-1,59
+ 1255 165 1255 165 1294 200.5 c 128,-1,60
+ 1333 236 1333 236 1360.5 282 c 128,-1,61
+ 1388 328 1388 328 1396 379 c 1,62,-1
+ 1396 1465 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE00F
+Encoding: 57359 57359 19
+Width: 1812
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 1012 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1015 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1475 1061 m 1,0,-1
+ 1475 1465 l 1,1,-1
+ 1663 1465 l 1,2,-1
+ 1663 0 l 1,3,-1
+ 1475 0 l 1,4,-1
+ 1475 132 l 1,5,6
+ 1368 -24 1368 -24 1174 -24 c 0,7,8
+ 1008 -24 1008 -24 899 115 c 1,9,-1
+ 899 114 l 1,10,11
+ 888 126 888 126 880 139 c 128,-1,12
+ 872 152 872 152 864 166 c 1,13,14
+ 809 69 809 69 728 22.5 c 128,-1,15
+ 647 -24 647 -24 556 -24 c 0,16,17
+ 457 -24 457 -24 381.5 13.5 c 128,-1,18
+ 306 51 306 51 254.5 120.5 c 128,-1,19
+ 203 190 203 190 176.5 289.5 c 128,-1,20
+ 150 389 150 389 150 512 c 0,21,22
+ 150 706 150 706 234 906 c 1,23,-1
+ 71 906 l 1,24,-1
+ 71 1061 l 1,25,-1
+ 1475 1061 l 1,0,-1
+428 906 m 1,26,27
+ 404 846 404 846 388 797.5 c 128,-1,28
+ 372 749 372 749 365 715 c 0,29,30
+ 353 658 353 658 346.5 604.5 c 128,-1,31
+ 340 551 340 551 340 506 c 0,32,33
+ 340 417 340 417 356.5 346.5 c 128,-1,34
+ 373 276 373 276 402.5 226.5 c 128,-1,35
+ 432 177 432 177 473 150.5 c 128,-1,36
+ 514 124 514 124 564 124 c 256,37,38
+ 614 124 614 124 655.5 151 c 128,-1,39
+ 697 178 697 178 726.5 228 c 128,-1,40
+ 756 278 756 278 772.5 350 c 128,-1,41
+ 789 422 789 422 789 512 c 0,42,43
+ 789 708 789 708 871 906 c 1,44,-1
+ 428 906 l 1,26,27
+1065 906 m 1,45,46
+ 1041 846 1041 846 1025.5 797.5 c 128,-1,47
+ 1010 749 1010 749 1002 715 c 0,48,49
+ 989 658 989 658 983 604.5 c 128,-1,50
+ 977 551 977 551 977 506 c 0,51,52
+ 977 417 977 417 993.5 346.5 c 128,-1,53
+ 1010 276 1010 276 1039.5 226.5 c 128,-1,54
+ 1069 177 1069 177 1109 150.5 c 128,-1,55
+ 1149 124 1149 124 1197 124 c 0,56,57
+ 1235 124 1235 124 1272.5 138 c 128,-1,58
+ 1310 152 1310 152 1342 176 c 128,-1,59
+ 1374 200 1374 200 1400 232 c 128,-1,60
+ 1426 264 1426 264 1442 300 c 0,61,62
+ 1494 407 1494 407 1494 589 c 2,63,-1
+ 1494 602 l 2,64,65
+ 1493 696 1493 696 1488 771 c 128,-1,66
+ 1483 846 1483 846 1475 906 c 1,67,-1
+ 1065 906 l 1,45,46
+EndSplineSet
+EndChar
+
+StartChar: uniE010
+Encoding: 57360 57360 20
+Width: 1729
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 929 1500 basechar 0
+AnchorPoint: "TehtaBelow" 929 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 0 m 1,0,-1
+ 128 0 l 1,1,-1
+ 128 1061 l 1,2,-1
+ 316 1061 l 1,3,-1
+ 316 928 l 1,4,5
+ 425 1085 425 1085 616 1085 c 0,6,7
+ 811 1085 811 1085 927 893 c 1,8,9
+ 981 990 981 990 1061.5 1037.5 c 128,-1,10
+ 1142 1085 1142 1085 1235 1085 c 0,11,12
+ 1332 1085 1332 1085 1407.5 1048 c 128,-1,13
+ 1483 1011 1483 1011 1535 941.5 c 128,-1,14
+ 1587 872 1587 872 1613.5 772.5 c 128,-1,15
+ 1640 673 1640 673 1640 549 c 0,16,17
+ 1640 414 1640 414 1600 279 c 128,-1,18
+ 1560 144 1560 144 1481 0 c 1,19,-1
+ 1298 0 l 1,20,21
+ 1350 121 1350 121 1382.5 207.5 c 128,-1,22
+ 1415 294 1415 294 1427 346 c 0,23,24
+ 1437 400 1437 400 1443.5 453.5 c 128,-1,25
+ 1450 507 1450 507 1450 555 c 0,26,27
+ 1450 643 1450 643 1433.5 714 c 128,-1,28
+ 1417 785 1417 785 1388 834 c 128,-1,29
+ 1359 883 1359 883 1318.5 909.5 c 128,-1,30
+ 1278 936 1278 936 1229 936 c 0,31,32
+ 1177 936 1177 936 1135 908.5 c 128,-1,33
+ 1093 881 1093 881 1063.5 830.5 c 128,-1,34
+ 1034 780 1034 780 1018 708.5 c 128,-1,35
+ 1002 637 1002 637 1002 549 c 0,36,37
+ 1002 413 1002 413 962.5 278 c 128,-1,38
+ 923 143 923 143 845 0 c 1,39,-1
+ 660 0 l 1,40,41
+ 713 122 713 122 743.5 205 c 128,-1,42
+ 774 288 774 288 790 348.5 c 128,-1,43
+ 806 409 806 409 810 456.5 c 128,-1,44
+ 814 504 814 504 814 555 c 0,45,46
+ 814 640 814 640 798 710 c 128,-1,47
+ 782 780 782 780 753 830.5 c 128,-1,48
+ 724 881 724 881 683.5 908.5 c 128,-1,49
+ 643 936 643 936 594 936 c 256,50,51
+ 545 936 545 936 498.5 914.5 c 128,-1,52
+ 452 893 452 893 413.5 857.5 c 128,-1,53
+ 375 822 375 822 349 776 c 128,-1,54
+ 323 730 323 730 316 681 c 1,55,-1
+ 316 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE011
+Encoding: 57361 57361 21
+Width: 1810
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 1010 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1010 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1721 0 m 1,0,-1
+ 129 0 l 1,1,-1
+ 129 1061 l 1,2,-1
+ 316 1061 l 1,3,-1
+ 316 928 l 1,4,5
+ 425 1085 425 1085 617 1085 c 0,6,7
+ 713 1085 713 1085 792 1037 c 128,-1,8
+ 871 989 871 989 928 892 c 1,9,10
+ 982 989 982 989 1062 1037 c 128,-1,11
+ 1142 1085 1142 1085 1235 1085 c 0,12,13
+ 1335 1085 1335 1085 1411 1046.5 c 128,-1,14
+ 1487 1008 1487 1008 1538 937.5 c 128,-1,15
+ 1589 867 1589 867 1615 768.5 c 128,-1,16
+ 1641 670 1641 670 1641 549 c 0,17,18
+ 1641 356 1641 356 1558 155 c 1,19,-1
+ 1721 155 l 1,20,-1
+ 1721 0 l 1,0,-1
+1363 155 m 1,21,22
+ 1393 231 1393 231 1411 286 c 128,-1,23
+ 1429 341 1429 341 1438 386 c 128,-1,24
+ 1447 431 1447 431 1449.5 470.5 c 128,-1,25
+ 1452 510 1452 510 1452 555 c 0,26,27
+ 1452 639 1452 639 1436 709 c 128,-1,28
+ 1420 779 1420 779 1391 829.5 c 128,-1,29
+ 1362 880 1362 880 1320 908 c 128,-1,30
+ 1278 936 1278 936 1227 936 c 256,31,32
+ 1176 936 1176 936 1134.5 908.5 c 128,-1,33
+ 1093 881 1093 881 1063.5 830 c 128,-1,34
+ 1034 779 1034 779 1018 707.5 c 128,-1,35
+ 1002 636 1002 636 1002 549 c 2,36,-1
+ 1002 544 l 2,37,38
+ 1002 447 1002 447 981.5 351 c 128,-1,39
+ 961 255 961 255 921 155 c 1,40,-1
+ 1363 155 l 1,21,22
+726 155 m 1,41,42
+ 754 223 754 223 771 277.5 c 128,-1,43
+ 788 332 788 332 797.5 378.5 c 128,-1,44
+ 807 425 807 425 810.5 467.5 c 128,-1,45
+ 814 510 814 510 814 555 c 0,46,47
+ 814 643 814 643 797.5 713.5 c 128,-1,48
+ 781 784 781 784 752 833.5 c 128,-1,49
+ 723 883 723 883 683 909.5 c 128,-1,50
+ 643 936 643 936 595 936 c 0,51,52
+ 556 936 556 936 519 922.5 c 128,-1,53
+ 482 909 482 909 450 885.5 c 128,-1,54
+ 418 862 418 862 392 830 c 128,-1,55
+ 366 798 366 798 349 761 c 0,56,57
+ 296 649 296 649 296 467 c 0,58,59
+ 296 369 296 369 301 292 c 128,-1,60
+ 306 215 306 215 315 155 c 1,61,-1
+ 726 155 l 1,41,42
+EndSplineSet
+EndChar
+
+StartChar: uniE012
+Encoding: 57362 57362 22
+Width: 1731
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 931 1500 basechar 0
+AnchorPoint: "TehtaBelow" 931 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1396 1061 m 1,0,-1
+ 1582 1061 l 1,1,-1
+ 1582 0 l 1,2,-1
+ 1396 0 l 1,3,-1
+ 1396 132 l 1,4,5
+ 1287 -25 1287 -25 1095 -25 c 0,6,7
+ 929 -25 929 -25 819 115 c 1,8,-1
+ 819 114 l 1,9,10
+ 808 126 808 126 800 139 c 128,-1,11
+ 792 152 792 152 784 166 c 1,12,13
+ 757 118 757 118 722.5 82 c 128,-1,14
+ 688 46 688 46 648 22 c 128,-1,15
+ 608 -2 608 -2 565 -13.5 c 128,-1,16
+ 522 -25 522 -25 477 -25 c 0,17,18
+ 378 -25 378 -25 302 13 c 128,-1,19
+ 226 51 226 51 174.5 121 c 128,-1,20
+ 123 191 123 191 97 290.5 c 128,-1,21
+ 71 390 71 390 71 512 c 0,22,23
+ 71 774 71 774 229 1061 c 1,24,-1
+ 414 1061 l 1,25,26
+ 378 979 378 979 353 916 c 128,-1,27
+ 328 853 328 853 311 803.5 c 128,-1,28
+ 294 754 294 754 284 715 c 128,-1,29
+ 274 676 274 676 268.5 642 c 128,-1,30
+ 263 608 263 608 261.5 575.5 c 128,-1,31
+ 260 543 260 543 260 506 c 0,32,33
+ 260 418 260 418 276.5 347.5 c 128,-1,34
+ 293 277 293 277 322 227.5 c 128,-1,35
+ 351 178 351 178 392 151 c 128,-1,36
+ 433 124 433 124 481 124 c 0,37,38
+ 535 124 535 124 577.5 152.5 c 128,-1,39
+ 620 181 620 181 649.5 232 c 128,-1,40
+ 679 283 679 283 694.5 354.5 c 128,-1,41
+ 710 426 710 426 710 512 c 0,42,43
+ 710 781 710 781 867 1061 c 1,44,-1
+ 1051 1061 l 1,45,46
+ 1015 979 1015 979 990 916 c 128,-1,47
+ 965 853 965 853 948 803.5 c 128,-1,48
+ 931 754 931 754 921 715 c 128,-1,49
+ 911 676 911 676 905.5 642 c 128,-1,50
+ 900 608 900 608 898.5 575.5 c 128,-1,51
+ 897 543 897 543 897 506 c 0,52,53
+ 897 417 897 417 913.5 346.5 c 128,-1,54
+ 930 276 930 276 959.5 226.5 c 128,-1,55
+ 989 177 989 177 1029.5 150.5 c 128,-1,56
+ 1070 124 1070 124 1117 124 c 0,57,58
+ 1162 124 1162 124 1208.5 144.5 c 128,-1,59
+ 1255 165 1255 165 1294 200.5 c 128,-1,60
+ 1333 236 1333 236 1360.5 282 c 128,-1,61
+ 1388 328 1388 328 1396 379 c 1,62,-1
+ 1396 1061 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE013
+Encoding: 57363 57363 23
+Width: 1812
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 1012 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1015 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+71 1061 m 1,0,-1
+ 1663 1061 l 1,1,-1
+ 1663 0 l 1,2,-1
+ 1475 0 l 1,3,-1
+ 1475 132 l 1,4,5
+ 1366 -25 1366 -25 1174 -25 c 0,6,7
+ 1009 -25 1009 -25 899 115 c 1,8,-1
+ 899 114 l 1,9,10
+ 888 126 888 126 880 139 c 128,-1,11
+ 872 152 872 152 864 166 c 1,12,13
+ 809 69 809 69 728 22 c 128,-1,14
+ 647 -25 647 -25 556 -25 c 0,15,16
+ 458 -25 458 -25 382 13 c 128,-1,17
+ 306 51 306 51 254.5 120.5 c 128,-1,18
+ 203 190 203 190 176.5 289.5 c 128,-1,19
+ 150 389 150 389 150 512 c 0,20,21
+ 150 706 150 706 234 906 c 1,22,-1
+ 71 906 l 1,23,-1
+ 71 1061 l 1,0,-1
+428 906 m 1,24,25
+ 404 846 404 846 388 797.5 c 128,-1,26
+ 372 749 372 749 365 715 c 0,27,28
+ 353 658 353 658 346.5 604.5 c 128,-1,29
+ 340 551 340 551 340 506 c 0,30,31
+ 340 417 340 417 356.5 346.5 c 128,-1,32
+ 373 276 373 276 402.5 226.5 c 128,-1,33
+ 432 177 432 177 473 150.5 c 128,-1,34
+ 514 124 514 124 564 124 c 256,35,36
+ 614 124 614 124 655.5 151 c 128,-1,37
+ 697 178 697 178 726.5 228 c 128,-1,38
+ 756 278 756 278 772.5 350 c 128,-1,39
+ 789 422 789 422 789 512 c 0,40,41
+ 789 708 789 708 871 906 c 1,42,-1
+ 428 906 l 1,24,25
+1065 906 m 1,43,44
+ 1041 846 1041 846 1025.5 797.5 c 128,-1,45
+ 1010 749 1010 749 1002 715 c 0,46,47
+ 989 658 989 658 983 604.5 c 128,-1,48
+ 977 551 977 551 977 506 c 0,49,50
+ 977 417 977 417 993.5 346.5 c 128,-1,51
+ 1010 276 1010 276 1039.5 226.5 c 128,-1,52
+ 1069 177 1069 177 1109 150.5 c 128,-1,53
+ 1149 124 1149 124 1197 124 c 0,54,55
+ 1235 124 1235 124 1272.5 138 c 128,-1,56
+ 1310 152 1310 152 1342 176 c 128,-1,57
+ 1374 200 1374 200 1400 232 c 128,-1,58
+ 1426 264 1426 264 1442 300 c 0,59,60
+ 1494 407 1494 407 1494 589 c 2,61,-1
+ 1494 602 l 2,62,63
+ 1493 696 1493 696 1488 771 c 128,-1,64
+ 1483 846 1483 846 1475 906 c 1,65,-1
+ 1065 906 l 1,43,44
+EndSplineSet
+EndChar
+
+StartChar: uniE014
+Encoding: 57364 57364 24
+Width: 1093
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 593 1500 basechar 0
+AnchorPoint: "TehtaBelow" 593 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+315 0 m 1,0,-1
+ 127 0 l 1,1,-1
+ 127 1061 l 1,2,-1
+ 315 1061 l 1,3,-1
+ 315 928 l 1,4,5
+ 424 1085 424 1085 618 1085 c 0,6,7
+ 702 1085 702 1085 773.5 1049.5 c 128,-1,8
+ 845 1014 845 1014 897 946 c 128,-1,9
+ 949 878 949 878 978.5 778 c 128,-1,10
+ 1008 678 1008 678 1008 549 c 0,11,12
+ 1008 414 1008 414 968 279 c 128,-1,13
+ 928 144 928 144 849 0 c 1,14,-1
+ 664 0 l 1,15,16
+ 718 121 718 121 750 207.5 c 128,-1,17
+ 782 294 782 294 793 346 c 0,18,19
+ 805 401 805 401 811.5 452.5 c 128,-1,20
+ 818 504 818 504 818 555 c 0,21,22
+ 818 642 818 642 802 712.5 c 128,-1,23
+ 786 783 786 783 757 832.5 c 128,-1,24
+ 728 882 728 882 687 909 c 128,-1,25
+ 646 936 646 936 596 936 c 0,26,27
+ 542 936 542 936 494.5 912.5 c 128,-1,28
+ 447 889 447 889 410.5 851.5 c 128,-1,29
+ 374 814 374 814 349 768 c 128,-1,30
+ 324 722 324 722 315 677 c 1,31,-1
+ 315 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE015
+Encoding: 57365 57365 25
+Width: 1170
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 670 1500 basechar 0
+AnchorPoint: "TehtaBelow" 670 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+730 155 m 1,0,1
+ 755 218 755 218 770 264.5 c 128,-1,2
+ 785 311 785 311 793 346 c 0,3,4
+ 821 465 821 465 821 555 c 0,5,6
+ 821 636 821 636 805 706 c 128,-1,7
+ 789 776 789 776 760 827 c 128,-1,8
+ 731 878 731 878 689.5 907 c 128,-1,9
+ 648 936 648 936 596 936 c 0,10,11
+ 556 936 556 936 518.5 922.5 c 128,-1,12
+ 481 909 481 909 448.5 885 c 128,-1,13
+ 416 861 416 861 390 829 c 128,-1,14
+ 364 797 364 797 348 761 c 0,15,16
+ 322 704 322 704 308.5 631.5 c 128,-1,17
+ 295 559 295 559 295 468 c 0,18,19
+ 295 369 295 369 300 292 c 128,-1,20
+ 305 215 305 215 314 155 c 1,21,-1
+ 730 155 l 1,0,1
+1084 0 m 1,22,-1
+ 127 0 l 1,23,-1
+ 127 1061 l 1,24,-1
+ 315 1061 l 1,25,-1
+ 315 928 l 1,26,27
+ 424 1085 424 1085 618 1085 c 0,28,29
+ 702 1085 702 1085 773.5 1049.5 c 128,-1,30
+ 845 1014 845 1014 897 946 c 128,-1,31
+ 949 878 949 878 978.5 778 c 128,-1,32
+ 1008 678 1008 678 1008 549 c 0,33,34
+ 1008 354 1008 354 925 155 c 1,35,-1
+ 1084 155 l 1,36,-1
+ 1084 0 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE016
+Encoding: 57366 57366 26
+Width: 1095
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 595 1500 basechar 0
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+763 1061 m 1,0,-1
+ 950 1061 l 1,1,-1
+ 950 0 l 1,2,-1
+ 763 0 l 1,3,-1
+ 763 132 l 1,4,5
+ 654 -25 654 -25 459 -25 c 0,6,7
+ 375 -25 375 -25 303.5 11 c 128,-1,8
+ 232 47 232 47 180 115.5 c 128,-1,9
+ 128 184 128 184 98.5 284 c 128,-1,10
+ 69 384 69 384 69 512 c 0,11,12
+ 69 646 69 646 109 781 c 128,-1,13
+ 149 916 149 916 228 1061 c 1,14,-1
+ 413 1061 l 1,15,16
+ 359 939 359 939 328 857.5 c 128,-1,17
+ 297 776 297 776 282 716 c 128,-1,18
+ 267 656 267 656 263 608 c 128,-1,19
+ 259 560 259 560 259 506 c 0,20,21
+ 259 417 259 417 275.5 346.5 c 128,-1,22
+ 292 276 292 276 321.5 226.5 c 128,-1,23
+ 351 177 351 177 391 150.5 c 128,-1,24
+ 431 124 431 124 478 124 c 2,25,-1
+ 482 124 l 2,26,27
+ 537 124 537 124 584 147.5 c 128,-1,28
+ 631 171 631 171 668 208 c 128,-1,29
+ 705 245 705 245 729.5 291.5 c 128,-1,30
+ 754 338 754 338 763 383 c 1,31,-1
+ 763 1061 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE017
+Encoding: 57367 57367 27
+Width: 1172
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 906 m 1,0,1
+ 393 830 393 830 375 771.5 c 128,-1,2
+ 357 713 357 713 347.5 666 c 128,-1,3
+ 338 619 338 619 335.5 580.5 c 128,-1,4
+ 333 542 333 542 333 506 c 0,5,6
+ 333 422 333 422 349 351.5 c 128,-1,7
+ 365 281 365 281 394.5 230.5 c 128,-1,8
+ 424 180 424 180 465.5 152 c 128,-1,9
+ 507 124 507 124 558 124 c 0,10,11
+ 597 124 597 124 633.5 137 c 128,-1,12
+ 670 150 670 150 702.5 173.5 c 128,-1,13
+ 735 197 735 197 761.5 229 c 128,-1,14
+ 788 261 788 261 806 299 c 0,15,16
+ 858 407 858 407 858 589 c 2,17,-1
+ 858 602 l 2,18,19
+ 857 696 857 696 852 771 c 128,-1,20
+ 847 846 847 846 839 906 c 1,21,-1
+ 424 906 l 1,0,1
+70 1061 m 1,22,-1
+ 1026 1061 l 1,23,-1
+ 1026 0 l 1,24,-1
+ 839 0 l 1,25,-1
+ 839 132 l 1,26,27
+ 730 -25 730 -25 536 -25 c 0,28,29
+ 452 -25 452 -25 380.5 10 c 128,-1,30
+ 309 45 309 45 257 113.5 c 128,-1,31
+ 205 182 205 182 175.5 282 c 128,-1,32
+ 146 382 146 382 146 512 c 0,33,34
+ 146 705 146 705 228 906 c 1,35,-1
+ 70 906 l 1,36,-1
+ 70 1061 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE018
+Encoding: 57368 57368 28
+Width: 1093
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 593 1500 basechar 0
+AnchorPoint: "TehtaBelow" 593 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+315 -406 m 1,0,-1
+ 127 -406 l 1,1,-1
+ 127 1465 l 1,2,-1
+ 315 1465 l 1,3,-1
+ 315 928 l 1,4,5
+ 424 1085 424 1085 617 1085 c 0,6,7
+ 701 1085 701 1085 773 1050 c 128,-1,8
+ 845 1015 845 1015 897 946.5 c 128,-1,9
+ 949 878 949 878 978.5 778 c 128,-1,10
+ 1008 678 1008 678 1008 549 c 0,11,12
+ 1008 414 1008 414 968 279 c 128,-1,13
+ 928 144 928 144 849 0 c 1,14,-1
+ 664 0 l 1,15,16
+ 718 121 718 121 750 207.5 c 128,-1,17
+ 782 294 782 294 793 346 c 0,18,19
+ 805 401 805 401 811.5 452.5 c 128,-1,20
+ 818 504 818 504 818 555 c 0,21,22
+ 818 641 818 641 802 711.5 c 128,-1,23
+ 786 782 786 782 757 832 c 128,-1,24
+ 728 882 728 882 687 909 c 128,-1,25
+ 646 936 646 936 596 936 c 0,26,27
+ 540 936 540 936 492.5 912 c 128,-1,28
+ 445 888 445 888 408.5 850 c 128,-1,29
+ 372 812 372 812 348 766 c 128,-1,30
+ 324 720 324 720 315 677 c 1,31,-1
+ 315 -406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE019
+Encoding: 57369 57369 29
+Width: 1170
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 670 1500 basechar 0
+AnchorPoint: "TehtaBelow" 670 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+730 155 m 1,0,1
+ 755 218 755 218 770 264.5 c 128,-1,2
+ 785 311 785 311 793 346 c 0,3,4
+ 821 465 821 465 821 555 c 0,5,6
+ 821 636 821 636 805 706 c 128,-1,7
+ 789 776 789 776 760 827 c 128,-1,8
+ 731 878 731 878 689.5 907 c 128,-1,9
+ 648 936 648 936 596 936 c 0,10,11
+ 556 936 556 936 518.5 922.5 c 128,-1,12
+ 481 909 481 909 448.5 885 c 128,-1,13
+ 416 861 416 861 390 829 c 128,-1,14
+ 364 797 364 797 348 761 c 0,15,16
+ 322 704 322 704 308.5 631.5 c 128,-1,17
+ 295 559 295 559 295 468 c 0,18,19
+ 295 369 295 369 300 292 c 128,-1,20
+ 305 215 305 215 314 155 c 1,21,-1
+ 730 155 l 1,0,1
+315 0 m 1,22,-1
+ 315 -406 l 1,23,-1
+ 127 -406 l 1,24,-1
+ 127 1465 l 1,25,-1
+ 315 1465 l 1,26,-1
+ 315 928 l 1,27,28
+ 424 1085 424 1085 618 1085 c 0,29,30
+ 702 1085 702 1085 773.5 1049.5 c 128,-1,31
+ 845 1014 845 1014 897 946 c 128,-1,32
+ 949 878 949 878 978.5 778 c 128,-1,33
+ 1008 678 1008 678 1008 549 c 0,34,35
+ 1008 354 1008 354 925 155 c 1,36,-1
+ 1084 155 l 1,37,-1
+ 1084 0 l 1,38,-1
+ 315 0 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE01A
+Encoding: 57370 57370 30
+Width: 1095
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 595 1500 basechar 0
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+763 1465 m 1,0,-1
+ 950 1465 l 1,1,-1
+ 950 -406 l 1,2,-1
+ 763 -406 l 1,3,-1
+ 763 132 l 1,4,5
+ 654 -25 654 -25 459 -25 c 0,6,7
+ 375 -25 375 -25 303.5 11 c 128,-1,8
+ 232 47 232 47 180 115.5 c 128,-1,9
+ 128 184 128 184 98.5 284 c 128,-1,10
+ 69 384 69 384 69 512 c 0,11,12
+ 69 646 69 646 109 781 c 128,-1,13
+ 149 916 149 916 228 1061 c 1,14,-1
+ 413 1061 l 1,15,16
+ 359 939 359 939 328 857.5 c 128,-1,17
+ 297 776 297 776 282 716 c 128,-1,18
+ 267 656 267 656 263 608 c 128,-1,19
+ 259 560 259 560 259 506 c 0,20,21
+ 259 417 259 417 275.5 346.5 c 128,-1,22
+ 292 276 292 276 321.5 226.5 c 128,-1,23
+ 351 177 351 177 391 150.5 c 128,-1,24
+ 431 124 431 124 478 124 c 2,25,-1
+ 482 124 l 2,26,27
+ 537 124 537 124 584 147.5 c 128,-1,28
+ 631 171 631 171 668 208 c 128,-1,29
+ 705 245 705 245 729.5 291.5 c 128,-1,30
+ 754 338 754 338 763 383 c 1,31,-1
+ 763 1465 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE01B
+Encoding: 57371 57371 31
+Width: 1172
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+424 906 m 1,0,1
+ 393 830 393 830 375 771.5 c 128,-1,2
+ 357 713 357 713 347.5 666 c 128,-1,3
+ 338 619 338 619 335.5 580.5 c 128,-1,4
+ 333 542 333 542 333 506 c 0,5,6
+ 333 422 333 422 349 351.5 c 128,-1,7
+ 365 281 365 281 394.5 230.5 c 128,-1,8
+ 424 180 424 180 465.5 152 c 128,-1,9
+ 507 124 507 124 558 124 c 0,10,11
+ 597 124 597 124 633.5 137 c 128,-1,12
+ 670 150 670 150 702.5 173.5 c 128,-1,13
+ 735 197 735 197 761.5 229 c 128,-1,14
+ 788 261 788 261 806 299 c 0,15,16
+ 858 407 858 407 858 589 c 2,17,-1
+ 858 602 l 2,18,19
+ 857 696 857 696 852 771 c 128,-1,20
+ 847 846 847 846 839 906 c 1,21,-1
+ 424 906 l 1,0,1
+839 1061 m 1,22,-1
+ 839 1465 l 1,23,-1
+ 1026 1465 l 1,24,-1
+ 1026 -405 l 1,25,-1
+ 839 -405 l 1,26,-1
+ 839 132 l 1,27,28
+ 730 -25 730 -25 536 -25 c 0,29,30
+ 452 -25 452 -25 380.5 10 c 128,-1,31
+ 309 45 309 45 257 113.5 c 128,-1,32
+ 205 182 205 182 175.5 282 c 128,-1,33
+ 146 382 146 382 146 512 c 0,34,35
+ 146 705 146 705 228 906 c 1,36,-1
+ 70 906 l 1,37,-1
+ 70 1061 l 1,38,-1
+ 839 1061 l 1,22,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE01C
+Encoding: 57372 57372 32
+Width: 1729
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 929 1500 basechar 0
+AnchorPoint: "TehtaBelow" 929 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 -406 m 1,0,-1
+ 128 -406 l 1,1,-1
+ 128 1465 l 1,2,-1
+ 316 1465 l 1,3,-1
+ 316 928 l 1,4,5
+ 425 1085 425 1085 616 1085 c 0,6,7
+ 811 1085 811 1085 927 893 c 1,8,9
+ 981 990 981 990 1061.5 1037.5 c 128,-1,10
+ 1142 1085 1142 1085 1235 1085 c 0,11,12
+ 1332 1085 1332 1085 1407.5 1048 c 128,-1,13
+ 1483 1011 1483 1011 1535 941.5 c 128,-1,14
+ 1587 872 1587 872 1613.5 772.5 c 128,-1,15
+ 1640 673 1640 673 1640 549 c 0,16,17
+ 1640 414 1640 414 1600 279 c 128,-1,18
+ 1560 144 1560 144 1481 0 c 1,19,-1
+ 1298 0 l 1,20,21
+ 1350 121 1350 121 1382.5 207.5 c 128,-1,22
+ 1415 294 1415 294 1427 346 c 0,23,24
+ 1437 400 1437 400 1443.5 453.5 c 128,-1,25
+ 1450 507 1450 507 1450 555 c 0,26,27
+ 1450 643 1450 643 1433.5 714 c 128,-1,28
+ 1417 785 1417 785 1388 834 c 128,-1,29
+ 1359 883 1359 883 1318.5 909.5 c 128,-1,30
+ 1278 936 1278 936 1229 936 c 0,31,32
+ 1177 936 1177 936 1135 908.5 c 128,-1,33
+ 1093 881 1093 881 1063.5 830.5 c 128,-1,34
+ 1034 780 1034 780 1018 708.5 c 128,-1,35
+ 1002 637 1002 637 1002 549 c 0,36,37
+ 1002 413 1002 413 962.5 278 c 128,-1,38
+ 923 143 923 143 845 0 c 1,39,-1
+ 660 0 l 1,40,41
+ 713 122 713 122 743.5 205 c 128,-1,42
+ 774 288 774 288 790 348.5 c 128,-1,43
+ 806 409 806 409 810 456.5 c 128,-1,44
+ 814 504 814 504 814 555 c 0,45,46
+ 814 640 814 640 798 710 c 128,-1,47
+ 782 780 782 780 753 830.5 c 128,-1,48
+ 724 881 724 881 683.5 908.5 c 128,-1,49
+ 643 936 643 936 594 936 c 256,50,51
+ 545 936 545 936 498.5 914.5 c 128,-1,52
+ 452 893 452 893 413.5 857.5 c 128,-1,53
+ 375 822 375 822 349 776 c 128,-1,54
+ 323 730 323 730 316 681 c 1,55,-1
+ 316 -406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE01D
+Encoding: 57373 57373 33
+Width: 1810
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 1010 1500 basechar 0
+AnchorPoint: "TehtaBelow" 1010 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+316 0 m 1,0,-1
+ 316 -406 l 1,1,-1
+ 129 -406 l 1,2,-1
+ 129 1465 l 1,3,-1
+ 316 1465 l 1,4,-1
+ 316 928 l 1,5,6
+ 425 1085 425 1085 617 1085 c 0,7,8
+ 713 1085 713 1085 792 1037 c 128,-1,9
+ 871 989 871 989 928 892 c 1,10,11
+ 982 989 982 989 1062 1037 c 128,-1,12
+ 1142 1085 1142 1085 1235 1085 c 0,13,14
+ 1335 1085 1335 1085 1411 1046.5 c 128,-1,15
+ 1487 1008 1487 1008 1538 937.5 c 128,-1,16
+ 1589 867 1589 867 1615 768.5 c 128,-1,17
+ 1641 670 1641 670 1641 549 c 0,18,19
+ 1641 356 1641 356 1558 155 c 1,20,-1
+ 1721 155 l 1,21,-1
+ 1721 0 l 1,22,-1
+ 316 0 l 1,0,-1
+1363 155 m 1,23,24
+ 1393 231 1393 231 1411 286 c 128,-1,25
+ 1429 341 1429 341 1438 386 c 128,-1,26
+ 1447 431 1447 431 1449.5 470.5 c 128,-1,27
+ 1452 510 1452 510 1452 555 c 0,28,29
+ 1452 639 1452 639 1436 709 c 128,-1,30
+ 1420 779 1420 779 1391 829.5 c 128,-1,31
+ 1362 880 1362 880 1320 908 c 128,-1,32
+ 1278 936 1278 936 1227 936 c 256,33,34
+ 1176 936 1176 936 1134.5 908.5 c 128,-1,35
+ 1093 881 1093 881 1063.5 830 c 128,-1,36
+ 1034 779 1034 779 1018 707.5 c 128,-1,37
+ 1002 636 1002 636 1002 549 c 2,38,-1
+ 1002 544 l 2,39,40
+ 1002 447 1002 447 981.5 351 c 128,-1,41
+ 961 255 961 255 921 155 c 1,42,-1
+ 1363 155 l 1,23,24
+726 155 m 1,43,44
+ 754 223 754 223 771 277.5 c 128,-1,45
+ 788 332 788 332 797.5 378.5 c 128,-1,46
+ 807 425 807 425 810.5 467.5 c 128,-1,47
+ 814 510 814 510 814 555 c 0,48,49
+ 814 643 814 643 797.5 713.5 c 128,-1,50
+ 781 784 781 784 752 833.5 c 128,-1,51
+ 723 883 723 883 683 909.5 c 128,-1,52
+ 643 936 643 936 595 936 c 0,53,54
+ 556 936 556 936 519 922.5 c 128,-1,55
+ 482 909 482 909 450 885.5 c 128,-1,56
+ 418 862 418 862 392 830 c 128,-1,57
+ 366 798 366 798 349 761 c 0,58,59
+ 296 649 296 649 296 467 c 0,60,61
+ 296 369 296 369 301 292 c 128,-1,62
+ 306 215 306 215 315 155 c 1,63,-1
+ 726 155 l 1,43,44
+EndSplineSet
+EndChar
+
+StartChar: uniE01E
+Encoding: 57374 57374 34
+Width: 1731
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 931 1500 basechar 0
+AnchorPoint: "TehtaBelow" 931 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1396 1465 m 1,0,-1
+ 1582 1465 l 1,1,-1
+ 1582 -405 l 1,2,-1
+ 1396 -405 l 1,3,-1
+ 1396 132 l 1,4,5
+ 1287 -25 1287 -25 1095 -25 c 0,6,7
+ 929 -25 929 -25 819 115 c 1,8,-1
+ 819 114 l 1,9,10
+ 808 126 808 126 800 139 c 128,-1,11
+ 792 152 792 152 784 166 c 1,12,13
+ 757 118 757 118 722.5 82 c 128,-1,14
+ 688 46 688 46 648 22 c 128,-1,15
+ 608 -2 608 -2 565 -13.5 c 128,-1,16
+ 522 -25 522 -25 477 -25 c 0,17,18
+ 378 -25 378 -25 302 13 c 128,-1,19
+ 226 51 226 51 174.5 121 c 128,-1,20
+ 123 191 123 191 97 290.5 c 128,-1,21
+ 71 390 71 390 71 512 c 0,22,23
+ 71 774 71 774 229 1061 c 1,24,-1
+ 414 1061 l 1,25,26
+ 378 979 378 979 353 916 c 128,-1,27
+ 328 853 328 853 311 803.5 c 128,-1,28
+ 294 754 294 754 284 715 c 128,-1,29
+ 274 676 274 676 268.5 642 c 128,-1,30
+ 263 608 263 608 261.5 575.5 c 128,-1,31
+ 260 543 260 543 260 506 c 0,32,33
+ 260 418 260 418 276.5 347.5 c 128,-1,34
+ 293 277 293 277 322 227.5 c 128,-1,35
+ 351 178 351 178 392 151 c 128,-1,36
+ 433 124 433 124 481 124 c 0,37,38
+ 535 124 535 124 577.5 152.5 c 128,-1,39
+ 620 181 620 181 649.5 232 c 128,-1,40
+ 679 283 679 283 694.5 354.5 c 128,-1,41
+ 710 426 710 426 710 512 c 0,42,43
+ 710 781 710 781 867 1061 c 1,44,-1
+ 1051 1061 l 1,45,46
+ 1015 979 1015 979 990 916 c 128,-1,47
+ 965 853 965 853 948 803.5 c 128,-1,48
+ 931 754 931 754 921 715 c 128,-1,49
+ 911 676 911 676 905.5 642 c 128,-1,50
+ 900 608 900 608 898.5 575.5 c 128,-1,51
+ 897 543 897 543 897 506 c 0,52,53
+ 897 417 897 417 913.5 346.5 c 128,-1,54
+ 930 276 930 276 959.5 226.5 c 128,-1,55
+ 989 177 989 177 1029.5 150.5 c 128,-1,56
+ 1070 124 1070 124 1117 124 c 0,57,58
+ 1162 124 1162 124 1208.5 144.5 c 128,-1,59
+ 1255 165 1255 165 1294 200.5 c 128,-1,60
+ 1333 236 1333 236 1360.5 282 c 128,-1,61
+ 1388 328 1388 328 1396 379 c 1,62,-1
+ 1396 1465 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE01F
+Encoding: 57375 57375 35
+Width: 1812
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 1012 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1015 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1475 1061 m 1,0,-1
+ 1475 1465 l 1,1,-1
+ 1663 1465 l 1,2,-1
+ 1663 -405 l 1,3,-1
+ 1475 -405 l 1,4,-1
+ 1475 132 l 1,5,6
+ 1368 -24 1368 -24 1174 -24 c 0,7,8
+ 1008 -24 1008 -24 899 115 c 1,9,-1
+ 899 114 l 1,10,11
+ 888 126 888 126 880 139 c 128,-1,12
+ 872 152 872 152 864 166 c 1,13,14
+ 809 69 809 69 728 22.5 c 128,-1,15
+ 647 -24 647 -24 556 -24 c 0,16,17
+ 457 -24 457 -24 381.5 13.5 c 128,-1,18
+ 306 51 306 51 254.5 120.5 c 128,-1,19
+ 203 190 203 190 176.5 289.5 c 128,-1,20
+ 150 389 150 389 150 512 c 0,21,22
+ 150 706 150 706 234 906 c 1,23,-1
+ 71 906 l 1,24,-1
+ 71 1061 l 1,25,-1
+ 1475 1061 l 1,0,-1
+428 906 m 1,26,27
+ 404 846 404 846 388 797.5 c 128,-1,28
+ 372 749 372 749 365 715 c 0,29,30
+ 353 658 353 658 346.5 604.5 c 128,-1,31
+ 340 551 340 551 340 506 c 0,32,33
+ 340 417 340 417 356.5 346.5 c 128,-1,34
+ 373 276 373 276 402.5 226.5 c 128,-1,35
+ 432 177 432 177 473 150.5 c 128,-1,36
+ 514 124 514 124 564 124 c 256,37,38
+ 614 124 614 124 655.5 151 c 128,-1,39
+ 697 178 697 178 726.5 228 c 128,-1,40
+ 756 278 756 278 772.5 350 c 128,-1,41
+ 789 422 789 422 789 512 c 0,42,43
+ 789 708 789 708 871 906 c 1,44,-1
+ 428 906 l 1,26,27
+1065 906 m 1,45,46
+ 1041 846 1041 846 1025.5 797.5 c 128,-1,47
+ 1010 749 1010 749 1002 715 c 0,48,49
+ 989 658 989 658 983 604.5 c 128,-1,50
+ 977 551 977 551 977 506 c 0,51,52
+ 977 417 977 417 993.5 346.5 c 128,-1,53
+ 1010 276 1010 276 1039.5 226.5 c 128,-1,54
+ 1069 177 1069 177 1109 150.5 c 128,-1,55
+ 1149 124 1149 124 1197 124 c 0,56,57
+ 1235 124 1235 124 1272.5 138 c 128,-1,58
+ 1310 152 1310 152 1342 176 c 128,-1,59
+ 1374 200 1374 200 1400 232 c 128,-1,60
+ 1426 264 1426 264 1442 300 c 0,61,62
+ 1494 407 1494 407 1494 589 c 2,63,-1
+ 1494 602 l 2,64,65
+ 1493 696 1493 696 1488 771 c 128,-1,66
+ 1483 846 1483 846 1475 906 c 1,67,-1
+ 1065 906 l 1,45,46
+EndSplineSet
+EndChar
+
+StartChar: uniE020
+Encoding: 57376 57376 36
+Width: 1157
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 857 0 basechar 0
+AnchorPoint: "TehtaAbove" 657 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+630 -66 m 2,0,1
+ 621 -89 621 -89 621 -116 c 0,2,3
+ 621 -144 621 -144 632 -168.5 c 128,-1,4
+ 643 -193 643 -193 662 -211 c 128,-1,5
+ 681 -229 681 -229 705 -239.5 c 128,-1,6
+ 729 -250 729 -250 755 -250 c 2,7,-1
+ 992 -250 l 1,8,-1
+ 992 -406 l 1,9,-1
+ 719 -405 l 2,10,11
+ 659 -405 659 -405 606 -382 c 128,-1,12
+ 553 -359 553 -359 514 -320 c 128,-1,13
+ 475 -281 475 -281 452 -228 c 128,-1,14
+ 429 -175 429 -175 429 -115 c 0,15,16
+ 429 -53 429 -53 448 -9 c 1,17,-1
+ 448 -10 l 1,18,19
+ 478 68 478 68 509 146.5 c 128,-1,20
+ 540 225 540 225 571 303 c 1,21,22
+ 444 493 444 493 318.5 682 c 128,-1,23
+ 193 871 193 871 67 1061 c 1,24,-1
+ 288 1061 l 1,25,-1
+ 652 510 l 1,26,27
+ 706 648 706 648 760 785.5 c 128,-1,28
+ 814 923 814 923 868 1061 c 1,29,-1
+ 1073 1061 l 1,30,-1
+ 630 -66 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE021
+Encoding: 57377 57377 37
+Width: 1157
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 857 0 basechar 0
+AnchorPoint: "TehtaAbove" 657 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+68 1061 m 1,0,-1
+ 288 1061 l 1,1,-1
+ 652 510 l 1,2,3
+ 706 648 706 648 760 785.5 c 128,-1,4
+ 814 923 814 923 868 1061 c 1,5,-1
+ 1073 1061 l 1,6,-1
+ 631 -66 l 2,7,8
+ 622 -89 622 -89 622 -116 c 0,9,10
+ 622 -145 622 -145 633 -169.5 c 128,-1,11
+ 644 -194 644 -194 663 -212 c 128,-1,12
+ 682 -230 682 -230 705.5 -240 c 128,-1,13
+ 729 -250 729 -250 755 -250 c 2,14,-1
+ 993 -250 l 1,15,-1
+ 993 -406 l 1,16,-1
+ 719 -405 l 2,17,18
+ 659 -405 659 -405 606 -382 c 128,-1,19
+ 553 -359 553 -359 514 -320 c 128,-1,20
+ 475 -281 475 -281 452 -228 c 128,-1,21
+ 429 -175 429 -175 429 -115 c 0,22,23
+ 429 -53 429 -53 448 -9 c 1,24,-1
+ 448 -10 l 1,25,26
+ 478 68 478 68 509.5 146.5 c 128,-1,27
+ 541 225 541 225 572 303 c 1,28,29
+ 532 363 532 363 493 421.5 c 128,-1,30
+ 454 480 454 480 414 540 c 1,31,-1
+ 415 538 l 1,32,33
+ 388 550 388 550 359 550 c 0,34,35
+ 332 550 332 550 308 539 c 128,-1,36
+ 284 528 284 528 265.5 509.5 c 128,-1,37
+ 247 491 247 491 236 467 c 128,-1,38
+ 225 443 225 443 225 416 c 0,39,40
+ 225 387 225 387 236 362.5 c 128,-1,41
+ 247 338 247 338 266 320 c 128,-1,42
+ 285 302 285 302 309 291.5 c 128,-1,43
+ 333 281 333 281 359 281 c 2,44,-1
+ 448 280 l 1,45,-1
+ 448 125 l 1,46,-1
+ 360 126 l 2,47,48
+ 303 127 303 127 250.5 148 c 128,-1,49
+ 198 169 198 169 158 207 c 128,-1,50
+ 118 245 118 245 94 298 c 128,-1,51
+ 70 351 70 351 70 415 c 0,52,53
+ 70 467 70 467 88 515 c 128,-1,54
+ 106 563 106 563 138 601.5 c 128,-1,55
+ 170 640 170 640 213 666 c 128,-1,56
+ 256 692 256 692 306 701 c 1,57,-1
+ 68 1061 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: lambe
+Encoding: 57378 57378 38
+Width: 1217
+GlyphClass: 1
+Flags: W
+AnchorPoint: "LambeXhook" 417 0 basechar 0
+AnchorPoint: "TehtaAbove" 717 1500 basechar 0
+AnchorPoint: "TehtaBelow" 717 300 basechar 0
+AnchorPoint: "LambeBar" 917 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+703 906 m 1,0,1
+ 699 880 699 880 692.5 857.5 c 128,-1,2
+ 686 835 686 835 678 817 c 1,3,-1
+ 678 818 l 1,4,5
+ 669 792 669 792 656 768.5 c 128,-1,6
+ 643 745 643 745 620.5 718.5 c 128,-1,7
+ 598 692 598 692 564 659.5 c 128,-1,8
+ 530 627 530 627 479 583 c 0,9,10
+ 437 547 437 547 408.5 519 c 128,-1,11
+ 380 491 380 491 362.5 461 c 128,-1,12
+ 345 431 345 431 338 393.5 c 128,-1,13
+ 331 356 331 356 331 301 c 0,14,15
+ 331 249 331 249 336.5 213.5 c 128,-1,16
+ 342 178 342 178 353.5 151 c 128,-1,17
+ 365 124 365 124 381.5 102.5 c 128,-1,18
+ 398 81 398 81 419 58 c 0,19,20
+ 507 -38 507 -38 637 -38 c 0,21,22
+ 700 -38 700 -38 756 -11 c 128,-1,23
+ 812 16 812 16 857 58 c 1,24,25
+ 890 100 890 100 912 157.5 c 128,-1,26
+ 934 215 934 215 941 290 c 1,27,-1
+ 1131 267 l 1,28,29
+ 1123 187 1123 187 1104 126 c 128,-1,30
+ 1085 65 1085 65 1055 18 c 128,-1,31
+ 1025 -29 1025 -29 985 -64 c 128,-1,32
+ 945 -99 945 -99 895 -125 c 0,33,34
+ 776 -188 776 -188 637 -188 c 0,35,36
+ 557 -188 557 -188 485.5 -168 c 128,-1,37
+ 414 -148 414 -148 355 -111.5 c 128,-1,38
+ 296 -75 296 -75 250 -23 c 128,-1,39
+ 204 29 204 29 174 93 c 0,40,41
+ 140 164 140 164 140 296 c 0,42,43
+ 140 371 140 371 154 427 c 128,-1,44
+ 168 483 168 483 195.5 529.5 c 128,-1,45
+ 223 576 223 576 264 618 c 128,-1,46
+ 305 660 305 660 360 707 c 0,47,48
+ 405 745 405 745 431 770 c 128,-1,49
+ 457 795 457 795 472.5 815 c 128,-1,50
+ 488 835 488 835 496 853.5 c 128,-1,51
+ 504 872 504 872 512 898 c 0,52,53
+ 513 899 513 899 513.5 902.5 c 128,-1,54
+ 514 906 514 906 514 905 c 1,55,-1
+ 514 906 l 1,56,-1
+ 70 906 l 1,57,-1
+ 70 1061 l 1,58,-1
+ 1131 1061 l 1,59,-1
+ 1131 906 l 1,60,-1
+ 703 906 l 1,0,1
+EndSplineSet
+Kerns2: 36 -50 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -50 "'kern' Horizontal Kerning in Latin lookup 2-1"
+EndChar
+
+StartChar: alda
+Encoding: 57379 57379 39
+Width: 1367
+GlyphClass: 1
+Flags: W
+AnchorPoint: "LambeXhook" 417 0 basechar 0
+AnchorPoint: "TehtaBelow" 717 300 basechar 0
+AnchorPoint: "TehtaAbove" 717 1500 basechar 0
+AnchorPoint: "LambeBar" 917 800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+957 -26 m 0,0,1
+ 888 -79 888 -79 807 -101.5 c 128,-1,2
+ 726 -124 726 -124 638 -124 c 0,3,4
+ 558 -124 558 -124 486 -105 c 128,-1,5
+ 414 -86 414 -86 354.5 -51 c 128,-1,6
+ 295 -16 295 -16 249 33 c 128,-1,7
+ 203 82 203 82 174 141 c 0,8,9
+ 157 176 157 176 149 223.5 c 128,-1,10
+ 141 271 141 271 141 334 c 0,11,12
+ 141 407 141 407 155 461 c 128,-1,13
+ 169 515 169 515 196.5 559 c 128,-1,14
+ 224 603 224 603 265 642.5 c 128,-1,15
+ 306 682 306 682 360 726 c 0,16,17
+ 405 763 405 763 431.5 786.5 c 128,-1,18
+ 458 810 458 810 474 829 c 128,-1,19
+ 490 848 490 848 498 866.5 c 128,-1,20
+ 506 885 506 885 515 911 c 1,21,-1
+ 515 910 l 1,22,23
+ 516 912 516 912 515.5 912 c 128,-1,24
+ 515 912 515 912 516 914 c 1,25,-1
+ 70 914 l 1,26,-1
+ 70 1061 l 1,27,-1
+ 1131 1061 l 1,28,-1
+ 1131 914 l 1,29,-1
+ 703 914 l 1,30,31
+ 699 890 699 890 692.5 868.5 c 128,-1,32
+ 686 847 686 847 679 829 c 1,33,-1
+ 679 830 l 1,34,35
+ 668 803 668 803 650 775.5 c 128,-1,36
+ 632 748 632 748 607 722 c 0,37,38
+ 599 713 599 713 580.5 697 c 128,-1,39
+ 562 681 562 681 538.5 660.5 c 128,-1,40
+ 515 640 515 640 488.5 616.5 c 128,-1,41
+ 462 593 462 593 437.5 570 c 128,-1,42
+ 413 547 413 547 393 526 c 128,-1,43
+ 373 505 373 505 363 490 c 0,44,45
+ 347 467 347 467 339 428.5 c 128,-1,46
+ 331 390 331 390 331 339 c 0,47,48
+ 331 291 331 291 336.5 258.5 c 128,-1,49
+ 342 226 342 226 353 200.5 c 128,-1,50
+ 364 175 364 175 380.5 153.5 c 128,-1,51
+ 397 132 397 132 419 108 c 0,52,53
+ 507 17 507 17 638 17 c 0,54,55
+ 757 17 757 17 843 95 c 0,56,57
+ 923 169 923 169 1037 169 c 0,58,59
+ 1097 169 1097 169 1150 145 c 128,-1,60
+ 1203 121 1203 121 1242.5 81 c 128,-1,61
+ 1282 41 1282 41 1304.5 -11.5 c 128,-1,62
+ 1327 -64 1327 -64 1327 -121 c 0,63,64
+ 1327 -180 1327 -180 1304.5 -232.5 c 128,-1,65
+ 1282 -285 1282 -285 1243 -324.5 c 128,-1,66
+ 1204 -364 1204 -364 1151 -387 c 128,-1,67
+ 1098 -410 1098 -410 1037 -410 c 2,68,-1
+ 948 -410 l 1,69,-1
+ 948 -255 l 1,70,-1
+ 1031 -255 l 2,71,72
+ 1056 -254 1056 -254 1079 -244 c 128,-1,73
+ 1102 -234 1102 -234 1119 -217 c 128,-1,74
+ 1136 -200 1136 -200 1146 -177.5 c 128,-1,75
+ 1156 -155 1156 -155 1156 -129 c 0,76,77
+ 1156 -104 1156 -104 1146 -81.5 c 128,-1,78
+ 1136 -59 1136 -59 1118.5 -41.5 c 128,-1,79
+ 1101 -24 1101 -24 1078.5 -13.5 c 128,-1,80
+ 1056 -3 1056 -3 1031 -3 c 0,81,82
+ 992 -3 992 -3 957 -26 c 0,0,1
+EndSplineSet
+Kerns2: 36 -200 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -200 "'kern' Horizontal Kerning in Latin lookup 2-1"
+EndChar
+
+StartChar: uniE024
+Encoding: 57380 57380 40
+Width: 1102
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 302 1500 basechar 0
+AnchorPoint: "TehtaBelow" 602 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+306 580 m 2,0,1
+ 303 577 303 577 298 569 c 128,-1,2
+ 293 561 293 561 288 552 c 1,3,-1
+ 289 552 l 1,4,5
+ 261 497 261 497 261 435 c 0,6,7
+ 261 378 261 378 282.5 326 c 128,-1,8
+ 304 274 304 274 341.5 234 c 128,-1,9
+ 379 194 379 194 429.5 170 c 128,-1,10
+ 480 146 480 146 538 146 c 0,11,12
+ 593 146 593 146 640 165 c 128,-1,13
+ 687 184 687 184 724 224 c 128,-1,14
+ 761 264 761 264 787 326.5 c 128,-1,15
+ 813 389 813 389 826 476 c 1,16,-1
+ 1016 451 l 1,17,18
+ 1004 332 1004 332 965.5 242.5 c 128,-1,19
+ 927 153 927 153 866 93.5 c 128,-1,20
+ 805 34 805 34 723 4.5 c 128,-1,21
+ 641 -25 641 -25 541 -25 c 0,22,23
+ 433 -25 433 -25 346 10.5 c 128,-1,24
+ 259 46 259 46 197.5 106.5 c 128,-1,25
+ 136 167 136 167 103 248.5 c 128,-1,26
+ 70 330 70 330 70 422 c 0,27,28
+ 70 494 70 494 88 558 c 128,-1,29
+ 106 622 106 622 152 680 c 1,30,31
+ 252 822 252 822 356.5 969.5 c 128,-1,32
+ 461 1117 461 1117 561 1260 c 0,33,34
+ 582 1290 582 1290 597.5 1337 c 128,-1,35
+ 613 1384 613 1384 618 1464 c 1,36,-1
+ 802 1465 l 1,37,38
+ 796 1411 796 1411 788.5 1366.5 c 128,-1,39
+ 781 1322 781 1322 770 1284 c 128,-1,40
+ 759 1246 759 1246 743.5 1213 c 128,-1,41
+ 728 1180 728 1180 707 1150 c 2,42,-1
+ 306 580 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE025
+Encoding: 57381 57381 41
+Width: 1102
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 802 -200 basechar 0
+AnchorPoint: "TehtaAbove" 602 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+783 485 m 2,0,1
+ 784 486 784 486 783.5 486 c 128,-1,2
+ 783 486 783 486 784 487 c 1,3,-1
+ 784 486 l 1,4,5
+ 786 488 786 488 789 495.5 c 128,-1,6
+ 792 503 792 503 797 511 c 0,7,8
+ 825 561 825 561 825 627 c 0,9,10
+ 825 681 825 681 804.5 732.5 c 128,-1,11
+ 784 784 784 784 747 824.5 c 128,-1,12
+ 710 865 710 865 659 890 c 128,-1,13
+ 608 915 608 915 548 915 c 0,14,15
+ 491 915 491 915 443.5 895.5 c 128,-1,16
+ 396 876 396 876 359 835.5 c 128,-1,17
+ 322 795 322 795 297 733 c 128,-1,18
+ 272 671 272 671 261 586 c 1,19,-1
+ 70 611 l 1,20,21
+ 82 727 82 727 119 816 c 128,-1,22
+ 156 905 156 905 216.5 965 c 128,-1,23
+ 277 1025 277 1025 359.5 1056 c 128,-1,24
+ 442 1087 442 1087 545 1087 c 0,25,26
+ 654 1087 654 1087 741 1051 c 128,-1,27
+ 828 1015 828 1015 889 954 c 128,-1,28
+ 950 893 950 893 983 812 c 128,-1,29
+ 1016 731 1016 731 1016 640 c 0,30,31
+ 1016 601 1016 601 1012 570.5 c 128,-1,32
+ 1008 540 1008 540 998.5 511 c 128,-1,33
+ 989 482 989 482 973.5 451.5 c 128,-1,34
+ 958 421 958 421 935 382 c 2,35,-1
+ 525 -198 l 2,36,37
+ 502 -233 502 -233 486 -281 c 128,-1,38
+ 470 -329 470 -329 468 -401 c 1,39,-1
+ 285 -402 l 1,40,41
+ 293 -299 293 -299 315.5 -223.5 c 128,-1,42
+ 338 -148 338 -148 379 -88 c 2,43,-1
+ 783 485 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE026
+Encoding: 57382 57382 42
+Width: 1102
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 602 -500 basechar 0
+AnchorPoint: "TehtaAbove" 302 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+541 76 m 0,0,1
+ 389 76 389 76 283 140 c 1,2,3
+ 261 93 261 93 261 36 c 0,4,5
+ 261 -20 261 -20 283 -72 c 128,-1,6
+ 305 -124 305 -124 342.5 -164 c 128,-1,7
+ 380 -204 380 -204 430.5 -228 c 128,-1,8
+ 481 -252 481 -252 538 -252 c 0,9,10
+ 594 -252 594 -252 641 -233 c 128,-1,11
+ 688 -214 688 -214 725 -174.5 c 128,-1,12
+ 762 -135 762 -135 787.5 -72.5 c 128,-1,13
+ 813 -10 813 -10 826 77 c 1,14,-1
+ 1016 52 l 1,15,16
+ 1004 -67 1004 -67 965 -156.5 c 128,-1,17
+ 926 -246 926 -246 864.5 -305.5 c 128,-1,18
+ 803 -365 803 -365 721 -394.5 c 128,-1,19
+ 639 -424 639 -424 541 -424 c 0,20,21
+ 433 -424 433 -424 346 -388 c 128,-1,22
+ 259 -352 259 -352 197.5 -291 c 128,-1,23
+ 136 -230 136 -230 103 -149 c 128,-1,24
+ 70 -68 70 -68 70 22 c 0,25,26
+ 70 91 70 91 87 154 c 128,-1,27
+ 104 217 104 217 145 271 c 1,28,29
+ 70 380 70 380 70 523 c 0,30,31
+ 70 598 70 598 89 659.5 c 128,-1,32
+ 108 721 108 721 152 781 c 1,33,-1
+ 561 1261 l 1,34,-1
+ 561 1260 l 1,35,36
+ 582 1289 582 1289 597 1336.5 c 128,-1,37
+ 612 1384 612 1384 618 1464 c 1,38,-1
+ 802 1465 l 1,39,40
+ 796 1410 796 1410 788.5 1365.5 c 128,-1,41
+ 781 1321 781 1321 769.5 1283 c 128,-1,42
+ 758 1245 758 1245 742 1211.5 c 128,-1,43
+ 726 1178 726 1178 704 1145 c 1,44,-1
+ 306 681 l 1,45,-1
+ 306 682 l 1,46,47
+ 295 664 295 664 291.5 658.5 c 128,-1,48
+ 288 653 288 653 288 652 c 1,49,-1
+ 289 653 l 1,50,51
+ 261 601 261 601 261 537 c 0,52,53
+ 261 479 261 479 283 426.5 c 128,-1,54
+ 305 374 305 374 343 334.5 c 128,-1,55
+ 381 295 381 295 431 271.5 c 128,-1,56
+ 481 248 481 248 538 248 c 0,57,58
+ 592 248 592 248 639 266 c 128,-1,59
+ 686 284 686 284 723 324 c 128,-1,60
+ 760 364 760 364 786.5 426.5 c 128,-1,61
+ 813 489 813 489 826 579 c 1,62,-1
+ 1016 553 l 1,63,64
+ 1004 434 1004 434 965.5 344.5 c 128,-1,65
+ 927 255 927 255 866 195.5 c 128,-1,66
+ 805 136 805 136 723 106 c 128,-1,67
+ 641 76 641 76 541 76 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE027
+Encoding: 57383 57383 43
+Width: 1102
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 602 1800 basechar 0
+AnchorPoint: "TehtaBelow" 802 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+545 987 m 0,0,1
+ 697 987 697 987 803 922 c 1,2,3
+ 825 969 825 969 825 1027 c 0,4,5
+ 825 1081 825 1081 804.5 1132.5 c 128,-1,6
+ 784 1184 784 1184 747 1224.5 c 128,-1,7
+ 710 1265 710 1265 659 1290 c 128,-1,8
+ 608 1315 608 1315 548 1315 c 0,9,10
+ 491 1315 491 1315 443.5 1295.5 c 128,-1,11
+ 396 1276 396 1276 359 1235.5 c 128,-1,12
+ 322 1195 322 1195 297 1133 c 128,-1,13
+ 272 1071 272 1071 261 986 c 1,14,-1
+ 70 1011 l 1,15,16
+ 82 1127 82 1127 119 1216 c 128,-1,17
+ 156 1305 156 1305 216.5 1365 c 128,-1,18
+ 277 1425 277 1425 359.5 1456 c 128,-1,19
+ 442 1487 442 1487 545 1487 c 0,20,21
+ 654 1487 654 1487 741 1451 c 128,-1,22
+ 828 1415 828 1415 889 1354 c 128,-1,23
+ 950 1293 950 1293 983 1212 c 128,-1,24
+ 1016 1131 1016 1131 1016 1040 c 0,25,26
+ 1016 971 1016 971 998 908 c 128,-1,27
+ 980 845 980 845 941 791 c 1,28,29
+ 1016 681 1016 681 1016 539 c 0,30,31
+ 1016 500 1016 500 1012 468 c 128,-1,32
+ 1008 436 1008 436 998 406 c 128,-1,33
+ 988 376 988 376 972 345.5 c 128,-1,34
+ 956 315 956 315 932 278 c 1,35,-1
+ 525 -197 l 1,36,-1
+ 525 -196 l 1,37,38
+ 501 -230 501 -230 485.5 -278 c 128,-1,39
+ 470 -326 470 -326 468 -401 c 1,40,-1
+ 285 -401 l 1,41,42
+ 291 -345 291 -345 298.5 -300 c 128,-1,43
+ 306 -255 306 -255 317.5 -217 c 128,-1,44
+ 329 -179 329 -179 344.5 -146 c 128,-1,45
+ 360 -113 360 -113 383 -81 c 2,46,-1
+ 781 382 l 2,47,48
+ 782 383 782 383 782.5 384 c 128,-1,49
+ 783 385 783 385 784 386 c 1,50,-1
+ 784 385 l 1,51,52
+ 786 387 786 387 789 394.5 c 128,-1,53
+ 792 402 792 402 797 410 c 0,54,55
+ 825 460 825 460 825 526 c 0,56,57
+ 825 583 825 583 803 635 c 128,-1,58
+ 781 687 781 687 743.5 727 c 128,-1,59
+ 706 767 706 767 655.5 791 c 128,-1,60
+ 605 815 605 815 548 815 c 0,61,62
+ 494 815 494 815 446.5 796 c 128,-1,63
+ 399 777 399 777 361.5 737 c 128,-1,64
+ 324 697 324 697 298 634.5 c 128,-1,65
+ 272 572 272 572 261 484 c 1,66,-1
+ 70 510 l 1,67,68
+ 82 627 82 627 120.5 716 c 128,-1,69
+ 159 805 159 805 220 865.5 c 128,-1,70
+ 281 926 281 926 363 956.5 c 128,-1,71
+ 445 987 445 987 545 987 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE028
+Encoding: 57384 57384 44
+Width: 1248
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 848 1500 basechar 0
+AnchorPoint: "TehtaBelow" 648 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+553 882 m 1,0,1
+ 538 920 538 920 512.5 975.5 c 128,-1,2
+ 487 1031 487 1031 451 1107 c 0,3,4
+ 379 1256 379 1256 357 1275 c 0,5,6
+ 304 1320 304 1320 238 1320 c 0,7,8
+ 150 1320 150 1320 70 1273 c 1,9,-1
+ 70 1447 l 1,10,11
+ 182 1483 182 1483 256 1483 c 0,12,13
+ 319 1483 319 1483 363 1469.5 c 128,-1,14
+ 407 1456 407 1456 445.5 1418.5 c 128,-1,15
+ 484 1381 484 1381 523.5 1313 c 128,-1,16
+ 563 1245 563 1245 616 1137 c 2,17,-1
+ 1165 0 l 1,18,-1
+ 963 0 l 1,19,-1
+ 641 693 l 1,20,21
+ 547 518 547 518 456 346.5 c 128,-1,22
+ 365 175 365 175 271 0 c 1,23,-1
+ 67 0 l 1,24,-1
+ 553 882 l 1,0,1
+EndSplineSet
+Kerns2: 36 -350 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -350 "'kern' Horizontal Kerning in Latin lookup 2-1"
+EndChar
+
+StartChar: uniE029
+Encoding: 57385 57385 45
+Width: 1465
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1377 0 m 1,0,-1
+ 1034 0 l 2,1,2
+ 1005 0 1005 0 978.5 5.5 c 128,-1,3
+ 952 11 952 11 926 26 c 128,-1,4
+ 900 41 900 41 874.5 66.5 c 128,-1,5
+ 849 92 849 92 823 132 c 1,6,7
+ 719 -21 719 -21 528 -21 c 0,8,9
+ 431 -21 431 -21 347 19.5 c 128,-1,10
+ 263 60 263 60 201.5 132.5 c 128,-1,11
+ 140 205 140 205 105 307 c 128,-1,12
+ 70 409 70 409 70 532 c 0,13,14
+ 70 646 70 646 99.5 747 c 128,-1,15
+ 129 848 129 848 186 924 c 128,-1,16
+ 243 1000 243 1000 327 1044 c 128,-1,17
+ 411 1088 411 1088 520 1088 c 0,18,19
+ 611 1088 611 1088 685.5 1050 c 128,-1,20
+ 760 1012 760 1012 807 951 c 1,21,-1
+ 807 1465 l 1,22,-1
+ 992 1465 l 1,23,-1
+ 993 505 l 2,24,25
+ 993 438 993 438 1002.5 377 c 128,-1,26
+ 1012 316 1012 316 1035 269.5 c 128,-1,27
+ 1058 223 1058 223 1096 195.5 c 128,-1,28
+ 1134 168 1134 168 1192 168 c 2,29,-1
+ 1377 168 l 1,30,-1
+ 1377 0 l 1,0,-1
+262 532 m 0,31,32
+ 262 430 262 430 285.5 355 c 128,-1,33
+ 309 280 309 280 348.5 230.5 c 128,-1,34
+ 388 181 388 181 439 157 c 128,-1,35
+ 490 133 490 133 545 133 c 256,36,37
+ 600 133 600 133 650.5 155.5 c 128,-1,38
+ 701 178 701 178 739 225.5 c 128,-1,39
+ 777 273 777 273 799.5 345.5 c 128,-1,40
+ 822 418 822 418 822 517 c 0,41,42
+ 822 625 822 625 799.5 703.5 c 128,-1,43
+ 777 782 777 782 738.5 832.5 c 128,-1,44
+ 700 883 700 883 648 907.5 c 128,-1,45
+ 596 932 596 932 537 932 c 256,46,47
+ 478 932 478 932 427.5 908 c 128,-1,48
+ 377 884 377 884 340 835 c 128,-1,49
+ 303 786 303 786 282.5 710.5 c 128,-1,50
+ 262 635 262 635 262 532 c 0,31,32
+EndSplineSet
+EndChar
+
+StartChar: uniE02A
+Encoding: 57386 57386 46
+Width: 1055
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 555 -200 basechar 0
+AnchorPoint: "TehtaAbove" 555 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+292 0 m 1,0,-1
+ 94 0 l 1,1,-1
+ 466 676 l 1,2,3
+ 437 753 437 753 411 801 c 128,-1,4
+ 385 849 385 849 358.5 876 c 128,-1,5
+ 332 903 332 903 302.5 912.5 c 128,-1,6
+ 273 922 273 922 237 922 c 0,7,8
+ 152 922 152 922 69 875 c 1,9,-1
+ 69 1049 l 1,10,11
+ 183 1085 183 1085 256 1085 c 0,12,13
+ 381 1085 381 1085 447 1018 c 0,14,15
+ 478 986 478 986 521 915 c 128,-1,16
+ 564 844 564 844 615 739 c 0,17,18
+ 703 558 703 558 794 370 c 128,-1,19
+ 885 182 885 182 973 1 c 1,20,-1
+ 777 0 l 1,21,-1
+ 551 488 l 1,22,-1
+ 292 0 l 1,0,-1
+EndSplineSet
+Kerns2: 36 -350 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -350 "'kern' Horizontal Kerning in Latin lookup 2-1"
+EndChar
+
+StartChar: uniE02B
+Encoding: 57387 57387 47
+Width: 1151
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 651 1500 basechar 0
+AnchorPoint: "TehtaBelow" 651 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 530 m 0,0,1
+ 70 664 70 664 106.5 767.5 c 128,-1,2
+ 143 871 143 871 209 941.5 c 128,-1,3
+ 275 1012 275 1012 366.5 1048.5 c 128,-1,4
+ 458 1085 458 1085 568 1085 c 0,5,6
+ 677 1085 677 1085 768.5 1048 c 128,-1,7
+ 860 1011 860 1011 926 941.5 c 128,-1,8
+ 992 872 992 872 1028.5 771.5 c 128,-1,9
+ 1065 671 1065 671 1065 545 c 0,10,11
+ 1065 439 1065 439 1049 359 c 128,-1,12
+ 1033 279 1033 279 1002.5 218.5 c 128,-1,13
+ 972 158 972 158 927.5 115 c 128,-1,14
+ 883 72 883 72 825 40 c 0,15,16
+ 707 -24 707 -24 568 -24 c 0,17,18
+ 458 -24 458 -24 366.5 11.5 c 128,-1,19
+ 275 47 275 47 209 117 c 128,-1,20
+ 143 187 143 187 106.5 290.5 c 128,-1,21
+ 70 394 70 394 70 530 c 0,0,1
+261 530 m 256,22,23
+ 261 432 261 432 284.5 357 c 128,-1,24
+ 308 282 308 282 349 231.5 c 128,-1,25
+ 390 181 390 181 446.5 155.5 c 128,-1,26
+ 503 130 503 130 568 130 c 0,27,28
+ 632 130 632 130 688 154.5 c 128,-1,29
+ 744 179 744 179 785 229.5 c 128,-1,30
+ 826 280 826 280 850 356 c 128,-1,31
+ 874 432 874 432 874 536 c 0,32,33
+ 874 631 874 631 850 704.5 c 128,-1,34
+ 826 778 826 778 785 828 c 128,-1,35
+ 744 878 744 878 688 903.5 c 128,-1,36
+ 632 929 632 929 568 929 c 0,37,38
+ 503 929 503 929 447 903.5 c 128,-1,39
+ 391 878 391 878 349.5 827.5 c 128,-1,40
+ 308 777 308 777 284.5 702.5 c 128,-1,41
+ 261 628 261 628 261 530 c 256,22,23
+EndSplineSet
+EndChar
+
+StartChar: uniE02C
+Encoding: 57388 57388 48
+Width: 290
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 190 1500 basechar 0
+AnchorPoint: "TehtaBelow" 190 -500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+54 -406 m 1,0,-1
+ 54 1061 l 1,1,-1
+ 240 1061 l 1,2,-1
+ 240 -406 l 1,3,-1
+ 54 -406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE02D
+Encoding: 57389 57389 49
+Width: 290
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 190 -200 basechar 0
+AnchorPoint: "TehtaAbove" 190 1800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+54 0 m 1,0,-1
+ 54 1465 l 1,1,-1
+ 240 1465 l 1,2,-1
+ 240 0 l 1,3,-1
+ 54 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE02E
+Encoding: 57390 57390 50
+Width: 290
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 190 -200 basechar 0
+AnchorPoint: "TehtaAbove" 190 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+54 0 m 1,0,-1
+ 54 1061 l 1,1,-1
+ 240 1061 l 1,2,-1
+ 240 0 l 1,3,-1
+ 54 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE02F
+Encoding: 57391 57391 51
+Width: 290
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 190 -500 basechar 0
+AnchorPoint: "TehtaAbove" 190 1800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+54 -406 m 1,0,-1
+ 54 1465 l 1,1,-1
+ 240 1465 l 1,2,-1
+ 240 -406 l 1,3,-1
+ 54 -406 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE030
+Encoding: 57392 57392 52
+Width: 793
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-61 779 m 1,0,1
+ -42 816 -42 816 -22 852 c 0,2,3
+ -2 888 -2 888 22 926 c 0,4,5
+ 128 1085 128 1085 326 1085 c 0,6,7
+ 410 1086 410 1086 482 1050 c 0,8,9
+ 554 1014 554 1014 605 946 c 0,10,11
+ 656 878 656 878 686 777 c 0,12,13
+ 716 677 716 677 716 549 c 0,14,15
+ 716 284 716 284 558 0 c 1,16,-1
+ 373 0 l 1,17,18
+ 408 80 408 80 433 144 c 0,19,20
+ 458 208 458 208 476 258 c 0,21,22
+ 494 308 494 308 503 348 c 0,23,24
+ 512 388 512 388 518 422 c 0,25,26
+ 524 456 524 456 526 489 c 0,27,28
+ 528 521 528 521 527 555 c 0,29,30
+ 528 638 528 638 512 708 c 0,31,32
+ 496 778 496 778 467 828 c 0,33,34
+ 438 878 438 878 396 908 c 0,35,36
+ 354 936 354 936 303 936 c 0,37,38
+ 254 936 254 936 212 916 c 0,39,40
+ 170 896 170 896 133 866 c 0,41,42
+ 96 834 96 834 65 796 c 0,43,44
+ 34 758 34 758 7 718 c 1,45,-1
+ -61 779 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE031
+Encoding: 57393 57393 53
+Width: 871
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+794 155 m 1,0,-1
+ 794 0 l 1,1,-1
+ -56 0 l 1,2,-1
+ -56 155 l 1,3,-1
+ 442 155 l 1,4,5
+ 472 230 472 230 490 286 c 0,6,7
+ 508 342 508 342 516 389 c 0,8,9
+ 526 434 526 434 528 474 c 0,10,11
+ 530 514 530 514 530 555 c 0,12,13
+ 530 638 530 638 514 708 c 0,14,15
+ 498 778 498 778 470 828 c 0,16,17
+ 440 878 440 878 399 908 c 0,18,19
+ 358 936 358 936 307 936 c 0,20,21
+ 256 936 256 936 214 916 c 0,22,23
+ 172 896 172 896 136 866 c 0,24,25
+ 100 834 100 834 68 796 c 0,26,27
+ 37 758 37 758 10 718 c 1,28,-1
+ -58 779 l 1,29,30
+ -38 816 -38 816 -18 852 c 0,31,32
+ 2 888 2 888 25 926 c 0,33,34
+ 131 1085 131 1085 329 1085 c 0,35,36
+ 412 1086 412 1086 484 1050 c 0,37,38
+ 556 1014 556 1014 608 946 c 0,39,40
+ 660 878 660 878 690 777 c 0,41,42
+ 720 677 720 677 719 549 c 0,43,44
+ 719 357 719 357 636 155 c 1,45,-1
+ 794 155 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE032
+Encoding: 57394 57394 54
+Width: 775
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+847 283 m 1,0,1
+ 811 206 811 206 773 149 c 128,-1,2
+ 735 92 735 92 689 53.5 c 128,-1,3
+ 643 15 643 15 587 -4 c 128,-1,4
+ 531 -23 531 -23 459 -23 c 0,5,6
+ 374 -23 374 -23 302.5 12.5 c 128,-1,7
+ 231 48 231 48 179 116.5 c 128,-1,8
+ 127 185 127 185 98 284.5 c 128,-1,9
+ 69 384 69 384 69 513 c 0,10,11
+ 69 647 69 647 109 781.5 c 128,-1,12
+ 149 916 149 916 228 1061 c 1,13,-1
+ 413 1061 l 1,14,15
+ 308 824 308 824 284 716 c 0,16,17
+ 259 609 259 609 259 506 c 0,18,19
+ 259 420 259 420 275 350 c 128,-1,20
+ 291 280 291 280 320 230 c 128,-1,21
+ 349 180 349 180 390.5 152.5 c 128,-1,22
+ 432 125 432 125 482 125 c 0,23,24
+ 531 125 531 125 572.5 144.5 c 128,-1,25
+ 614 164 614 164 650.5 195 c 128,-1,26
+ 687 226 687 226 719 265 c 128,-1,27
+ 751 304 751 304 780 343 c 1,28,-1
+ 847 283 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE033
+Encoding: 57395 57395 55
+Width: 856
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+69 906 m 1,0,-1
+ 69 1061 l 1,1,-1
+ 920 1061 l 1,2,-1
+ 920 906 l 1,3,-1
+ 421 906 l 1,4,5
+ 396 844 396 844 382 796 c 0,6,7
+ 368 748 368 748 359 716 c 0,8,9
+ 334 607 334 607 334 506 c 0,10,11
+ 334 417 334 417 350 346 c 0,12,13
+ 366 275 366 275 396 226 c 0,14,15
+ 426 177 426 177 467 151 c 0,16,17
+ 508 125 508 125 557 125 c 256,18,19
+ 606 125 606 125 648 144 c 0,20,21
+ 690 163 690 163 725 194 c 0,22,23
+ 760 225 760 225 792 264 c 0,24,25
+ 824 303 824 303 854 343 c 1,26,-1
+ 923 283 l 1,27,28
+ 886 208 886 208 848 151 c 0,29,30
+ 810 94 810 94 764 55 c 0,31,32
+ 718 16 718 16 663 -4 c 0,33,34
+ 607 -24 607 -24 535 -23 c 0,35,36
+ 449 -23 449 -23 377 13 c 0,37,38
+ 306 50 306 50 254 118 c 0,39,40
+ 202 186 202 186 173 286 c 0,41,42
+ 144 386 144 386 144 513 c 0,43,44
+ 144 705 144 705 227 906 c 1,45,-1
+ 69 906 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE034
+Encoding: 57396 57396 56
+Width: 1058
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+256 0 m 1,0,-1
+ 69 0 l 1,1,-1
+ 69 1061 l 1,2,-1
+ 256 1061 l 1,3,-1
+ 256 997 l 1,4,5
+ 322 1042 322 1042 394 1064 c 0,6,7
+ 466 1086 466 1086 548 1085 c 0,8,9
+ 632 1085 632 1085 703 1063 c 0,10,11
+ 774 1041 774 1041 829 999 c 0,12,13
+ 884 957 884 957 921 895 c 0,14,15
+ 958 833 958 833 974 752 c 1,16,-1
+ 793 724 l 1,17,18
+ 766 827 766 827 706 880 c 0,19,20
+ 646 933 646 933 555 933 c 0,21,22
+ 490 932 490 932 435 910 c 0,23,24
+ 380 888 380 888 340 841 c 0,25,26
+ 300 794 300 794 278 720 c 0,27,28
+ 256 646 256 646 256 544 c 2,29,-1
+ 256 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE035
+Encoding: 57397 57397 57
+Width: 1895
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
+AnchorPoint: "TehtaAbove" 595 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+902 92 m 1,0,1
+ 833 34 833 34 751 5 c 128,-1,2
+ 669 -24 669 -24 569 -24 c 0,3,4
+ 458 -24 458 -24 366.5 12.5 c 128,-1,5
+ 275 49 275 49 209 119.5 c 128,-1,6
+ 143 190 143 190 107 293.5 c 128,-1,7
+ 71 397 71 397 71 530 c 256,8,9
+ 71 663 71 663 107 766.5 c 128,-1,10
+ 143 870 143 870 209 941 c 128,-1,11
+ 275 1012 275 1012 367.5 1048.5 c 128,-1,12
+ 460 1085 460 1085 573 1085 c 1,13,-1
+ 573 929 l 1,14,15
+ 505 929 505 929 448.5 903.5 c 128,-1,16
+ 392 878 392 878 350.5 827.5 c 128,-1,17
+ 309 777 309 777 286 702.5 c 128,-1,18
+ 263 628 263 628 263 530 c 256,19,20
+ 263 432 263 432 286.5 357 c 128,-1,21
+ 310 282 310 282 351 232 c 128,-1,22
+ 392 182 392 182 448 156.5 c 128,-1,23
+ 504 131 504 131 569 131 c 0,24,25
+ 700 131 700 131 789 230 c 0,26,27
+ 811 255 811 255 831.5 286.5 c 128,-1,28
+ 852 318 852 318 868 356 c 128,-1,29
+ 884 394 884 394 893.5 438 c 128,-1,30
+ 903 482 903 482 903 532 c 2,31,-1
+ 902 1061 l 1,32,-1
+ 1087 1061 l 1,33,-1
+ 1087 997 l 1,34,35
+ 1152 1039 1152 1039 1225.5 1062 c 128,-1,36
+ 1299 1085 1299 1085 1380 1085 c 0,37,38
+ 1552 1085 1552 1085 1663 999 c 128,-1,39
+ 1774 913 1774 913 1806 752 c 1,40,-1
+ 1624 724 l 1,41,42
+ 1594 833 1594 833 1534.5 883 c 128,-1,43
+ 1475 933 1475 933 1387 933 c 0,44,45
+ 1322 933 1322 933 1267 910.5 c 128,-1,46
+ 1212 888 1212 888 1172 841 c 128,-1,47
+ 1132 794 1132 794 1109.5 720 c 128,-1,48
+ 1087 646 1087 646 1087 544 c 2,49,-1
+ 1087 0 l 1,50,-1
+ 902 0 l 1,51,-1
+ 902 92 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE036
+Encoding: 57398 57398 58
+Width: 1078
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 578 -200 basechar 0
+AnchorPoint: "TehtaAbove" 578 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+937 0 m 1,0,-1
+ 769 0 l 1,1,-1
+ 769 153 l 1,2,3
+ 647 -24 647 -24 437 -24 c 0,4,5
+ 381 -24 381 -24 327.5 -10.5 c 128,-1,6
+ 274 3 274 3 230 28.5 c 128,-1,7
+ 186 54 186 54 153 90 c 128,-1,8
+ 120 126 120 126 105 171 c 0,9,10
+ 73 264 73 264 73 404 c 2,11,-1
+ 73 1061 l 1,12,-1
+ 260 1061 l 1,13,-1
+ 260 473 l 2,14,15
+ 260 407 260 407 262 359.5 c 128,-1,16
+ 264 312 264 312 272.5 277.5 c 128,-1,17
+ 281 243 281 243 297 219 c 128,-1,18
+ 313 195 313 195 341 177 c 0,19,20
+ 395 138 395 138 474 138 c 0,21,22
+ 522 138 522 138 570 155 c 128,-1,23
+ 618 172 618 172 663 207 c 0,24,25
+ 750 274 750 274 750 494 c 2,26,-1
+ 750 1061 l 1,27,-1
+ 937 1061 l 1,28,-1
+ 937 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE037
+Encoding: 57399 57399 59
+Width: 1172
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+839 155 m 1,0,1
+ 847 215 847 215 852 289 c 128,-1,2
+ 857 363 857 363 858 459 c 2,3,-1
+ 858 471 l 2,4,5
+ 858 622 858 622 822 722.5 c 128,-1,6
+ 786 823 786 823 707 884 c 0,7,8
+ 674 910 674 910 635.5 923 c 128,-1,9
+ 597 936 597 936 558 936 c 0,10,11
+ 507 936 507 936 465.5 908 c 128,-1,12
+ 424 880 424 880 394.5 829.5 c 128,-1,13
+ 365 779 365 779 349 709 c 128,-1,14
+ 333 639 333 639 333 555 c 0,15,16
+ 333 518 333 518 336 478.5 c 128,-1,17
+ 339 439 339 439 348.5 392 c 128,-1,18
+ 358 345 358 345 376 287 c 128,-1,19
+ 394 229 394 229 424 155 c 1,20,-1
+ 839 155 l 1,0,1
+839 0 m 1,21,-1
+ 70 0 l 1,22,-1
+ 70 155 l 1,23,-1
+ 228 155 l 1,24,25
+ 146 356 146 356 146 549 c 0,26,27
+ 146 678 146 678 175.5 778 c 128,-1,28
+ 205 878 205 878 257 946 c 128,-1,29
+ 309 1014 309 1014 380.5 1049.5 c 128,-1,30
+ 452 1085 452 1085 536 1085 c 0,31,32
+ 730 1085 730 1085 838 927 c 1,33,-1
+ 839 1061 l 1,34,-1
+ 1026 1061 l 1,35,-1
+ 1026 -406 l 1,36,-1
+ 839 -406 l 1,37,-1
+ 839 0 l 1,21,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE038
+Encoding: 57400 57400 60
+Width: 1172
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
+AnchorPoint: "TehtaAbove" 672 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+839 155 m 1,0,1
+ 847 215 847 215 852 289 c 128,-1,2
+ 857 363 857 363 858 459 c 2,3,-1
+ 858 471 l 2,4,5
+ 858 622 858 622 822 722.5 c 128,-1,6
+ 786 823 786 823 707 884 c 0,7,8
+ 674 910 674 910 635.5 923 c 128,-1,9
+ 597 936 597 936 558 936 c 0,10,11
+ 507 936 507 936 465.5 908 c 128,-1,12
+ 424 880 424 880 394.5 829.5 c 128,-1,13
+ 365 779 365 779 349 709 c 128,-1,14
+ 333 639 333 639 333 555 c 0,15,16
+ 333 518 333 518 336 478.5 c 128,-1,17
+ 339 439 339 439 348.5 392 c 128,-1,18
+ 358 345 358 345 376 287 c 128,-1,19
+ 394 229 394 229 424 155 c 1,20,-1
+ 839 155 l 1,0,1
+70 0 m 1,21,-1
+ 70 155 l 1,22,-1
+ 228 155 l 1,23,24
+ 146 356 146 356 146 549 c 0,25,26
+ 146 678 146 678 175.5 778 c 128,-1,27
+ 205 878 205 878 257 946 c 128,-1,28
+ 309 1014 309 1014 380.5 1049.5 c 128,-1,29
+ 452 1085 452 1085 536 1085 c 0,30,31
+ 730 1085 730 1085 838 927 c 1,32,-1
+ 839 1465 l 1,33,-1
+ 1026 1465 l 1,34,-1
+ 1026 0 l 1,35,-1
+ 70 0 l 1,21,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE039
+Encoding: 57401 57401 61
+Width: 1108
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+543 213 m 1,0,1
+ 612 189 612 189 674 168 c 0,2,3
+ 736 147 736 147 780 147 c 0,4,5
+ 810 148 810 148 842 156 c 0,6,7
+ 874 164 874 164 906 180 c 0,8,9
+ 938 196 938 196 966 216 c 0,10,11
+ 996 237 996 237 1022 262 c 1,12,-1
+ 1022 81 l 1,13,14
+ 990 57 990 57 961 39 c 0,15,16
+ 932 22 932 22 902 10 c 0,17,18
+ 872 -2 872 -2 837 -8 c 0,19,20
+ 803 -14 803 -14 762 -13 c 0,21,22
+ 730 -12 730 -12 704 -10 c 0,23,24
+ 678 -8 678 -8 650 -0 c 0,25,26
+ 622 8 622 8 586 20 c 0,27,28
+ 550 32 550 32 496 53 c 0,29,30
+ 442 74 442 74 394 84 c 0,31,32
+ 346 94 346 94 315 95 c 0,33,34
+ 286 95 286 95 260 91 c 0,35,36
+ 234 87 234 87 207 75 c 0,37,38
+ 179 63 179 63 146 40 c 0,39,40
+ 113 17 113 17 70 -20 c 1,41,-1
+ 70 156 l 1,42,43
+ 170 255 170 255 331 255 c 2,44,-1
+ 342 255 l 2,45,46
+ 345 254 345 254 347 254 c 0,47,48
+ 349 254 349 254 353 254 c 0,49,50
+ 358 259 358 259 364 272 c 0,51,52
+ 370 285 370 285 382 302 c 2,53,-1
+ 784 871 l 2,54,55
+ 787 876 787 876 790 882 c 0,56,57
+ 793 888 793 888 797 893 c 1,58,-1
+ 796 893 l 1,59,60
+ 797 895 797 895 798 896 c 0,61,62
+ 799 897 799 897 800 899 c 0,63,64
+ 828 951 828 951 828 1015 c 0,65,66
+ 828 1072 828 1072 806 1124 c 0,67,68
+ 784 1176 784 1176 746 1216 c 0,69,70
+ 708 1256 708 1256 658 1280 c 0,71,72
+ 608 1304 608 1304 551 1304 c 256,73,74
+ 494 1304 494 1304 446 1284 c 0,75,76
+ 398 1264 398 1264 362 1224 c 0,77,78
+ 325 1184 325 1184 300 1122 c 0,79,80
+ 275 1060 275 1060 264 975 c 1,81,-1
+ 73 999 l 1,82,83
+ 86 1114 86 1114 122 1202 c 0,84,85
+ 158 1290 158 1290 218 1352 c 0,86,87
+ 278 1412 278 1412 361 1444 c 0,88,89
+ 444 1476 444 1476 548 1476 c 0,90,91
+ 656 1476 656 1476 743 1440 c 0,92,93
+ 830 1404 830 1404 892 1344 c 0,94,95
+ 954 1284 954 1284 986 1202 c 0,96,97
+ 1019 1120 1019 1120 1019 1029 c 0,98,99
+ 1018 991 1018 991 1014 959 c 0,100,101
+ 1010 927 1010 927 1000 897 c 0,102,103
+ 990 866 990 866 974 836 c 0,104,105
+ 958 806 958 806 937 771 c 2,106,-1
+ 543 213 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE03A
+Encoding: 57402 57402 62
+Width: 1970
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 1010 1500 basechar 0
+AnchorPoint: "TehtaBelow" 1010 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+682 155 m 1,0,1
+ 712 230 712 230 730 286 c 128,-1,2
+ 748 342 748 342 757 388 c 128,-1,3
+ 766 434 766 434 768.5 474 c 128,-1,4
+ 771 514 771 514 771 555 c 0,5,6
+ 771 639 771 639 755 709 c 128,-1,7
+ 739 779 739 779 710 829.5 c 128,-1,8
+ 681 880 681 880 640 908 c 128,-1,9
+ 599 936 599 936 550 936 c 0,10,11
+ 512 936 512 936 475.5 922.5 c 128,-1,12
+ 439 909 439 909 406.5 885.5 c 128,-1,13
+ 374 862 374 862 348 830 c 128,-1,14
+ 322 798 322 798 305 761 c 0,15,16
+ 253 651 253 651 253 467 c 0,17,18
+ 253 369 253 369 258 292 c 128,-1,19
+ 263 215 263 215 271 155 c 1,20,-1
+ 682 155 l 1,0,1
+1320 155 m 1,21,22
+ 1349 229 1349 229 1366.5 284 c 128,-1,23
+ 1384 339 1384 339 1393 385 c 128,-1,24
+ 1402 431 1402 431 1404.5 471 c 128,-1,25
+ 1407 511 1407 511 1407 555 c 0,26,27
+ 1407 641 1407 641 1391 711.5 c 128,-1,28
+ 1375 782 1375 782 1346 832 c 128,-1,29
+ 1317 882 1317 882 1275.5 909 c 128,-1,30
+ 1234 936 1234 936 1183 936 c 256,31,32
+ 1132 936 1132 936 1090.5 908.5 c 128,-1,33
+ 1049 881 1049 881 1019.5 830.5 c 128,-1,34
+ 990 780 990 780 974 708.5 c 128,-1,35
+ 958 637 958 637 958 549 c 0,36,37
+ 958 452 958 452 937.5 353.5 c 128,-1,38
+ 917 255 917 255 877 155 c 1,39,-1
+ 1320 155 l 1,21,22
+75 2 m 1,40,-1
+ 75 1063 l 1,41,-1
+ 272 1063 l 1,42,-1
+ 272 928 l 1,43,44
+ 381 1085 381 1085 572 1085 c 0,45,46
+ 768 1085 768 1085 884 893 c 1,47,48
+ 938 990 938 990 1018 1037.5 c 128,-1,49
+ 1098 1085 1098 1085 1192 1085 c 0,50,51
+ 1290 1085 1290 1085 1365.5 1048 c 128,-1,52
+ 1441 1011 1441 1011 1492 941.5 c 128,-1,53
+ 1543 872 1543 872 1569.5 772.5 c 128,-1,54
+ 1596 673 1596 673 1596 549 c 0,55,56
+ 1596 450 1596 450 1576 352.5 c 128,-1,57
+ 1556 255 1556 255 1514 155 c 1,58,-1
+ 1593 155 l 2,59,60
+ 1652 155 1652 155 1704.5 132.5 c 128,-1,61
+ 1757 110 1757 110 1797 71 c 128,-1,62
+ 1837 32 1837 32 1860 -20.5 c 128,-1,63
+ 1883 -73 1883 -73 1883 -133 c 256,64,65
+ 1883 -193 1883 -193 1860 -245.5 c 128,-1,66
+ 1837 -298 1837 -298 1798 -338 c 128,-1,67
+ 1759 -378 1759 -378 1706 -401 c 128,-1,68
+ 1653 -424 1653 -424 1593 -424 c 0,69,70
+ 1474 -424 1474 -424 1386 -336 c 1,71,-1
+ 1495 -226 l 1,72,73
+ 1539 -269 1539 -269 1593 -269 c 0,74,75
+ 1620 -269 1620 -269 1644 -258.5 c 128,-1,76
+ 1668 -248 1668 -248 1686.5 -229.5 c 128,-1,77
+ 1705 -211 1705 -211 1716 -186.5 c 128,-1,78
+ 1727 -162 1727 -162 1727 -134 c 0,79,80
+ 1727 -107 1727 -107 1716.5 -82.5 c 128,-1,81
+ 1706 -58 1706 -58 1688 -40 c 128,-1,82
+ 1670 -22 1670 -22 1645.5 -11 c 128,-1,83
+ 1621 0 1621 0 1593 0 c 2,84,-1
+ 75 2 l 1,40,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE03B
+Encoding: 57403 57403 63
+Width: 1333
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 670 -200 basechar 0
+AnchorPoint: "TehtaAbove" 670 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+267 2 m 1,0,-1
+ 74 2 l 1,1,-1
+ 74 1063 l 1,2,-1
+ 270 1063 l 1,3,-1
+ 271 928 l 1,4,5
+ 380 1085 380 1085 574 1085 c 0,6,7
+ 658 1085 658 1085 729.5 1049.5 c 128,-1,8
+ 801 1014 801 1014 853 946 c 128,-1,9
+ 905 878 905 878 934.5 778 c 128,-1,10
+ 964 678 964 678 964 549 c 0,11,12
+ 964 353 964 353 882 155 c 1,13,-1
+ 960 155 l 2,14,15
+ 1017 155 1017 155 1069.5 133.5 c 128,-1,16
+ 1122 112 1122 112 1162 73.5 c 128,-1,17
+ 1202 35 1202 35 1226 -18 c 128,-1,18
+ 1250 -71 1250 -71 1250 -133 c 0,19,20
+ 1250 -193 1250 -193 1227.5 -246 c 128,-1,21
+ 1205 -299 1205 -299 1166 -338.5 c 128,-1,22
+ 1127 -378 1127 -378 1074 -401 c 128,-1,23
+ 1021 -424 1021 -424 960 -424 c 0,24,25
+ 841 -424 841 -424 754 -336 c 1,26,-1
+ 863 -226 l 1,27,28
+ 907 -269 907 -269 961 -269 c 0,29,30
+ 989 -269 989 -269 1013.5 -258 c 128,-1,31
+ 1038 -247 1038 -247 1056 -228 c 128,-1,32
+ 1074 -209 1074 -209 1084.5 -185 c 128,-1,33
+ 1095 -161 1095 -161 1095 -134 c 0,34,35
+ 1095 -109 1095 -109 1085 -85 c 128,-1,36
+ 1075 -61 1075 -61 1057 -42 c 128,-1,37
+ 1039 -23 1039 -23 1014.5 -11.5 c 128,-1,38
+ 990 0 990 0 961 0 c 2,39,-1
+ 267 2 l 1,0,-1
+686 155 m 1,40,41
+ 711 216 711 216 726.5 263.5 c 128,-1,42
+ 742 311 742 311 750 346 c 0,43,44
+ 764 409 764 409 770.5 459.5 c 128,-1,45
+ 777 510 777 510 777 555 c 0,46,47
+ 777 639 777 639 761 709 c 128,-1,48
+ 745 779 745 779 715.5 829.5 c 128,-1,49
+ 686 880 686 880 644.5 908 c 128,-1,50
+ 603 936 603 936 552 936 c 0,51,52
+ 512 936 512 936 475 922.5 c 128,-1,53
+ 438 909 438 909 405.5 885.5 c 128,-1,54
+ 373 862 373 862 347 830 c 128,-1,55
+ 321 798 321 798 304 761 c 0,56,57
+ 251 647 251 647 251 468 c 0,58,59
+ 251 369 251 369 256 292 c 128,-1,60
+ 261 215 261 215 270 155 c 1,61,-1
+ 686 155 l 1,40,41
+EndSplineSet
+EndChar
+
+StartChar: uniE03C
+Encoding: 57404 57404 64
+Width: 1140
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 840 -200 basechar 0
+AnchorPoint: "TehtaAbove" 640 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+496 73 m 1,0,1
+ 388 424 388 424 282 769 c 128,-1,2
+ 176 1114 176 1114 68 1465 c 1,3,-1
+ 262 1465 l 1,4,-1
+ 619 296 l 1,5,6
+ 679 404 679 404 737 509 c 128,-1,7
+ 795 614 795 614 852 723 c 0,8,9
+ 862 743 862 743 862 771 c 0,10,11
+ 862 800 862 800 850.5 824.5 c 128,-1,12
+ 839 849 839 849 820.5 867 c 128,-1,13
+ 802 885 802 885 777.5 895.5 c 128,-1,14
+ 753 906 753 906 728 906 c 2,15,-1
+ 491 906 l 1,16,-1
+ 491 1061 l 1,17,-1
+ 764 1061 l 2,18,19
+ 822 1061 822 1061 875 1038.5 c 128,-1,20
+ 928 1016 928 1016 967.5 976.5 c 128,-1,21
+ 1007 937 1007 937 1030.5 884 c 128,-1,22
+ 1054 831 1054 831 1054 770 c 256,23,24
+ 1054 709 1054 709 1035 664 c 1,25,-1
+ 444 -406 l 1,26,-1
+ 237 -406 l 1,27,-1
+ 496 73 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE03D
+Encoding: 57405 57405 65
+Width: 1337
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 651 -200 basechar 0
+AnchorPoint: "TehtaAbove" 651 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+262 506 m 0,0,1
+ 262 407 262 407 285.5 332.5 c 128,-1,2
+ 309 258 309 258 350 207.5 c 128,-1,3
+ 391 157 391 157 447 131.5 c 128,-1,4
+ 503 106 503 106 568 106 c 0,5,6
+ 631 106 631 106 687 130 c 128,-1,7
+ 743 154 743 154 784.5 203.5 c 128,-1,8
+ 826 253 826 253 850 329.5 c 128,-1,9
+ 874 406 874 406 874 512 c 0,10,11
+ 874 608 874 608 850 681.5 c 128,-1,12
+ 826 755 826 755 784.5 804.5 c 128,-1,13
+ 743 854 743 854 687.5 879.5 c 128,-1,14
+ 632 905 632 905 568 905 c 0,15,16
+ 503 905 503 905 447 879.5 c 128,-1,17
+ 391 854 391 854 350 803.5 c 128,-1,18
+ 309 753 309 753 285.5 678.5 c 128,-1,19
+ 262 604 262 604 262 506 c 0,0,1
+732 -23 m 1,20,21
+ 695 -35 695 -35 653 -41.5 c 128,-1,22
+ 611 -48 611 -48 568 -48 c 0,23,24
+ 456 -48 456 -48 364.5 -11.5 c 128,-1,25
+ 273 25 273 25 207.5 95.5 c 128,-1,26
+ 142 166 142 166 106 269 c 128,-1,27
+ 70 372 70 372 70 506 c 0,28,29
+ 70 639 70 639 106.5 742 c 128,-1,30
+ 143 845 143 845 208.5 916 c 128,-1,31
+ 274 987 274 987 365.5 1024 c 128,-1,32
+ 457 1061 457 1061 568 1061 c 0,33,34
+ 675 1061 675 1061 766 1025 c 128,-1,35
+ 857 989 857 989 923.5 920 c 128,-1,36
+ 990 851 990 851 1027.5 750.5 c 128,-1,37
+ 1065 650 1065 650 1065 521 c 0,38,39
+ 1065 398 1065 398 1044.5 311.5 c 128,-1,40
+ 1024 225 1024 225 979 159 c 1,41,-1
+ 982 162 l 1,42,43
+ 1028 158 1028 158 1075.5 146.5 c 128,-1,44
+ 1123 135 1123 135 1162 104.5 c 128,-1,45
+ 1201 74 1201 74 1225.5 18 c 128,-1,46
+ 1250 -38 1250 -38 1250 -131 c 0,47,48
+ 1250 -214 1250 -214 1231 -303 c 1,49,-1
+ 1132 -283 l 1,50,51
+ 1137 -253 1137 -253 1139.5 -224 c 128,-1,52
+ 1142 -195 1142 -195 1142 -166 c 0,53,54
+ 1142 -136 1142 -136 1138 -110 c 128,-1,55
+ 1134 -84 1134 -84 1118 -64.5 c 128,-1,56
+ 1102 -45 1102 -45 1070 -34 c 128,-1,57
+ 1038 -23 1038 -23 983 -23 c 2,58,-1
+ 732 -23 l 1,20,21
+EndSplineSet
+EndChar
+
+StartChar: uniE040
+Encoding: 57408 57408 66
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-628 1440 m 1,0,-1
+ -628 1606 l 1,1,-1
+ -462 1606 l 1,2,-1
+ -462 1440 l 1,3,-1
+ -628 1440 l 1,0,-1
+-416 1249 m 1,4,-1
+ -416 1414 l 1,5,-1
+ -250 1414 l 1,6,-1
+ -250 1249 l 1,7,-1
+ -416 1249 l 1,4,-1
+-840 1249 m 1,8,-1
+ -840 1414 l 1,9,-1
+ -674 1414 l 1,10,-1
+ -674 1249 l 1,11,-1
+ -840 1249 l 1,8,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE041
+Encoding: 57409 57409 67
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-250 -66 m 1,0,-1
+ -250 -232 l 1,1,-1
+ -416 -232 l 1,2,-1
+ -416 -66 l 1,3,-1
+ -250 -66 l 1,0,-1
+-674 -66 m 1,4,-1
+ -674 -232 l 1,5,-1
+ -840 -232 l 1,6,-1
+ -840 -66 l 1,7,-1
+ -674 -66 l 1,4,-1
+-462 -258 m 1,8,-1
+ -462 -424 l 1,9,-1
+ -628 -424 l 1,10,-1
+ -628 -258 l 1,11,-1
+ -462 -258 l 1,8,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE042
+Encoding: 57410 57410 68
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-456 1321 m 1,0,-1
+ -456 1532 l 1,1,-1
+ -261 1532 l 1,2,-1
+ -261 1321 l 1,3,-1
+ -456 1321 l 1,0,-1
+-826 1321 m 1,4,-1
+ -826 1532 l 1,5,-1
+ -631 1532 l 1,6,-1
+ -631 1321 l 1,7,-1
+ -826 1321 l 1,4,-1
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE044 uniE044
+LCarets2: 1 0
+EndChar
+
+StartChar: uniE043
+Encoding: 57411 57411 69
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-826 -406 m 1,0,-1
+ -826 -195 l 1,1,-1
+ -631 -195 l 1,2,-1
+ -631 -406 l 1,3,-1
+ -826 -406 l 1,0,-1
+-456 -406 m 1,4,-1
+ -456 -195 l 1,5,-1
+ -261 -195 l 1,6,-1
+ -261 -406 l 1,7,-1
+ -456 -406 l 1,4,-1
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE045 uniE045
+LCarets2: 1 0
+EndChar
+
+StartChar: uniE044
+Encoding: 57412 57412 70
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-640 1320 m 1,0,-1
+ -640 1531 l 1,1,-1
+ -446 1531 l 1,2,-1
+ -446 1320 l 1,3,-1
+ -640 1320 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE045
+Encoding: 57413 57413 71
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-448 -195 m 1,0,-1
+ -448 -406 l 1,1,-1
+ -642 -406 l 1,2,-1
+ -642 -195 l 1,3,-1
+ -448 -195 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE046
+Encoding: 57414 57414 72
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-294 1571 m 1,0,-1
+ -520 1284 l 1,1,-1
+ -675 1284 l 1,2,-1
+ -539 1571 l 1,3,-1
+ -294 1571 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE047
+Encoding: 57415 57415 73
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-789 -424 m 1,0,-1
+ -563 -137 l 1,1,-1
+ -408 -137 l 1,2,-1
+ -544 -424 l 1,3,-1
+ -789 -424 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE048
+Encoding: 57416 57416 74
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-129 1570 m 1,0,-1
+ -355 1283 l 1,1,-1
+ -510 1283 l 1,2,-1
+ -374 1570 l 1,3,-1
+ -129 1570 l 1,0,-1
+-465 1570 m 1,4,-1
+ -691 1283 l 1,5,-1
+ -846 1283 l 1,6,-1
+ -710 1570 l 1,7,-1
+ -465 1570 l 1,4,-1
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE046 uniE046
+LCarets2: 1 0
+EndChar
+
+StartChar: uniE049
+Encoding: 57417 57417 75
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-624 -424 m 1,0,-1
+ -398 -137 l 1,1,-1
+ -243 -137 l 1,2,-1
+ -379 -424 l 1,3,-1
+ -624 -424 l 1,0,-1
+-960 -424 m 1,4,-1
+ -734 -137 l 1,5,-1
+ -579 -137 l 1,6,-1
+ -715 -424 l 1,7,-1
+ -960 -424 l 1,4,-1
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE047 uniE047
+LCarets2: 1 0
+EndChar
+
+StartChar: uniE04A
+Encoding: 57418 57418 76
+Width: 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-264 1430 m 1,0,1
+ -264 1467 -264 1467 -270 1498 c 128,-1,2
+ -276 1529 -276 1529 -294 1547 c 0,3,4
+ -308 1561 -308 1561 -330 1564.5 c 128,-1,5
+ -352 1568 -352 1568 -373 1560 c 1,6,-1
+ -372 1561 l 1,7,8
+ -397 1549 -397 1549 -441 1505 c 2,9,-1
+ -710 1233 l 1,10,-1
+ -794 1317 l 1,11,-1
+ -453 1659 l 2,12,13
+ -419 1689 -419 1689 -385.5 1701.5 c 128,-1,14
+ -352 1714 -352 1714 -321.5 1713 c 128,-1,15
+ -291 1712 -291 1712 -263.5 1699 c 128,-1,16
+ -236 1686 -236 1686 -215 1664 c 0,17,18
+ -182 1631 -182 1631 -165.5 1581 c 128,-1,19
+ -149 1531 -149 1531 -144 1483 c 1,20,-1
+ -264 1430 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE04B
+Encoding: 57419 57419 77
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-675 -527 m 1,0,1
+ -724 -507 -724 -507 -768.5 -478.5 c 128,-1,2
+ -813 -450 -813 -450 -834 -413 c 0,3,4
+ -850 -385 -850 -385 -855 -355.5 c 128,-1,5
+ -860 -326 -860 -326 -852.5 -296 c 128,-1,6
+ -845 -266 -845 -266 -824 -237 c 128,-1,7
+ -803 -208 -803 -208 -766 -182 c 1,8,-1
+ -347 60 l 1,9,-1
+ -288 -43 l 1,10,-1
+ -621 -234 l 2,11,12
+ -684 -270 -684 -270 -703 -298.5 c 128,-1,13
+ -722 -327 -722 -327 -701 -363 c 0,14,15
+ -679 -402 -679 -402 -595 -424 c 1,16,-1
+ -675 -527 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE04C
+Encoding: 57420 57420 78
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-405 1812 m 5,0,1
+ -356 1791 -356 1791 -312.5 1761.5 c 132,-1,2
+ -269 1732 -269 1732 -248 1696 c 4,3,4
+ -233 1670 -233 1670 -227.5 1641.5 c 132,-1,5
+ -222 1613 -222 1613 -228.5 1583 c 132,-1,6
+ -235 1553 -235 1553 -256 1523.5 c 132,-1,7
+ -277 1494 -277 1494 -315 1468 c 6,8,-1
+ -735 1225 l 5,9,-1
+ -794 1329 l 5,10,-1
+ -461 1519 l 6,11,12
+ -432 1536 -432 1536 -413.5 1549 c 132,-1,13
+ -395 1562 -395 1562 -386 1574 c 132,-1,14
+ -377 1586 -377 1586 -374.5 1597.5 c 132,-1,15
+ -372 1609 -372 1609 -373 1623 c 5,16,-1
+ -373 1623 l 5,17,18
+ -376 1638 -376 1638 -381 1648 c 4,19,20
+ -389 1661 -389 1661 -403 1673 c 5,21,-1
+ -403 1672 l 5,22,23
+ -435 1695 -435 1695 -488 1710 c 5,24,-1
+ -405 1812 l 5,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE04D
+Encoding: 57421 57421 79
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-716 -190 m 1,0,1
+ -727 -225 -727 -225 -728 -257.5 c 128,-1,2
+ -729 -290 -729 -290 -717 -311 c 0,3,4
+ -697 -345 -697 -345 -662.5 -345.5 c 128,-1,5
+ -628 -346 -628 -346 -574 -314 c 2,6,-1
+ -234 -115 l 1,7,-1
+ -174 -218 l 1,8,-1
+ -592 -460 l 1,9,10
+ -634 -480 -634 -480 -669.5 -483.5 c 128,-1,11
+ -705 -487 -705 -487 -734.5 -478 c 128,-1,12
+ -764 -469 -764 -469 -787 -449.5 c 128,-1,13
+ -810 -430 -810 -430 -825 -403 c 0,14,15
+ -836 -384 -836 -384 -842 -361 c 128,-1,16
+ -848 -338 -848 -338 -849.5 -312 c 128,-1,17
+ -851 -286 -851 -286 -850 -259.5 c 128,-1,18
+ -849 -233 -849 -233 -846 -210 c 1,19,-1
+ -716 -190 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: bar_above
+Encoding: 57424 57424 80
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1700 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-230 1243 m 1,0,-1
+ -860 1243 l 1,1,-1
+ -860 1390 l 1,2,-1
+ -230 1390 l 1,3,-1
+ -230 1243 l 1,0,-1
+EndSplineSet
+Substitution2: "Single Substitution lookup 8 subtable" bar_above_narrow
+Substitution2: "Single Substitution lookup 7 subtable" bar_above_narrow
+Substitution2: "Single Substitution lookup 6 subtable" bar_above_narrow
+Substitution2: "Single Substitution lookup 5 subtable" bar_above_narrow
+Substitution2: "Single Substitution lookup 4 subtable" bar_above_wide
+Substitution2: "Single Substitution lookup 3 subtable" bar_above_wide
+Substitution2: "Single Substitution lookup 2 subtable" bar_above_wide
+Substitution2: "Single Substitution lookup 1 subtable" bar_above_wide
+EndChar
+
+StartChar: bar_below
+Encoding: 57425 57425 81
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-230 -326 m 1,0,-1
+ -860 -326 l 1,1,-1
+ -860 -179 l 1,2,-1
+ -230 -179 l 1,3,-1
+ -230 -326 l 1,0,-1
+EndSplineSet
+Substitution2: "Single Substitution lookup 13 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 12 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 11 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 10 subtable" lambe_bar_below
+Substitution2: "Single Substitution lookup 8 subtable" bar_below_narrow
+Substitution2: "Single Substitution lookup 7 subtable" bar_below_narrow
+Substitution2: "Single Substitution lookup 6 subtable" bar_below_narrow
+Substitution2: "Single Substitution lookup 5 subtable" bar_below_narrow
+Substitution2: "Single Substitution lookup 4 subtable" bar_below_wide
+Substitution2: "Single Substitution lookup 3 subtable" bar_below_wide
+Substitution2: "Single Substitution lookup 2 subtable" bar_below_wide
+Substitution2: "Single Substitution lookup 1 subtable" bar_below_wide
+EndChar
+
+StartChar: uniE052
+Encoding: 57426 57426 82
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-749 1544 m 1,0,1
+ -740 1451 -740 1451 -674 1451 c 0,2,3
+ -628 1451 -628 1451 -554 1497 c 0,4,5
+ -515 1521 -515 1521 -479 1532.5 c 128,-1,6
+ -443 1544 -443 1544 -412 1544 c 0,7,8
+ -372 1544 -372 1544 -335 1530 c 128,-1,9
+ -298 1516 -298 1516 -269.5 1487.5 c 128,-1,10
+ -241 1459 -241 1459 -224 1415 c 128,-1,11
+ -207 1371 -207 1371 -207 1311 c 1,12,-1
+ -337 1311 l 1,13,14
+ -342 1404 -342 1404 -418 1404 c 0,15,16
+ -438 1404 -438 1404 -466 1393.5 c 128,-1,17
+ -494 1383 -494 1383 -528 1361 c 0,18,19
+ -552 1346 -552 1346 -568.5 1336 c 128,-1,20
+ -585 1326 -585 1326 -601 1320.5 c 128,-1,21
+ -617 1315 -617 1315 -635.5 1313 c 128,-1,22
+ -654 1311 -654 1311 -680 1311 c 0,23,24
+ -721 1311 -721 1311 -757.5 1325 c 128,-1,25
+ -794 1339 -794 1339 -821 1368 c 128,-1,26
+ -848 1397 -848 1397 -863.5 1441 c 128,-1,27
+ -879 1485 -879 1485 -879 1544 c 1,28,-1
+ -749 1544 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE053
+Encoding: 57427 57427 83
+Width: 0
+GlyphClass: 1
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-223 1570 m 1,0,-1
+ -446 1284 l 1,1,-1
+ -637 1284 l 1,2,-1
+ -868 1570 l 1,3,-1
+ -654 1570 l 1,4,-1
+ -548 1403 l 1,5,6
+ -519 1445 -519 1445 -492 1486.5 c 128,-1,7
+ -465 1528 -465 1528 -436 1570 c 1,8,-1
+ -223 1570 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE054
+Encoding: 57428 57428 84
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-417 1283 m 1,0,-1
+ -572 1283 l 1,1,-1
+ -798 1570 l 1,2,-1
+ -553 1570 l 1,3,-1
+ -417 1283 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE055
+Encoding: 57429 57429 85
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-219 1282 m 1,0,-1
+ -434 1282 l 1,1,-1
+ -539 1449 l 1,2,3
+ -568 1407 -568 1407 -595.5 1365.5 c 128,-1,4
+ -623 1324 -623 1324 -652 1282 c 1,5,-1
+ -865 1282 l 1,6,-1
+ -642 1569 l 1,7,-1
+ -450 1569 l 1,8,-1
+ -219 1282 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE056
+Encoding: 57430 57430 86
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-460 1412 m 1,0,-1
+ -460 1247 l 1,1,-1
+ -626 1247 l 1,2,-1
+ -626 1412 l 1,3,-1
+ -460 1412 l 1,0,-1
+-672 1604 m 1,4,-1
+ -672 1438 l 1,5,-1
+ -838 1438 l 1,6,-1
+ -838 1604 l 1,7,-1
+ -672 1604 l 1,4,-1
+-248 1604 m 1,8,-1
+ -248 1438 l 1,9,-1
+ -414 1438 l 1,10,-1
+ -414 1604 l 1,11,-1
+ -248 1604 l 1,8,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE057
+Encoding: 57431 57431 87
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-481 -424 m 1,0,-1
+ -610 -424 l 1,1,-1
+ -610 -111 l 1,2,-1
+ -481 -111 l 1,3,-1
+ -481 -424 l 1,0,-1
+EndSplineSet
+Ligature2: "Ligatures subtable" zwj uniE02C
+LCarets2: 1 0
+EndChar
+
+StartChar: uniE058
+Encoding: 57432 57432 88
+Width: 378
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+200 -338 m 0,0,1
+ 170 -366 170 -366 163 -405 c 1,2,-1
+ 6 -425 l 1,3,4
+ 11 -307 11 -307 90 -228 c 0,5,6
+ 130 -188 130 -188 130 -134 c 0,7,8
+ 130 -107 130 -107 119.5 -83 c 128,-1,9
+ 109 -59 109 -59 91 -40.5 c 128,-1,10
+ 73 -22 73 -22 48.5 -11 c 128,-1,11
+ 24 0 24 0 -4 0 c 2,12,-1
+ -111 0 l 1,13,-1
+ -111 155 l 1,14,-1
+ -5 155 l 2,15,16
+ 53 155 53 155 106 132.5 c 128,-1,17
+ 159 110 159 110 199 71 c 128,-1,18
+ 239 32 239 32 262.5 -20.5 c 128,-1,19
+ 286 -73 286 -73 286 -133 c 0,20,21
+ 286 -252 286 -252 200 -338 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE059
+Encoding: 57433 57433 89
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-675 -527 m 1,0,1
+ -724 -507 -724 -507 -768.5 -478.5 c 128,-1,2
+ -813 -450 -813 -450 -834 -413 c 0,3,4
+ -850 -385 -850 -385 -855 -355.5 c 128,-1,5
+ -860 -326 -860 -326 -852.5 -296 c 128,-1,6
+ -845 -266 -845 -266 -824 -237 c 128,-1,7
+ -803 -208 -803 -208 -766 -182 c 1,8,-1
+ -347 60 l 1,9,-1
+ -288 -43 l 1,10,-1
+ -621 -234 l 2,11,12
+ -684 -270 -684 -270 -703 -298.5 c 128,-1,13
+ -722 -327 -722 -327 -701 -363 c 0,14,15
+ -679 -402 -679 -402 -595 -424 c 1,16,-1
+ -675 -527 l 1,0,1
+EndSplineSet
+Substitution2: "Single Substitution lookup 18 subtable" lambe_xhook
+Substitution2: "Single Substitution lookup 17 subtable" lambe_xhook
+Substitution2: "Single Substitution lookup 16 subtable" lambe_xhook
+Substitution2: "Single Substitution lookup 15 subtable" lambe_xhook
+EndChar
+
+StartChar: uniE05A
+Encoding: 57434 57434 90
+Width: 0
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+-549 671 m 256,0,1
+ -542 671 -542 671 -535 666 c 128,-1,2
+ -528 661 -528 661 -516 649 c 128,-1,3
+ -504 637 -504 637 -484.5 617 c 128,-1,4
+ -465 597 -465 597 -431 567 c 0,5,6
+ -423 559 -423 559 -417.5 548.5 c 128,-1,7
+ -412 538 -412 538 -411 532 c 0,8,9
+ -411 520 -411 520 -420.5 506.5 c 128,-1,10
+ -430 493 -430 493 -460 467 c 0,11,12
+ -492 438 -492 438 -512.5 415.5 c 128,-1,13
+ -533 393 -533 393 -548 393 c 0,14,15
+ -556 393 -556 393 -564 398 c 128,-1,16
+ -572 403 -572 403 -584 415 c 128,-1,17
+ -596 427 -596 427 -615.5 447 c 128,-1,18
+ -635 467 -635 467 -667 497 c 0,19,20
+ -678 507 -678 507 -683 516 c 128,-1,21
+ -688 525 -688 525 -688 533 c 0,22,23
+ -688 540 -688 540 -678.5 551.5 c 128,-1,24
+ -669 563 -669 563 -656.5 576 c 128,-1,25
+ -644 589 -644 589 -630.5 602.5 c 128,-1,26
+ -617 616 -617 616 -608 626 c 2,27,-1
+ -580 654 l 2,28,29
+ -570 664 -570 664 -563 667.5 c 128,-1,30
+ -556 671 -556 671 -549 671 c 256,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE060
+Encoding: 57440 57440 91
+Width: 361
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 636 m 1,0,-1
+ 280 425 l 1,1,-1
+ 68 425 l 1,2,-1
+ 68 636 l 1,3,-1
+ 280 636 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE061
+Encoding: 57441 57441 92
+Width: 361
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 424 m 1,0,-1
+ 280 212 l 1,1,-1
+ 68 212 l 1,2,-1
+ 68 424 l 1,3,-1
+ 280 424 l 1,0,-1
+280 849 m 1,4,-1
+ 280 637 l 1,5,-1
+ 68 637 l 1,6,-1
+ 68 849 l 1,7,-1
+ 280 849 l 1,4,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE062
+Encoding: 57442 57442 93
+Width: 361
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 1061 m 1,0,-1
+ 280 850 l 1,1,-1
+ 68 850 l 1,2,-1
+ 68 1061 l 1,3,-1
+ 280 1061 l 1,0,-1
+280 211 m 1,4,-1
+ 280 0 l 1,5,-1
+ 68 0 l 1,6,-1
+ 68 211 l 1,7,-1
+ 280 211 l 1,4,-1
+280 636 m 1,8,-1
+ 280 425 l 1,9,-1
+ 68 425 l 1,10,-1
+ 68 636 l 1,11,-1
+ 280 636 l 1,8,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE063
+Encoding: 57443 57443 94
+Width: 945
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+69 636 m 1,0,-1
+ 281 636 l 1,1,-1
+ 281 425 l 1,2,-1
+ 69 425 l 1,3,-1
+ 69 636 l 1,0,-1
+649 636 m 1,4,-1
+ 860 636 l 1,5,-1
+ 860 425 l 1,6,-1
+ 649 425 l 1,7,-1
+ 649 636 l 1,4,-1
+570 375 m 1,8,-1
+ 570 164 l 1,9,-1
+ 359 164 l 1,10,-1
+ 359 375 l 1,11,-1
+ 570 375 l 1,8,-1
+570 897 m 1,12,-1
+ 570 686 l 1,13,-1
+ 359 686 l 1,14,-1
+ 359 897 l 1,15,-1
+ 570 897 l 1,12,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE064
+Encoding: 57444 57444 95
+Width: 1217
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+706 1061 m 1,0,-1
+ 706 850 l 1,1,-1
+ 496 850 l 1,2,-1
+ 496 1061 l 1,3,-1
+ 706 1061 l 1,0,-1
+706 211 m 1,4,-1
+ 706 0 l 1,5,-1
+ 496 0 l 1,6,-1
+ 496 211 l 1,7,-1
+ 706 211 l 1,4,-1
+706 636 m 1,8,-1
+ 706 425 l 1,9,-1
+ 496 425 l 1,10,-1
+ 496 636 l 1,11,-1
+ 706 636 l 1,8,-1
+920 636 m 1,12,-1
+ 1131 636 l 1,13,-1
+ 1131 425 l 1,14,-1
+ 920 425 l 1,15,-1
+ 920 636 l 1,12,-1
+70 636 m 1,16,-1
+ 281 636 l 1,17,-1
+ 281 425 l 1,18,-1
+ 70 425 l 1,19,-1
+ 70 636 l 1,16,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE065
+Encoding: 57445 57445 96
+Width: 498
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+62 441 m 1,0,1
+ 105 481 105 481 133 515 c 0,2,3
+ 161 550 161 550 178 580 c 0,4,5
+ 195 610 195 610 202 640 c 0,6,7
+ 209 670 209 670 209 704 c 0,8,9
+ 209 781 209 781 155 898 c 0,10,11
+ 130 952 130 952 114 990 c 0,12,13
+ 98 1028 98 1028 88 1058 c 0,14,15
+ 78 1089 78 1089 74 1118 c 0,16,17
+ 70 1147 70 1147 71 1185 c 0,18,19
+ 71 1226 71 1226 77 1262 c 0,20,21
+ 83 1298 83 1298 97 1332 c 0,22,23
+ 111 1366 111 1366 134 1398 c 0,24,25
+ 157 1430 157 1430 190 1465 c 1,26,-1
+ 423 1465 l 1,27,28
+ 350 1400 350 1400 312 1334 c 0,29,30
+ 274 1268 274 1268 274 1204 c 0,31,32
+ 274 1182 274 1182 276 1166 c 0,33,34
+ 278 1150 278 1150 284 1132 c 0,35,36
+ 290 1114 290 1114 299 1091 c 0,37,38
+ 308 1068 308 1068 322 1034 c 0,39,40
+ 346 980 346 980 363 936 c 0,41,42
+ 380 892 380 892 392 856 c 0,43,44
+ 404 820 404 820 408 787 c 0,45,46
+ 413 754 413 754 413 721 c 0,47,48
+ 413 549 413 549 287 441 c 1,49,-1
+ 62 441 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE066
+Encoding: 57446 57446 97
+Width: 913
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+315 592 m 1,0,1
+ 414 607 414 607 486 621 c 0,2,3
+ 558 635 558 635 591 661 c 1,4,-1
+ 590 661 l 1,5,6
+ 636 698 636 698 636 774 c 2,7,-1
+ 636 780 l 2,8,9
+ 634 832 634 832 596 866 c 0,10,11
+ 558 900 558 900 499 901 c 0,12,13
+ 451 901 451 901 364 889 c 2,14,-1
+ 315 882 l 1,15,-1
+ 315 592 l 1,0,1
+315 1029 m 1,16,17
+ 320 1029 320 1029 323 1030 c 0,18,19
+ 326 1031 326 1031 331 1031 c 0,20,21
+ 382 1038 382 1038 416 1045 c 0,22,23
+ 450 1052 450 1052 473 1062 c 0,24,25
+ 496 1072 496 1072 512 1084 c 0,26,27
+ 528 1097 528 1097 542 1116 c 0,28,29
+ 567 1150 567 1150 567 1194 c 2,30,-1
+ 567 1200 l 1,31,32
+ 563 1258 563 1258 530 1284 c 0,33,34
+ 497 1310 497 1310 422 1310 c 0,35,36
+ 402 1310 402 1310 376 1308 c 0,37,38
+ 350 1306 350 1306 321 1302 c 1,39,-1
+ 315 1302 l 1,40,-1
+ 315 1029 l 1,16,17
+315 422 m 1,41,-1
+ 315 0 l 1,42,-1
+ 127 0 l 1,43,-1
+ 127 1465 l 1,44,-1
+ 315 1465 l 1,45,-1
+ 315 1448 l 1,46,47
+ 369 1452 369 1452 412 1458 c 0,48,49
+ 455 1464 455 1464 490 1464 c 0,50,51
+ 541 1464 541 1464 589 1449 c 0,52,53
+ 637 1434 637 1434 674 1404 c 0,54,55
+ 711 1374 711 1374 733 1326 c 0,56,57
+ 755 1279 755 1279 755 1215 c 0,58,59
+ 756 1150 756 1150 732 1098 c 0,60,61
+ 708 1046 708 1046 654 1004 c 1,62,63
+ 688 994 688 994 718 976 c 0,64,65
+ 748 958 748 958 772 930 c 0,66,67
+ 795 902 795 902 810 864 c 0,68,69
+ 825 826 825 826 829 781 c 1,70,71
+ 828 632 828 632 738 550 c 0,72,73
+ 648 468 648 468 473 444 c 2,74,-1
+ 315 422 l 1,41,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE067
+Encoding: 57447 57447 98
+Width: 788
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+467 1287 m 1,0,-1
+ 356 1287 l 1,1,-1
+ 356 -2 l 1,2,-1
+ 179 -2 l 1,3,-1
+ 179 1465 l 1,4,-1
+ 645 1465 l 1,5,-1
+ 645 -111 l 2,6,7
+ 646 -139 646 -139 644 -168 c 0,8,9
+ 642 -198 642 -198 637 -226 c 0,10,11
+ 632 -254 632 -254 622 -281 c 0,12,13
+ 612 -308 612 -308 593 -330 c 0,14,15
+ 548 -388 548 -388 484 -408 c 0,16,17
+ 420 -428 420 -428 350 -428 c 0,18,19
+ 316 -428 316 -428 286 -426 c 0,20,21
+ 256 -424 256 -424 230 -418 c 0,22,23
+ 204 -414 204 -414 178 -408 c 0,24,25
+ 152 -402 152 -402 125 -394 c 1,26,-1
+ 179 -287 l 1,27,28
+ 239 -308 239 -308 324 -308 c 0,29,30
+ 352 -308 352 -308 378 -302 c 0,31,32
+ 404 -296 404 -296 425 -280 c 0,33,34
+ 445 -264 445 -264 457 -236 c 0,35,36
+ 469 -208 469 -208 469 -165 c 2,37,-1
+ 469 -146 l 2,38,39
+ 468 -118 468 -118 468 -94 c 0,40,41
+ 468 -70 468 -70 467 -49 c 2,42,-1
+ 467 1287 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE068
+Encoding: 57448 57448 99
+Width: 1179
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+70 573 m 1,0,1
+ 177 695 177 695 350 695 c 0,2,3
+ 384 696 384 696 412 692 c 0,4,5
+ 440 688 440 688 474 678 c 0,6,7
+ 508 668 508 668 553 652 c 0,8,9
+ 598 635 598 635 663 608 c 0,10,11
+ 702 591 702 591 727 582 c 0,12,13
+ 752 573 752 573 770 568 c 0,14,15
+ 788 563 788 563 802 562 c 0,16,17
+ 816 561 816 561 833 561 c 0,18,19
+ 894 560 894 560 962 598 c 0,20,21
+ 1030 636 1030 636 1093 705 c 1,22,-1
+ 1093 481 l 1,23,24
+ 1060 452 1060 452 1030 430 c 0,25,26
+ 1000 408 1000 408 966 394 c 0,27,28
+ 932 380 932 380 896 373 c 0,29,30
+ 859 366 859 366 814 366 c 0,31,32
+ 780 366 780 366 750 369 c 0,33,34
+ 720 372 720 372 688 381 c 0,35,36
+ 656 390 656 390 619 406 c 0,37,38
+ 581 422 581 422 527 447 c 0,39,40
+ 410 498 410 498 334 498 c 0,41,42
+ 302 498 302 498 274 493 c 0,43,44
+ 246 488 246 488 217 473 c 0,45,46
+ 188 458 188 458 152 430 c 0,47,48
+ 116 402 116 402 70 358 c 1,49,-1
+ 70 573 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE069
+Encoding: 57449 57449 100
+Width: 1179
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+70 357 m 1,0,1
+ 177 479 177 479 350 479 c 0,2,3
+ 385 479 385 479 418 474 c 0,4,5
+ 452 468 452 468 488 458 c 0,6,7
+ 524 448 524 448 566 432 c 0,8,9
+ 608 416 608 416 663 392 c 0,10,11
+ 702 376 702 376 726 366 c 0,12,13
+ 750 356 750 356 768 352 c 0,14,15
+ 785 348 785 348 799 346 c 0,16,17
+ 813 345 813 345 833 345 c 0,18,19
+ 894 345 894 345 965 384 c 1,20,-1
+ 965 383 l 1,21,22
+ 998 403 998 403 1030 430 c 0,23,24
+ 1062 457 1062 457 1093 489 c 1,25,-1
+ 1093 266 l 1,26,27
+ 1060 237 1060 237 1030 215 c 0,28,29
+ 1000 193 1000 193 966 179 c 0,30,31
+ 932 165 932 165 896 158 c 0,32,33
+ 859 151 859 151 814 151 c 0,34,35
+ 778 151 778 151 750 154 c 0,36,37
+ 722 157 722 157 690 166 c 0,38,39
+ 658 174 658 174 620 190 c 0,40,41
+ 582 206 582 206 527 230 c 0,42,43
+ 468 256 468 256 420 270 c 0,44,45
+ 372 284 372 284 334 283 c 0,46,47
+ 304 282 304 282 276 278 c 0,48,49
+ 248 274 248 274 218 259 c 0,50,51
+ 188 244 188 244 152 216 c 0,52,53
+ 116 188 116 188 70 143 c 1,54,-1
+ 70 357 l 1,0,1
+70 788 m 1,55,56
+ 177 910 177 910 350 910 c 0,57,58
+ 384 910 384 910 412 907 c 0,59,60
+ 440 904 440 904 474 894 c 0,61,62
+ 508 884 508 884 553 868 c 0,63,64
+ 598 851 598 851 663 824 c 0,65,66
+ 693 810 693 810 716 801 c 0,67,68
+ 739 792 739 792 759 786 c 0,69,70
+ 779 780 779 780 797 779 c 0,71,72
+ 815 777 815 777 833 777 c 0,73,74
+ 898 778 898 778 967 816 c 0,75,76
+ 1036 854 1036 854 1093 920 c 1,77,-1
+ 1093 697 l 1,78,79
+ 1028 634 1028 634 962 608 c 0,80,81
+ 896 582 896 582 814 582 c 0,82,83
+ 779 582 779 582 750 585 c 0,84,85
+ 722 588 722 588 690 597 c 0,86,87
+ 658 606 658 606 620 622 c 0,88,89
+ 582 638 582 638 527 662 c 0,90,91
+ 468 688 468 688 420 701 c 0,92,93
+ 372 714 372 714 334 714 c 0,94,95
+ 302 714 302 714 274 708 c 0,96,97
+ 246 702 246 702 214 688 c 0,98,99
+ 184 672 184 672 150 644 c 0,100,101
+ 116 616 116 616 70 574 c 1,102,-1
+ 70 788 l 1,55,56
+EndSplineSet
+EndChar
+
+StartChar: uniE06A
+Encoding: 57450 57450 101
+Width: 617
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+534 1465 m 1,0,-1
+ 534 1028 l 2,1,2
+ 534 968 534 968 526 911 c 0,3,4
+ 518 854 518 854 486 810 c 0,5,6
+ 456 766 456 766 398 738 c 0,7,8
+ 340 712 340 712 239 712 c 0,9,10
+ 159 712 159 712 68 730 c 1,11,-1
+ 88 830 l 1,12,13
+ 121 824 121 824 150 822 c 0,14,15
+ 179 820 179 820 205 819 c 0,16,17
+ 267 819 267 819 309 846 c 0,18,19
+ 348 870 348 870 348 978 c 2,20,-1
+ 348 1310 l 1,21,-1
+ 223 1310 l 1,22,-1
+ 223 944 l 1,23,-1
+ 69 944 l 1,24,-1
+ 69 1465 l 1,25,-1
+ 534 1465 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE06B
+Encoding: 57451 57451 102
+Width: 617
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+69 0 m 1,0,-1
+ 69 437 l 2,1,2
+ 69 491 69 491 77 547 c 0,3,4
+ 85 603 85 603 115 649 c 0,5,6
+ 146 695 146 695 204 724 c 0,7,8
+ 262 753 262 753 363 753 c 0,9,10
+ 403 752 403 752 446 748 c 0,11,12
+ 489 744 489 744 535 734 c 1,13,-1
+ 515 635 l 1,14,15
+ 483 642 483 642 454 644 c 0,16,17
+ 425 646 425 646 399 646 c 0,18,19
+ 337 646 337 646 295 619 c 0,20,21
+ 255 594 255 594 255 486 c 2,22,-1
+ 255 155 l 1,23,-1
+ 379 155 l 1,24,-1
+ 379 521 l 1,25,-1
+ 534 521 l 1,26,-1
+ 534 0 l 1,27,-1
+ 69 0 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE06C
+Encoding: 57452 57452 103
+Width: 855
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+593 906 m 1,0,-1
+ 69 906 l 1,1,-1
+ 69 1061 l 1,2,-1
+ 771 1061 l 1,3,-1
+ 771 365 l 2,4,5
+ 771 261 771 261 746 187.5 c 128,-1,6
+ 721 114 721 114 677 66.5 c 128,-1,7
+ 633 19 633 19 571.5 -3 c 128,-1,8
+ 510 -25 510 -25 437 -25 c 0,9,10
+ 346 -25 346 -25 274 7 c 1,11,-1
+ 338 150 l 1,12,13
+ 380 130 380 130 432 130 c 0,14,15
+ 467 130 467 130 496.5 140 c 128,-1,16
+ 526 150 526 150 547.5 175.5 c 128,-1,17
+ 569 201 569 201 581 245 c 128,-1,18
+ 593 289 593 289 593 358 c 2,19,-1
+ 593 906 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE070
+Encoding: 57456 57456 104
+Width: 1153
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 653 -200 basechar 0
+AnchorPoint: "TehtaAbove" 653 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 530 m 2,0,1
+ 70 664 70 664 107 767.5 c 128,-1,2
+ 144 871 144 871 210.5 941.5 c 128,-1,3
+ 277 1012 277 1012 368.5 1048.5 c 128,-1,4
+ 460 1085 460 1085 569 1085 c 0,5,6
+ 677 1085 677 1085 768 1049 c 128,-1,7
+ 859 1013 859 1013 925.5 943 c 128,-1,8
+ 992 873 992 873 1029.5 769.5 c 128,-1,9
+ 1067 666 1067 666 1067 530 c 0,10,11
+ 1067 395 1067 395 1030 291.5 c 128,-1,12
+ 993 188 993 188 927 117.5 c 128,-1,13
+ 861 47 861 47 769.5 11 c 128,-1,14
+ 678 -25 678 -25 569 -25 c 0,15,16
+ 370 -25 370 -25 231 96 c 1,17,-1
+ 343 233 l 1,18,19
+ 434 130 434 130 569 130 c 0,20,21
+ 634 130 634 130 691 154 c 128,-1,22
+ 748 178 748 178 790 227.5 c 128,-1,23
+ 832 277 832 277 856.5 352.5 c 128,-1,24
+ 881 428 881 428 881 530 c 0,25,26
+ 881 631 881 631 857 706 c 128,-1,27
+ 833 781 833 781 791 831 c 128,-1,28
+ 749 881 749 881 692 905.5 c 128,-1,29
+ 635 930 635 930 569 930 c 0,30,31
+ 510 930 510 930 458 910.5 c 128,-1,32
+ 406 891 406 891 365 851 c 128,-1,33
+ 324 811 324 811 296.5 750 c 128,-1,34
+ 269 689 269 689 260 607 c 1,35,-1
+ 484 607 l 1,36,-1
+ 484 453 l 1,37,-1
+ 70 453 l 1,38,-1
+ 70 530 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE071
+Encoding: 57457 57457 105
+Width: 1332
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 632 1500 basechar 0
+AnchorPoint: "TehtaBelow" 832 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+529 906 m 1,0,1
+ 529 778 529 778 528.5 654 c 128,-1,2
+ 528 530 528 530 528 402 c 0,3,4
+ 528 270 528 270 577 199.5 c 128,-1,5
+ 626 129 626 129 725 129 c 0,6,7
+ 822 129 822 129 873 197 c 128,-1,8
+ 924 265 924 265 924 412 c 1,9,-1
+ 1099 408 l 1,10,11
+ 1099 319 1099 319 1074.5 240 c 128,-1,12
+ 1050 161 1050 161 1003 102 c 128,-1,13
+ 956 43 956 43 886.5 9 c 128,-1,14
+ 817 -25 817 -25 727 -25 c 0,15,16
+ 638 -25 638 -25 568.5 6.5 c 128,-1,17
+ 499 38 499 38 450.5 94.5 c 128,-1,18
+ 402 151 402 151 376.5 228 c 128,-1,19
+ 351 305 351 305 351 397 c 2,20,-1
+ 351 906 l 1,21,-1
+ 70 906 l 1,22,-1
+ 70 1061 l 1,23,-1
+ 1245 1061 l 1,24,-1
+ 1245 906 l 1,25,-1
+ 529 906 l 1,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE072
+Encoding: 57458 57458 106
+Width: 1491
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 691 1500 basechar 0
+AnchorPoint: "TehtaBelow" 791 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+946 906 m 1,0,-1
+ 946 358 l 2,1,2
+ 946 290 946 290 958 245.5 c 128,-1,3
+ 970 201 970 201 991 175.5 c 128,-1,4
+ 1012 150 1012 150 1041.5 140 c 128,-1,5
+ 1071 130 1071 130 1106 130 c 0,6,7
+ 1178 130 1178 130 1223 163 c 1,8,-1
+ 1355 78 l 1,9,10
+ 1270 -25 1270 -25 1101 -25 c 0,11,12
+ 1028 -25 1028 -25 967 -3.5 c 128,-1,13
+ 906 18 906 18 862 65 c 128,-1,14
+ 818 112 818 112 793.5 186 c 128,-1,15
+ 769 260 769 260 769 365 c 2,16,-1
+ 769 906 l 1,17,-1
+ 343 906 l 1,18,-1
+ 343 358 l 2,19,20
+ 343 288 343 288 355.5 244 c 128,-1,21
+ 368 200 368 200 389.5 174.5 c 128,-1,22
+ 411 149 411 149 440.5 139.5 c 128,-1,23
+ 470 130 470 130 504 130 c 0,24,25
+ 575 130 575 130 620 163 c 1,26,-1
+ 752 78 l 1,27,28
+ 670 -25 670 -25 499 -25 c 0,29,30
+ 425 -25 425 -25 364 -3 c 128,-1,31
+ 303 19 303 19 259 66 c 128,-1,32
+ 215 113 215 113 190.5 187 c 128,-1,33
+ 166 261 166 261 166 365 c 2,34,-1
+ 166 906 l 1,35,-1
+ 70 906 l 1,36,-1
+ 70 1061 l 1,37,-1
+ 1403 1061 l 1,38,-1
+ 1403 906 l 1,39,-1
+ 946 906 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE073
+Encoding: 57459 57459 107
+Width: 1491
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 791 -200 basechar 0
+AnchorPoint: "TehtaAbove" 691 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+70 1061 m 1,0,-1
+ 1403 1061 l 1,1,-1
+ 1403 906 l 1,2,-1
+ 1085 906 l 1,3,-1
+ 1085 358 l 2,4,5
+ 1085 290 1085 290 1097 245.5 c 128,-1,6
+ 1109 201 1109 201 1130 175.5 c 128,-1,7
+ 1151 150 1151 150 1180.5 140 c 128,-1,8
+ 1210 130 1210 130 1245 130 c 0,9,10
+ 1302 130 1302 130 1340 150 c 1,11,-1
+ 1405 7 l 1,12,13
+ 1333 -25 1333 -25 1241 -25 c 0,14,15
+ 1165 -25 1165 -25 1103.5 -2 c 128,-1,16
+ 1042 21 1042 21 998.5 69 c 128,-1,17
+ 955 117 955 117 931.5 190.5 c 128,-1,18
+ 908 264 908 264 908 365 c 2,19,-1
+ 908 906 l 1,20,-1
+ 667 906 l 1,21,-1
+ 667 358 l 2,22,23
+ 667 289 667 289 679 244.5 c 128,-1,24
+ 691 200 691 200 712.5 174.5 c 128,-1,25
+ 734 149 734 149 763.5 139.5 c 128,-1,26
+ 793 130 793 130 828 130 c 0,27,28
+ 883 130 883 130 921 150 c 1,29,-1
+ 986 7 l 1,30,31
+ 914 -25 914 -25 823 -25 c 0,32,33
+ 748 -25 748 -25 686.5 -2.5 c 128,-1,34
+ 625 20 625 20 581 67.5 c 128,-1,35
+ 537 115 537 115 513 188.5 c 128,-1,36
+ 489 262 489 262 489 365 c 2,37,-1
+ 489 906 l 1,38,-1
+ 248 906 l 1,39,-1
+ 248 358 l 2,40,41
+ 248 289 248 289 260 245 c 128,-1,42
+ 272 201 272 201 293.5 175.5 c 128,-1,43
+ 315 150 315 150 344.5 140 c 128,-1,44
+ 374 130 374 130 409 130 c 0,45,46
+ 465 130 465 130 503 150 c 1,47,-1
+ 568 7 l 1,48,49
+ 495 -25 495 -25 404 -25 c 0,50,51
+ 329 -25 329 -25 267 -2.5 c 128,-1,52
+ 205 20 205 20 161.5 68 c 128,-1,53
+ 118 116 118 116 94 189.5 c 128,-1,54
+ 70 263 70 263 70 365 c 2,55,-1
+ 70 1061 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE074
+Encoding: 57460 57460 108
+Width: 1354
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 754 -500 basechar 0
+AnchorPoint: "TehtaAbove" 854 1800 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+540 1310 m 1,0,-1
+ 540 55 l 2,1,2
+ 540 -8 540 -8 544.5 -51.5 c 128,-1,3
+ 549 -95 549 -95 559.5 -125.5 c 128,-1,4
+ 570 -156 570 -156 587.5 -176.5 c 128,-1,5
+ 605 -197 605 -197 631 -213 c 0,6,7
+ 657 -230 657 -230 686.5 -238 c 128,-1,8
+ 716 -246 716 -246 754 -246 c 0,9,10
+ 800 -246 800 -246 838.5 -229.5 c 128,-1,11
+ 877 -213 877 -213 905 -186 c 1,12,13
+ 947 -135 947 -135 962 -14 c 1,14,-1
+ 1138 -116 l 1,15,16
+ 1121 -198 1121 -198 1088.5 -256.5 c 128,-1,17
+ 1056 -315 1056 -315 1007.5 -352.5 c 128,-1,18
+ 959 -390 959 -390 895.5 -408 c 128,-1,19
+ 832 -426 832 -426 753 -426 c 0,20,21
+ 620 -426 620 -426 523 -371 c 128,-1,22
+ 426 -316 426 -316 384 -218 c 0,23,24
+ 340 -115 340 -115 340 66 c 2,25,-1
+ 340 1310 l 1,26,-1
+ 70 1310 l 1,27,-1
+ 70 1465 l 1,28,-1
+ 1267 1465 l 1,29,-1
+ 1267 1310 l 1,30,-1
+ 540 1310 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE075
+Encoding: 57461 57461 109
+Width: 1400
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 900 1500 basechar 0
+AnchorPoint: "TehtaBelow" 800 -500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+535 906 m 1,0,-1
+ 271 906 l 1,1,-1
+ 271 55 l 2,2,3
+ 271 -5 271 -5 275 -48.5 c 128,-1,4
+ 279 -92 279 -92 289 -122.5 c 128,-1,5
+ 299 -153 299 -153 316.5 -174.5 c 128,-1,6
+ 334 -196 334 -196 362 -213 c 0,7,8
+ 388 -230 388 -230 417.5 -238 c 128,-1,9
+ 447 -246 447 -246 485 -246 c 0,10,11
+ 527 -246 527 -246 562 -235.5 c 128,-1,12
+ 597 -225 597 -225 623.5 -198.5 c 128,-1,13
+ 650 -172 650 -172 667.5 -127 c 128,-1,14
+ 685 -82 685 -82 693 -14 c 1,15,-1
+ 869 -116 l 1,16,17
+ 840 -274 840 -274 741.5 -350 c 128,-1,18
+ 643 -426 643 -426 484 -426 c 0,19,20
+ 350 -426 350 -426 254 -371 c 128,-1,21
+ 158 -316 158 -316 115 -218 c 0,22,23
+ 94 -170 94 -170 82.5 -96 c 128,-1,24
+ 71 -22 71 -22 70 66 c 2,25,-1
+ 70 1465 l 1,26,-1
+ 271 1465 l 1,27,-1
+ 271 1061 l 1,28,-1
+ 1313 1061 l 1,29,-1
+ 1313 906 l 1,30,-1
+ 712 906 l 1,31,32
+ 712 822 712 822 711.5 741 c 128,-1,33
+ 711 660 711 660 711 576 c 0,34,35
+ 711 450 711 450 759.5 377 c 128,-1,36
+ 808 304 808 304 909 304 c 0,37,38
+ 1011 304 1011 304 1059 373 c 128,-1,39
+ 1107 442 1107 442 1107 587 c 1,40,-1
+ 1283 582 l 1,41,42
+ 1283 490 1283 490 1257.5 411 c 128,-1,43
+ 1232 332 1232 332 1184 273.5 c 128,-1,44
+ 1136 215 1136 215 1067 182 c 128,-1,45
+ 998 149 998 149 911 149 c 0,46,47
+ 821 149 821 149 751 181 c 128,-1,48
+ 681 213 681 213 633 269.5 c 128,-1,49
+ 585 326 585 326 560 403.5 c 128,-1,50
+ 535 481 535 481 535 571 c 2,51,-1
+ 535 906 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE076
+Encoding: 57462 57462 110
+Width: 1491
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 891 -500 basechar 0
+AnchorPoint: "TehtaAbove" 991 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1086 906 m 1,0,-1
+ 1086 532 l 2,1,2
+ 1086 462 1086 462 1098 418 c 128,-1,3
+ 1110 374 1110 374 1131 348.5 c 128,-1,4
+ 1152 323 1152 323 1181.5 313.5 c 128,-1,5
+ 1211 304 1211 304 1246 304 c 0,6,7
+ 1302 304 1302 304 1340 324 c 1,8,-1
+ 1405 181 l 1,9,10
+ 1333 149 1333 149 1241 149 c 0,11,12
+ 1168 149 1168 149 1107 171.5 c 128,-1,13
+ 1046 194 1046 194 1001.5 241 c 128,-1,14
+ 957 288 957 288 932.5 362 c 128,-1,15
+ 908 436 908 436 908 540 c 2,16,-1
+ 908 906 l 1,17,-1
+ 627 906 l 1,18,-1
+ 627 532 l 2,19,20
+ 627 466 627 466 638.5 422 c 128,-1,21
+ 650 378 650 378 671 351.5 c 128,-1,22
+ 692 325 692 325 721.5 314.5 c 128,-1,23
+ 751 304 751 304 788 304 c 0,24,25
+ 844 304 844 304 882 324 c 1,26,-1
+ 948 181 l 1,27,28
+ 873 149 873 149 784 149 c 0,29,30
+ 710 149 710 149 648.5 171.5 c 128,-1,31
+ 587 194 587 194 543 241.5 c 128,-1,32
+ 499 289 499 289 474.5 363 c 128,-1,33
+ 450 437 450 437 450 540 c 2,34,-1
+ 450 906 l 1,35,-1
+ 271 906 l 1,36,-1
+ 271 55 l 2,37,38
+ 271 -3 271 -3 275 -46.5 c 128,-1,39
+ 279 -90 279 -90 289.5 -121.5 c 128,-1,40
+ 300 -153 300 -153 317.5 -175 c 128,-1,41
+ 335 -197 335 -197 362 -213 c 0,42,43
+ 411 -246 411 -246 485 -246 c 0,44,45
+ 528 -246 528 -246 563 -235 c 128,-1,46
+ 598 -224 598 -224 624.5 -197 c 128,-1,47
+ 651 -170 651 -170 668.5 -125.5 c 128,-1,48
+ 686 -81 686 -81 694 -14 c 1,49,-1
+ 869 -116 l 1,50,51
+ 840 -276 840 -276 740 -351 c 128,-1,52
+ 640 -426 640 -426 484 -426 c 0,53,54
+ 350 -426 350 -426 254 -371 c 128,-1,55
+ 158 -316 158 -316 115 -218 c 0,56,57
+ 94 -170 94 -170 82.5 -96 c 128,-1,58
+ 71 -22 71 -22 70 66 c 2,59,-1
+ 70 1465 l 1,60,-1
+ 271 1465 l 1,61,-1
+ 271 1061 l 1,62,-1
+ 1403 1061 l 1,63,-1
+ 1403 906 l 1,64,-1
+ 1086 906 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE077
+Encoding: 57463 57463 111
+Width: 1354
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 854 1800 basechar 0
+AnchorPoint: "TehtaBelow" 754 -500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+999 1310 m 1,0,-1
+ 999 66 l 2,1,2
+ 999 -26 999 -26 988.5 -94.5 c 128,-1,3
+ 978 -163 978 -163 955.5 -215 c 128,-1,4
+ 933 -267 933 -267 898 -305 c 128,-1,5
+ 863 -343 863 -343 813 -373 c 0,6,7
+ 715 -426 715 -426 586 -426 c 0,8,9
+ 424 -426 424 -426 323.5 -347.5 c 128,-1,10
+ 223 -269 223 -269 200 -116 c 1,11,-1
+ 377 -14 l 1,12,13
+ 383 -82 383 -82 400.5 -126.5 c 128,-1,14
+ 418 -171 418 -171 445 -197.5 c 128,-1,15
+ 472 -224 472 -224 507.5 -235 c 128,-1,16
+ 543 -246 543 -246 585 -246 c 0,17,18
+ 655 -246 655 -246 707.5 -214 c 128,-1,19
+ 760 -182 760 -182 779 -126 c 0,20,21
+ 799 -63 799 -63 799 55 c 2,22,-1
+ 799 1310 l 1,23,-1
+ 70 1310 l 1,24,-1
+ 70 1465 l 1,25,-1
+ 1267 1465 l 1,26,-1
+ 1267 1310 l 1,27,-1
+ 999 1310 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE078
+Encoding: 57464 57464 112
+Width: 1490
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 1090 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1090 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1114 328 m 1,0,1
+ 1114 412 1114 412 1114.5 493 c 128,-1,2
+ 1115 574 1115 574 1115 658 c 0,3,4
+ 1115 789 1115 789 1066 859.5 c 128,-1,5
+ 1017 930 1017 930 918 930 c 0,6,7
+ 815 930 815 930 767 859.5 c 128,-1,8
+ 719 789 719 789 719 651 c 2,9,-1
+ 719 328 l 1,10,-1
+ 1114 328 l 1,0,1
+1292 328 m 1,11,-1
+ 1402 328 l 1,12,-1
+ 1402 173 l 1,13,-1
+ 719 173 l 1,14,-1
+ 719 66 l 2,15,16
+ 719 -26 719 -26 708.5 -95 c 128,-1,17
+ 698 -164 698 -164 676 -215.5 c 128,-1,18
+ 654 -267 654 -267 618.5 -305 c 128,-1,19
+ 583 -343 583 -343 534 -373 c 0,20,21
+ 433 -426 433 -426 306 -426 c 0,22,23
+ 166 -426 166 -426 69 -363 c 1,24,-1
+ 152 -181 l 1,25,26
+ 211 -246 211 -246 305 -246 c 0,27,28
+ 374 -246 374 -246 426.5 -215 c 128,-1,29
+ 479 -184 479 -184 499 -126 c 0,30,31
+ 519 -63 519 -63 519 55 c 2,32,-1
+ 519 1465 l 1,33,-1
+ 719 1465 l 1,34,-1
+ 719 1032 l 1,35,36
+ 801 1085 801 1085 916 1085 c 0,37,38
+ 1005 1085 1005 1085 1075 1052.5 c 128,-1,39
+ 1145 1020 1145 1020 1193 963.5 c 128,-1,40
+ 1241 907 1241 907 1266.5 830 c 128,-1,41
+ 1292 753 1292 753 1292 663 c 2,42,-1
+ 1292 328 l 1,11,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE079
+Encoding: 57465 57465 113
+Width: 1491
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 891 1500 basechar 0
+AnchorPoint: "TehtaBelow" 891 -200 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+1226 328 m 1,0,-1
+ 1226 702 l 2,1,2
+ 1226 771 1226 771 1213.5 815 c 128,-1,3
+ 1201 859 1201 859 1179.5 884.5 c 128,-1,4
+ 1158 910 1158 910 1128 920 c 128,-1,5
+ 1098 930 1098 930 1064 930 c 0,6,7
+ 1016 930 1016 930 980 911 c 128,-1,8
+ 944 892 944 892 927 854 c 1,9,10
+ 937 820 937 820 941 780.5 c 128,-1,11
+ 945 741 945 741 945 695 c 2,12,-1
+ 945 328 l 1,13,-1
+ 1226 328 l 1,0,-1
+767 328 m 1,14,-1
+ 767 702 l 2,15,16
+ 767 770 767 770 755 814.5 c 128,-1,17
+ 743 859 743 859 721.5 884.5 c 128,-1,18
+ 700 910 700 910 670.5 920 c 128,-1,19
+ 641 930 641 930 606 930 c 0,20,21
+ 537 930 537 930 493 898 c 1,22,-1
+ 486 892 l 1,23,-1
+ 486 328 l 1,24,-1
+ 767 328 l 1,14,-1
+1403 173 m 1,25,-1
+ 486 173 l 1,26,-1
+ 486 67 l 2,27,28
+ 486 -68 486 -68 458 -162 c 128,-1,29
+ 430 -256 430 -256 376.5 -314.5 c 128,-1,30
+ 323 -373 323 -373 245.5 -399.5 c 128,-1,31
+ 168 -426 168 -426 70 -426 c 1,32,-1
+ 70 -244 l 1,33,34
+ 148 -244 148 -244 191.5 -218 c 128,-1,35
+ 235 -192 235 -192 256 -149.5 c 128,-1,36
+ 277 -107 277 -107 281.5 -52.5 c 128,-1,37
+ 286 2 286 2 286 58 c 2,38,-1
+ 286 1465 l 1,39,-1
+ 486 1465 l 1,40,-1
+ 486 1068 l 1,41,42
+ 513 1077 513 1077 544.5 1081 c 128,-1,43
+ 576 1085 576 1085 611 1085 c 0,44,45
+ 748 1085 748 1085 837 1006 c 1,46,47
+ 879 1048 879 1048 935.5 1066.5 c 128,-1,48
+ 992 1085 992 1085 1070 1085 c 0,49,50
+ 1143 1085 1143 1085 1204 1062.5 c 128,-1,51
+ 1265 1040 1265 1040 1309 992.5 c 128,-1,52
+ 1353 945 1353 945 1378 871 c 128,-1,53
+ 1403 797 1403 797 1403 695 c 2,54,-1
+ 1403 173 l 1,25,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE07A
+Encoding: 57466 57466 114
+Width: 1102
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 602 -200 basechar 0
+AnchorPoint: "TehtaAbove" 902 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+380 1150 m 2,0,1
+ 359 1180 359 1180 343.5 1211.5 c 128,-1,2
+ 328 1243 328 1243 316.5 1280.5 c 128,-1,3
+ 305 1318 305 1318 297.5 1363.5 c 128,-1,4
+ 290 1409 290 1409 285 1465 c 1,5,-1
+ 468 1464 l 1,6,7
+ 473 1386 473 1386 488 1339.5 c 128,-1,8
+ 503 1293 503 1293 526 1260 c 2,9,-1
+ 935 680 l 2,10,11
+ 958 645 958 645 973.5 614.5 c 128,-1,12
+ 989 584 989 584 998.5 553.5 c 128,-1,13
+ 1008 523 1008 523 1012 491 c 128,-1,14
+ 1016 459 1016 459 1016 422 c 0,15,16
+ 1016 330 1016 330 983 248.5 c 128,-1,17
+ 950 167 950 167 888.5 106.5 c 128,-1,18
+ 827 46 827 46 740 10.5 c 128,-1,19
+ 653 -25 653 -25 545 -25 c 0,20,21
+ 442 -25 442 -25 359.5 6 c 128,-1,22
+ 277 37 277 37 216.5 97 c 128,-1,23
+ 156 157 156 157 119 246 c 128,-1,24
+ 82 335 82 335 70 451 c 1,25,-1
+ 260 476 l 1,26,27
+ 273 387 273 387 299.5 324.5 c 128,-1,28
+ 326 262 326 262 363.5 222 c 128,-1,29
+ 401 182 401 182 448 164 c 128,-1,30
+ 495 146 495 146 548 146 c 0,31,32
+ 605 146 605 146 655.5 170 c 128,-1,33
+ 706 194 706 194 743.5 234 c 128,-1,34
+ 781 274 781 274 803 326 c 128,-1,35
+ 825 378 825 378 825 435 c 0,36,37
+ 825 471 825 471 813.5 512 c 128,-1,38
+ 802 553 802 553 781 580 c 2,39,-1
+ 380 1150 l 2,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE07B
+Encoding: 57467 57467 115
+Width: 1102
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaAbove" 902 1500 basechar 0
+AnchorPoint: "TehtaBelow" 602 -500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+825 36 m 0,0,1
+ 825 93 825 93 803 140 c 1,2,3
+ 697 76 697 76 545 76 c 0,4,5
+ 442 76 442 76 359.5 107 c 128,-1,6
+ 277 138 277 138 216.5 199 c 128,-1,7
+ 156 260 156 260 119 348.5 c 128,-1,8
+ 82 437 82 437 70 553 c 1,9,-1
+ 260 579 l 1,10,11
+ 273 492 273 492 298.5 429 c 128,-1,12
+ 324 366 324 366 361 326 c 128,-1,13
+ 398 286 398 286 445 267 c 128,-1,14
+ 492 248 492 248 548 248 c 0,15,16
+ 605 248 605 248 655 271.5 c 128,-1,17
+ 705 295 705 295 743 334.5 c 128,-1,18
+ 781 374 781 374 803 426.5 c 128,-1,19
+ 825 479 825 479 825 537 c 0,20,21
+ 825 601 825 601 797 653 c 0,22,23
+ 795 655 795 655 791 663 c 128,-1,24
+ 787 671 787 671 781 682 c 1,25,-1
+ 781 681 l 1,26,27
+ 681 799 681 799 582.5 913 c 128,-1,28
+ 484 1027 484 1027 384 1145 c 0,29,30
+ 361 1177 361 1177 344.5 1210 c 128,-1,31
+ 328 1243 328 1243 316.5 1280.5 c 128,-1,32
+ 305 1318 305 1318 297.5 1363 c 128,-1,33
+ 290 1408 290 1408 285 1465 c 1,34,-1
+ 468 1464 l 1,35,36
+ 473 1386 473 1386 487.5 1339 c 128,-1,37
+ 502 1292 502 1292 526 1260 c 1,38,-1
+ 526 1261 l 1,39,40
+ 629 1140 629 1140 728.5 1024 c 128,-1,41
+ 828 908 828 908 931 787 c 1,42,43
+ 978 724 978 724 997 662 c 128,-1,44
+ 1016 600 1016 600 1016 523 c 0,45,46
+ 1016 380 1016 380 940 271 c 1,47,48
+ 961 238 961 238 975.5 208.5 c 128,-1,49
+ 990 179 990 179 999 150 c 128,-1,50
+ 1008 121 1008 121 1012 89.5 c 128,-1,51
+ 1016 58 1016 58 1016 22 c 0,52,53
+ 1016 -68 1016 -68 983 -149 c 128,-1,54
+ 950 -230 950 -230 888.5 -291 c 128,-1,55
+ 827 -352 827 -352 740 -388 c 128,-1,56
+ 653 -424 653 -424 545 -424 c 0,57,58
+ 343 -424 343 -424 219.5 -303.5 c 128,-1,59
+ 96 -183 96 -183 70 52 c 1,60,-1
+ 260 77 l 1,61,62
+ 286 -94 286 -94 360 -173 c 128,-1,63
+ 434 -252 434 -252 548 -252 c 0,64,65
+ 605 -252 605 -252 655.5 -228 c 128,-1,66
+ 706 -204 706 -204 743.5 -164 c 128,-1,67
+ 781 -124 781 -124 803 -72 c 128,-1,68
+ 825 -20 825 -20 825 36 c 0,0,1
+EndSplineSet
+EndChar
+
+StartChar: uniE07C
+Encoding: 57468 57468 116
+Width: 1157
+GlyphClass: 1
+Flags: W
+AnchorPoint: "TehtaBelow" 657 -500 basechar 0
+AnchorPoint: "TehtaAbove" 657 1500 basechar 0
+LayerCount: 2
+Fore
+SplineSet
+89 -434 m 1,0,1
+ 95 -376 95 -376 108 -338 c 128,-1,2
+ 121 -300 121 -300 139.5 -276.5 c 128,-1,3
+ 158 -253 158 -253 182 -241.5 c 128,-1,4
+ 206 -230 206 -230 233 -224 c 0,5,6
+ 290 -212 290 -212 458 -212 c 0,7,8
+ 567 -212 567 -212 638.5 -202 c 128,-1,9
+ 710 -192 710 -192 756 -171 c 128,-1,10
+ 802 -150 802 -150 828 -116.5 c 128,-1,11
+ 854 -83 854 -83 871 -36 c 0,12,13
+ 888 9 888 9 897 64.5 c 128,-1,14
+ 906 120 906 120 910 192 c 1,15,16
+ 878 144 878 144 839 108 c 128,-1,17
+ 800 72 800 72 758 50 c 1,18,-1
+ 758 51 l 1,19,20
+ 669 0 669 0 553 0 c 0,21,22
+ 450 0 450 0 362 36.5 c 128,-1,23
+ 274 73 274 73 209 141.5 c 128,-1,24
+ 144 210 144 210 107 308.5 c 128,-1,25
+ 70 407 70 407 70 531 c 0,26,27
+ 70 622 70 622 88.5 697.5 c 128,-1,28
+ 107 773 107 773 139 834 c 128,-1,29
+ 171 895 171 895 213 941 c 128,-1,30
+ 255 987 255 987 303 1019 c 0,31,32
+ 348 1050 348 1050 413.5 1067.5 c 128,-1,33
+ 479 1085 479 1085 560 1085 c 0,34,35
+ 654 1085 654 1085 726.5 1062 c 128,-1,36
+ 799 1039 799 1039 854.5 998 c 128,-1,37
+ 910 957 910 957 949.5 900.5 c 128,-1,38
+ 989 844 989 844 1016 777 c 0,39,40
+ 1071 643 1071 643 1071 309 c 0,41,42
+ 1071 -110 1071 -110 929 -256 c 0,43,44
+ 858 -329 858 -329 748 -365.5 c 128,-1,45
+ 638 -402 638 -402 490 -402 c 0,46,47
+ 412 -402 412 -402 367 -402.5 c 128,-1,48
+ 322 -403 322 -403 298.5 -406 c 128,-1,49
+ 275 -409 275 -409 266.5 -416 c 128,-1,50
+ 258 -423 258 -423 254 -436 c 1,51,-1
+ 89 -434 l 1,0,1
+264 527 m 0,52,53
+ 264 446 264 446 283.5 377.5 c 128,-1,54
+ 303 309 303 309 340.5 259.5 c 128,-1,55
+ 378 210 378 210 432.5 182.5 c 128,-1,56
+ 487 155 487 155 558 155 c 0,57,58
+ 631 155 631 155 688 184 c 128,-1,59
+ 745 213 745 213 784 265.5 c 128,-1,60
+ 823 318 823 318 843 392.5 c 128,-1,61
+ 863 467 863 467 863 559 c 0,62,63
+ 863 649 863 649 839.5 718.5 c 128,-1,64
+ 816 788 816 788 774.5 836 c 128,-1,65
+ 733 884 733 884 677.5 908.5 c 128,-1,66
+ 622 933 622 933 559 933 c 0,67,68
+ 491 933 491 933 436 902.5 c 128,-1,69
+ 381 872 381 872 343 818 c 128,-1,70
+ 305 764 305 764 284.5 689.5 c 128,-1,71
+ 264 615 264 615 264 527 c 0,52,53
+EndSplineSet
+EndChar
+
+StartChar: uniE07D
+Encoding: 57469 57469 117
+Width: 0
+Flags: W
+TtInstrs:
+PUSHW_1
+ 40
+MDAP[rnd]
+PUSHW_1
+ 35
+MDAP[rnd]
+NPUSHW
+ 5
+ 218
+ 35
+ 234
+ 35
+ 2
+DELTAP1
+NPUSHW
+ 27
+ 9
+ 35
+ 25
+ 35
+ 41
+ 35
+ 57
+ 35
+ 73
+ 35
+ 89
+ 35
+ 105
+ 35
+ 121
+ 35
+ 137
+ 35
+ 153
+ 35
+ 169
+ 35
+ 185
+ 35
+ 201
+ 35
+ 13
+DELTAP1
+PUSHW_1
+ 5
+MDRP[rp0,min,rnd,grey]
+PUSHW_1
+ 40
+SRP0
+PUSHW_1
+ 15
+MDRP[rp0,grey]
+PUSHW_1
+ 15
+MDAP[rnd]
+PUSHW_1
+ 25
+MDRP[rp0,min,rnd,grey]
+NPUSHW
+ 27
+ 6
+ 25
+ 22
+ 25
+ 38
+ 25
+ 54
+ 25
+ 70
+ 25
+ 86
+ 25
+ 102
+ 25
+ 118
+ 25
+ 134
+ 25
+ 150
+ 25
+ 166
+ 25
+ 182
+ 25
+ 198
+ 25
+ 13
+DELTAP1
+NPUSHW
+ 5
+ 213
+ 25
+ 229
+ 25
+ 2
+DELTAP1
+SVTCA[y-axis]
+PUSHW_3
+ 30
+ 10
+ 3
+CALL
+PUSHW_3
+ 0
+ 20
+ 3
+CALL
+IUP[y]
+IUP[x]
+EndTTInstrs
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-539 -169 m 0,0,1
+ -499 -169 -499 -169 -463.5 -184 c 128,-1,2
+ -428 -199 -428 -199 -402 -225 c 128,-1,3
+ -376 -251 -376 -251 -361 -285.5 c 128,-1,4
+ -346 -320 -346 -320 -346 -360 c 0,5,6
+ -346 -399 -346 -399 -362 -433 c 128,-1,7
+ -378 -467 -378 -467 -404.5 -491.5 c 128,-1,8
+ -431 -516 -431 -516 -466 -530.5 c 128,-1,9
+ -501 -545 -501 -545 -539 -545 c 0,10,11
+ -578 -545 -578 -545 -613.5 -530 c 128,-1,12
+ -649 -515 -649 -515 -675 -489 c 128,-1,13
+ -701 -463 -701 -463 -716.5 -428.5 c 128,-1,14
+ -732 -394 -732 -394 -732 -355 c 0,15,16
+ -732 -318 -732 -318 -717 -284.5 c 128,-1,17
+ -702 -251 -702 -251 -676 -225.5 c 128,-1,18
+ -650 -200 -650 -200 -615 -184.5 c 128,-1,19
+ -580 -169 -580 -169 -539 -169 c 0,0,1
+-539 -244 m 0,20,21
+ -565 -244 -565 -244 -586.5 -253.5 c 128,-1,22
+ -608 -263 -608 -263 -623.5 -279 c 128,-1,23
+ -639 -295 -639 -295 -648 -314.5 c 128,-1,24
+ -657 -334 -657 -334 -657 -355 c 0,25,26
+ -657 -378 -657 -378 -648 -398.5 c 128,-1,27
+ -639 -419 -639 -419 -623.5 -434.5 c 128,-1,28
+ -608 -450 -608 -450 -586.5 -459.5 c 128,-1,29
+ -565 -469 -565 -469 -539 -469 c 0,30,31
+ -514 -469 -514 -469 -492 -459.5 c 128,-1,32
+ -470 -450 -470 -450 -454.5 -434.5 c 128,-1,33
+ -439 -419 -439 -419 -430 -399 c 128,-1,34
+ -421 -379 -421 -379 -421 -358 c 0,35,36
+ -421 -336 -421 -336 -430.5 -315.5 c 128,-1,37
+ -440 -295 -440 -295 -456 -279 c 128,-1,38
+ -472 -263 -472 -263 -493.5 -253.5 c 128,-1,39
+ -515 -244 -515 -244 -539 -244 c 0,20,21
+EndSplineSet
+EndChar
+
+StartChar: uni0000
+Encoding: 0 0 118
+Width: 1393
+GlyphClass: 1
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: bar_above_narrow
+Encoding: 65539 -1 119
+Width: 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1700 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-336 1235 m 1,0,-1
+ -750 1235 l 1,1,-1
+ -750 1399 l 1,2,-1
+ -336 1399 l 1,3,-1
+ -336 1235 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: bar_above_wide
+Encoding: 65540 -1 120
+Width: 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "mkmk_up" -500 1700 basemark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-24 1253 m 1,0,-1
+ -1072 1253 l 1,1,-1
+ -1072 1383 l 1,2,-1
+ -24 1383 l 1,3,-1
+ -24 1253 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: bar_below_narrow
+Encoding: 65541 -1 121
+Width: 0
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-336 -326 m 1,0,-1
+ -750 -326 l 1,1,-1
+ -750 -162 l 1,2,-1
+ -336 -162 l 1,3,-1
+ -336 -326 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: bar_below_wide
+Encoding: 65542 -1 122
+Width: 0
+AnchorPoint: "mkmk_down" -500 -200 mark 0
+AnchorPoint: "mkmk_down" -500 -500 basemark 0
+AnchorPoint: "TehtaBelow" -500 -200 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-24 -326 m 1,0,-1
+ -1072 -326 l 1,1,-1
+ -1072 -196 l 1,2,-1
+ -24 -196 l 1,3,-1
+ -24 -326 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: lambe_bar_below
+Encoding: 65543 -1 123
+Width: 0
+Flags: W
+AnchorPoint: "LambeBar" -300 800 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-86 655 m 1,0,-1
+ -500 655 l 1,1,-1
+ -500 799 l 1,2,-1
+ -86 799 l 1,3,-1
+ -86 655 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE05B
+Encoding: 57435 57435 124
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-219 1282 m 1,0,-1
+ -434 1282 l 1,1,-1
+ -539 1449 l 1,2,3
+ -568 1407 -568 1407 -595.5 1365.5 c 128,-1,4
+ -623 1324 -623 1324 -652 1282 c 1,5,-1
+ -865 1282 l 1,6,-1
+ -642 1569 l 1,7,-1
+ -450 1569 l 1,8,-1
+ -219 1282 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uniE05C
+Encoding: 57436 57436 125
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-223 1570 m 1,0,-1
+ -446 1284 l 1,1,-1
+ -637 1284 l 1,2,-1
+ -868 1570 l 1,3,-1
+ -654 1570 l 1,4,-1
+ -548 1403 l 1,5,6
+ -519 1445 -519 1445 -492 1486.5 c 128,-1,7
+ -465 1528 -465 1528 -436 1570 c 1,8,-1
+ -223 1570 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: harmasilme
+Encoding: 65544 -1 126
+Width: 1732
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1583 1465 m 1,0,-1
+ 1583 0 l 1,1,-1
+ 1397 0 l 1,2,-1
+ 1397 133 l 1,3,4
+ 1287 -23 1287 -23 1096 -23 c 0,5,6
+ 999 -23 999 -23 919 24.5 c 128,-1,7
+ 839 72 839 72 784 169 c 1,8,9
+ 730 71 730 71 649 24 c 128,-1,10
+ 568 -23 568 -23 478 -23 c 0,11,12
+ 378 -23 378 -23 302 16 c 128,-1,13
+ 226 55 226 55 174.5 122.5 c 128,-1,14
+ 123 190 123 190 97 280 c 128,-1,15
+ 71 370 71 370 71 472 c 0,16,17
+ 71 618 71 618 96 743 c 128,-1,18
+ 121 868 121 868 168.5 969.5 c 128,-1,19
+ 216 1071 216 1071 284 1147 c 128,-1,20
+ 352 1223 352 1223 438 1271 c 0,21,22
+ 782 1465 782 1465 1402 1465 c 2,23,-1
+ 1583 1465 l 1,0,-1
+1397 1310 m 1,24,25
+ 1004 1303 1004 1303 689 1207 c 0,26,27
+ 375 1112 375 1112 286 716 c 0,28,29
+ 261 609 261 609 261 506 c 0,30,31
+ 261 417 261 417 277.5 346.5 c 128,-1,32
+ 294 276 294 276 323 227 c 128,-1,33
+ 352 178 352 178 393 151.5 c 128,-1,34
+ 434 125 434 125 482 125 c 0,35,36
+ 536 125 536 125 578.5 153.5 c 128,-1,37
+ 621 182 621 182 650.5 233 c 128,-1,38
+ 680 284 680 284 695.5 355.5 c 128,-1,39
+ 711 427 711 427 711 513 c 2,40,-1
+ 711 520 l 2,41,42
+ 711 781 711 781 868 1061 c 1,43,-1
+ 1052 1061 l 1,44,45
+ 1016 979 1016 979 991 916 c 128,-1,46
+ 966 853 966 853 948.5 803.5 c 128,-1,47
+ 931 754 931 754 921 715 c 128,-1,48
+ 911 676 911 676 906 642 c 128,-1,49
+ 901 608 901 608 899.5 575.5 c 128,-1,50
+ 898 543 898 543 898 506 c 0,51,52
+ 898 418 898 418 914.5 347.5 c 128,-1,53
+ 931 277 931 277 960.5 227.5 c 128,-1,54
+ 990 178 990 178 1030 151.5 c 128,-1,55
+ 1070 125 1070 125 1118 125 c 0,56,57
+ 1155 125 1155 125 1192 138.5 c 128,-1,58
+ 1229 152 1229 152 1262 175.5 c 128,-1,59
+ 1295 199 1295 199 1321.5 230.5 c 128,-1,60
+ 1348 262 1348 262 1363 298 c 0,61,62
+ 1380 334 1380 334 1387 358.5 c 128,-1,63
+ 1394 383 1394 383 1397 400 c 2,64,-1
+ 1397 1310 l 1,24,25
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE024 zwj uniE00A
+EndChar
+
+StartChar: harmatinco
+Encoding: 65545 -1 127
+Width: 1733
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+951 -406 m 1,0,-1
+ 764 -406 l 1,1,-1
+ 764 132 l 1,2,3
+ 655 -25 655 -25 461 -25 c 0,4,5
+ 377 -25 377 -25 306 10 c 128,-1,6
+ 235 45 235 45 182.5 113.5 c 128,-1,7
+ 130 182 130 182 100.5 282 c 128,-1,8
+ 71 382 71 382 71 512 c 0,9,10
+ 71 774 71 774 230 1061 c 1,11,-1
+ 414 1061 l 1,12,13
+ 378 979 378 979 353 916 c 128,-1,14
+ 328 853 328 853 311 803.5 c 128,-1,15
+ 294 754 294 754 284 715 c 128,-1,16
+ 274 676 274 676 268.5 642 c 128,-1,17
+ 263 608 263 608 261.5 575.5 c 128,-1,18
+ 260 543 260 543 260 506 c 0,19,20
+ 260 418 260 418 276.5 347.5 c 128,-1,21
+ 293 277 293 277 322 227.5 c 128,-1,22
+ 351 178 351 178 391.5 151 c 128,-1,23
+ 432 124 432 124 480 124 c 2,24,-1
+ 484 124 l 2,25,26
+ 538 124 538 124 585.5 147.5 c 128,-1,27
+ 633 171 633 171 669.5 208 c 128,-1,28
+ 706 245 706 245 730.5 291.5 c 128,-1,29
+ 755 338 755 338 764 383 c 1,30,-1
+ 764 1465 l 1,31,-1
+ 951 1465 l 1,32,-1
+ 951 928 l 1,33,34
+ 1060 1085 1060 1085 1254 1085 c 0,35,36
+ 1338 1085 1338 1085 1409.5 1049.5 c 128,-1,37
+ 1481 1014 1481 1014 1533 946 c 128,-1,38
+ 1585 878 1585 878 1614.5 778 c 128,-1,39
+ 1644 678 1644 678 1644 549 c 0,40,41
+ 1644 414 1644 414 1604 279 c 128,-1,42
+ 1564 144 1564 144 1485 0 c 1,43,-1
+ 1300 0 l 1,44,45
+ 1354 123 1354 123 1386.5 209 c 128,-1,46
+ 1419 295 1419 295 1429 346 c 0,47,48
+ 1454 453 1454 453 1454 555 c 0,49,50
+ 1454 642 1454 642 1438 712.5 c 128,-1,51
+ 1422 783 1422 783 1393 832.5 c 128,-1,52
+ 1364 882 1364 882 1323 909 c 128,-1,53
+ 1282 936 1282 936 1232 936 c 0,54,55
+ 1178 936 1178 936 1130.5 912.5 c 128,-1,56
+ 1083 889 1083 889 1046.5 851.5 c 128,-1,57
+ 1010 814 1010 814 985 768 c 128,-1,58
+ 960 722 960 722 951 677 c 1,59,-1
+ 951 -406 l 1,0,-1
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE00A zwj uniE000
+EndChar
+
+StartChar: hwestatinco
+Encoding: 65546 -1 128
+Width: 1810
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+1028 -405 m 1,0,-1
+ 840 -405 l 1,1,-1
+ 840 132 l 1,2,3
+ 734 -25 734 -25 537 -25 c 0,4,5
+ 453 -25 453 -25 381.5 10 c 128,-1,6
+ 310 45 310 45 258 113.5 c 128,-1,7
+ 206 182 206 182 176.5 282 c 128,-1,8
+ 147 382 147 382 147 512 c 0,9,10
+ 147 702 147 702 230 906 c 1,11,-1
+ 71 906 l 1,12,-1
+ 71 1061 l 1,13,-1
+ 840 1061 l 1,14,-1
+ 840 1465 l 1,15,-1
+ 1027 1465 l 1,16,-1
+ 1027 928 l 1,17,18
+ 1136 1085 1136 1085 1330 1085 c 0,19,20
+ 1414 1085 1414 1085 1485 1050 c 128,-1,21
+ 1556 1015 1556 1015 1608.5 946.5 c 128,-1,22
+ 1661 878 1661 878 1690.5 778 c 128,-1,23
+ 1720 678 1720 678 1720 549 c 0,24,25
+ 1720 284 1720 284 1562 0 c 1,26,-1
+ 1377 0 l 1,27,28
+ 1412 82 1412 82 1437.5 145 c 128,-1,29
+ 1463 208 1463 208 1480 257.5 c 128,-1,30
+ 1497 307 1497 307 1507 346 c 128,-1,31
+ 1517 385 1517 385 1522.5 419 c 128,-1,32
+ 1528 453 1528 453 1529.5 486 c 128,-1,33
+ 1531 519 1531 519 1531 555 c 0,34,35
+ 1531 638 1531 638 1515.5 708 c 128,-1,36
+ 1500 778 1500 778 1471 828.5 c 128,-1,37
+ 1442 879 1442 879 1401 907.5 c 128,-1,38
+ 1360 936 1360 936 1309 936 c 0,39,40
+ 1270 936 1270 936 1234 922.5 c 128,-1,41
+ 1198 909 1198 909 1167 888 c 128,-1,42
+ 1136 867 1136 867 1110.5 842 c 128,-1,43
+ 1085 817 1085 817 1069 793 c 0,44,45
+ 1054 771 1054 771 1044 741.5 c 128,-1,46
+ 1034 712 1034 712 1028 677 c 1,47,-1
+ 1028 -405 l 1,0,-1
+425 906 m 1,48,49
+ 395 832 395 832 377 774 c 128,-1,50
+ 359 716 359 716 349.5 669 c 128,-1,51
+ 340 622 340 622 337 582.5 c 128,-1,52
+ 334 543 334 543 334 506 c 0,53,54
+ 334 424 334 424 349.5 354 c 128,-1,55
+ 365 284 365 284 394.5 233 c 128,-1,56
+ 424 182 424 182 465.5 153 c 128,-1,57
+ 507 124 507 124 559 124 c 0,58,59
+ 599 124 599 124 636 137.5 c 128,-1,60
+ 673 151 673 151 705.5 174.5 c 128,-1,61
+ 738 198 738 198 763.5 230 c 128,-1,62
+ 789 262 789 262 807 299 c 0,63,64
+ 859 411 859 411 859 589 c 2,65,-1
+ 859 602 l 2,66,67
+ 858 696 858 696 853 771 c 128,-1,68
+ 848 846 848 846 840 906 c 1,69,-1
+ 425 906 l 1,48,49
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE00B zwj uniE000
+EndChar
+
+StartChar: uni204A
+Encoding: 8266 8266 129
+Width: 855
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+593 906 m 1,0,-1
+ 69 906 l 1,1,-1
+ 69 1061 l 1,2,-1
+ 771 1061 l 1,3,-1
+ 771 365 l 2,4,5
+ 771 261 771 261 746 187.5 c 128,-1,6
+ 721 114 721 114 677 66.5 c 128,-1,7
+ 633 19 633 19 571.5 -3 c 128,-1,8
+ 510 -25 510 -25 437 -25 c 0,9,10
+ 346 -25 346 -25 274 7 c 1,11,-1
+ 338 150 l 1,12,13
+ 380 130 380 130 432 130 c 0,14,15
+ 467 130 467 130 496.5 140 c 128,-1,16
+ 526 150 526 150 547.5 175.5 c 128,-1,17
+ 569 201 569 201 581 245 c 128,-1,18
+ 593 289 593 289 593 358 c 2,19,-1
+ 593 906 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2E31
+Encoding: 11825 11825 130
+Width: 361
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 636 m 1,0,-1
+ 280 425 l 1,1,-1
+ 68 425 l 1,2,-1
+ 68 636 l 1,3,-1
+ 280 636 l 1,0,-1
+EndSplineSet
+EndChar
+
+StartChar: colon
+Encoding: 58 58 131
+Width: 361
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 424 m 1,0,-1
+ 280 212 l 1,1,-1
+ 68 212 l 1,2,-1
+ 68 424 l 1,3,-1
+ 280 424 l 1,0,-1
+280 849 m 1,4,-1
+ 280 637 l 1,5,-1
+ 68 637 l 1,6,-1
+ 68 849 l 1,7,-1
+ 280 849 l 1,4,-1
+EndSplineSet
+EndChar
+
+StartChar: uni205D
+Encoding: 8285 8285 132
+Width: 361
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+280 1061 m 1,0,-1
+ 280 850 l 1,1,-1
+ 68 850 l 1,2,-1
+ 68 1061 l 1,3,-1
+ 280 1061 l 1,0,-1
+280 211 m 1,4,-1
+ 280 0 l 1,5,-1
+ 68 0 l 1,6,-1
+ 68 211 l 1,7,-1
+ 280 211 l 1,4,-1
+280 636 m 1,8,-1
+ 280 425 l 1,9,-1
+ 68 425 l 1,10,-1
+ 68 636 l 1,11,-1
+ 280 636 l 1,8,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2E2D
+Encoding: 11821 11821 133
+Width: 1217
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+706 1061 m 1,0,-1
+ 706 850 l 1,1,-1
+ 496 850 l 1,2,-1
+ 496 1061 l 1,3,-1
+ 706 1061 l 1,0,-1
+706 211 m 1,4,-1
+ 706 0 l 1,5,-1
+ 496 0 l 1,6,-1
+ 496 211 l 1,7,-1
+ 706 211 l 1,4,-1
+706 636 m 1,8,-1
+ 706 425 l 1,9,-1
+ 496 425 l 1,10,-1
+ 496 636 l 1,11,-1
+ 706 636 l 1,8,-1
+920 636 m 1,12,-1
+ 1131 636 l 1,13,-1
+ 1131 425 l 1,14,-1
+ 920 425 l 1,15,-1
+ 920 636 l 1,12,-1
+70 636 m 1,16,-1
+ 281 636 l 1,17,-1
+ 281 425 l 1,18,-1
+ 70 425 l 1,19,-1
+ 70 636 l 1,16,-1
+EndSplineSet
+EndChar
+
+StartChar: uni2058
+Encoding: 8280 8280 134
+Width: 945
+Flags: W
+LayerCount: 2
+Fore
+SplineSet
+69 636 m 1,0,-1
+ 281 636 l 1,1,-1
+ 281 425 l 1,2,-1
+ 69 425 l 1,3,-1
+ 69 636 l 1,0,-1
+649 636 m 1,4,-1
+ 860 636 l 1,5,-1
+ 860 425 l 1,6,-1
+ 649 425 l 1,7,-1
+ 649 636 l 1,4,-1
+570 375 m 1,8,-1
+ 570 164 l 1,9,-1
+ 359 164 l 1,10,-1
+ 359 375 l 1,11,-1
+ 570 375 l 1,8,-1
+570 897 m 1,12,-1
+ 570 686 l 1,13,-1
+ 359 686 l 1,14,-1
+ 359 897 l 1,15,-1
+ 570 897 l 1,12,-1
+EndSplineSet
+EndChar
+
+StartChar: rightcurl_above_double
+Encoding: 65547 -1 135
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-114 1430 m 1,0,1
+ -114 1467 -114 1467 -120 1498 c 128,-1,2
+ -126 1529 -126 1529 -144 1547 c 0,3,4
+ -158 1561 -158 1561 -180 1564.5 c 128,-1,5
+ -202 1568 -202 1568 -223 1560 c 1,6,-1
+ -222 1561 l 1,7,8
+ -247 1549 -247 1549 -291 1505 c 2,9,-1
+ -560 1233 l 1,10,-1
+ -644 1317 l 1,11,-1
+ -303 1659 l 2,12,13
+ -269 1689 -269 1689 -235.5 1701.5 c 128,-1,14
+ -202 1714 -202 1714 -171.5 1713 c 128,-1,15
+ -141 1712 -141 1712 -113.5 1699 c 128,-1,16
+ -86 1686 -86 1686 -65 1664 c 0,17,18
+ -32 1631 -32 1631 -15.5 1581 c 128,-1,19
+ 1 1531 1 1531 6 1483 c 1,20,-1
+ -114 1430 l 1,0,1
+-435 1429 m 1,21,22
+ -435 1466 -435 1466 -441 1497 c 128,-1,23
+ -447 1528 -447 1528 -465 1546 c 0,24,25
+ -479 1560 -479 1560 -501 1563.5 c 128,-1,26
+ -523 1567 -523 1567 -544 1559 c 1,27,-1
+ -543 1560 l 1,28,29
+ -568 1548 -568 1548 -612 1504 c 2,30,-1
+ -881 1232 l 1,31,-1
+ -965 1316 l 1,32,-1
+ -624 1658 l 2,33,34
+ -590 1688 -590 1688 -556.5 1700.5 c 128,-1,35
+ -523 1713 -523 1713 -492.5 1712 c 128,-1,36
+ -462 1711 -462 1711 -434.5 1698 c 128,-1,37
+ -407 1685 -407 1685 -385 1663 c 0,38,39
+ -352 1630 -352 1630 -336 1580 c 128,-1,40
+ -320 1530 -320 1530 -315 1482 c 1,41,-1
+ -435 1429 l 1,21,22
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE04A uniE04A
+LCarets2: 1 0
+EndChar
+
+StartChar: leftcurl_above_double
+Encoding: 65548 -1 136
+Width: 0
+Flags: W
+AnchorPoint: "mkmk_up" -500 1800 basemark 0
+AnchorPoint: "mkmk_up" -500 1500 mark 0
+AnchorPoint: "TehtaAbove" -500 1500 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-503 1828 m 5,0,1
+ -450 1820 -450 1820 -400.5 1803 c 132,-1,2
+ -351 1786 -351 1786 -321 1757 c 4,3,4
+ -300 1736 -300 1736 -287.5 1709.5 c 132,-1,5
+ -275 1683 -275 1683 -274 1652.5 c 132,-1,6
+ -273 1622 -273 1622 -285 1588 c 132,-1,7
+ -297 1554 -297 1554 -327 1519 c 6,8,-1
+ -670 1176 l 5,9,-1
+ -754 1260 l 5,10,-1
+ -481 1530 l 6,11,12
+ -457 1554 -457 1554 -443.5 1571.5 c 132,-1,13
+ -430 1589 -430 1589 -424 1603 c 132,-1,14
+ -418 1617 -418 1617 -418.5 1629 c 132,-1,15
+ -419 1641 -419 1641 -424 1654 c 5,16,-1
+ -423 1653 l 5,17,18
+ -430 1667 -430 1667 -438 1675 c 4,19,20
+ -449 1686 -449 1686 -466 1694 c 5,21,-1
+ -465 1694 l 5,22,23
+ -502 1708 -502 1708 -557 1708 c 5,24,-1
+ -503 1828 l 5,0,1
+-234 1829 m 5,25,26
+ -181 1821 -181 1821 -131.5 1804 c 132,-1,27
+ -82 1787 -82 1787 -52 1758 c 4,28,29
+ -31 1737 -31 1737 -18.5 1710.5 c 132,-1,30
+ -6 1684 -6 1684 -5 1653.5 c 132,-1,31
+ -4 1623 -4 1623 -16 1589 c 132,-1,32
+ -28 1555 -28 1555 -58 1520 c 6,33,-1
+ -401 1177 l 5,34,-1
+ -485 1261 l 5,35,-1
+ -212 1531 l 6,36,37
+ -188 1555 -188 1555 -174.5 1572.5 c 132,-1,38
+ -161 1590 -161 1590 -155 1604 c 132,-1,39
+ -149 1618 -149 1618 -149.5 1630 c 132,-1,40
+ -150 1642 -150 1642 -155 1655 c 5,41,-1
+ -154 1654 l 5,42,43
+ -161 1668 -161 1668 -169 1676 c 4,44,45
+ -180 1687 -180 1687 -197 1695 c 5,46,-1
+ -196 1695 l 5,47,48
+ -233 1709 -233 1709 -288 1709 c 5,49,-1
+ -234 1829 l 5,25,26
+EndSplineSet
+Ligature2: "Ligatures subtable" uniE04C uniE04C
+LCarets2: 1 0
+EndChar
+
+StartChar: zwj
+Encoding: 8205 8205 137
+Width: 0
+Flags: W
+LayerCount: 2
+EndChar
+
+StartChar: lambe_xhook
+Encoding: 65549 -1 138
+Width: 0
+Flags: W
+AnchorPoint: "LambeXhook" -350 0 mark 0
+LayerCount: 2
+Fore
+SplineSet
+-675 -527 m 1,0,1
+ -724 -507 -724 -507 -768.5 -478.5 c 128,-1,2
+ -813 -450 -813 -450 -834 -413 c 0,3,4
+ -850 -385 -850 -385 -855 -355.5 c 128,-1,5
+ -860 -326 -860 -326 -852.5 -296 c 128,-1,6
+ -845 -266 -845 -266 -824 -237 c 128,-1,7
+ -803 -208 -803 -208 -766 -182 c 1,8,-1
+ -347 60 l 1,9,-1
+ -288 -43 l 1,10,-1
+ -621 -234 l 2,11,12
+ -684 -270 -684 -270 -703 -298.5 c 128,-1,13
+ -722 -327 -722 -327 -701 -363 c 0,14,15
+ -679 -402 -679 -402 -595 -424 c 1,16,-1
+ -675 -527 l 1,0,1
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
