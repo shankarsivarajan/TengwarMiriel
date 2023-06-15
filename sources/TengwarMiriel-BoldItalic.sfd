@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1275331820
-ModificationTime: 1686854877
+ModificationTime: 1686863151
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -3172,6 +3172,7 @@ SplineSet
  487 765 487 765 450 694 c 128,-1,41
  413 623 413 623 393 530 c 256,22,23
 EndSplineSet
+Kerns2: 36 -150 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -200 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
 StartChar: uniE02C
