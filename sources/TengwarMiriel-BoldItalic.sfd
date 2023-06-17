@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1275331820
-ModificationTime: 1687024070
+ModificationTime: 1687027467
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -687,7 +687,7 @@ Encoding: 8 57344 4
 Width: 1093
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaBelow" 693 -200 basechar 0
+AnchorPoint: "TehtaBelow" 793 -200 basechar 0
 AnchorPoint: "TehtaAbove" 893 1500 basechar 0
 LayerCount: 2
 Fore
@@ -728,7 +728,7 @@ Encoding: 9 57345 5
 Width: 1170
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaBelow" 770 -200 basechar 0
+AnchorPoint: "TehtaBelow" 870 -200 basechar 0
 AnchorPoint: "TehtaAbove" 970 1500 basechar 0
 LayerCount: 2
 Fore
@@ -777,7 +777,7 @@ Width: 1095
 GlyphClass: 1
 Flags: W
 AnchorPoint: "TehtaAbove" 895 1500 basechar 0
-AnchorPoint: "TehtaBelow" 695 -200 basechar 0
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -820,7 +820,7 @@ Encoding: 11 57347 7
 Width: 1172
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaBelow" 772 -200 basechar 0
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
 AnchorPoint: "TehtaAbove" 972 1500 basechar 0
 LayerCount: 2
 Fore
@@ -1131,7 +1131,7 @@ Encoding: 16 57352 12
 Width: 1093
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaAbove" 893 1500 basechar 0
+AnchorPoint: "TehtaAbove" 993 1500 basechar 0
 AnchorPoint: "TehtaBelow" 693 -200 basechar 0
 LayerCount: 2
 Fore
@@ -1172,7 +1172,7 @@ Encoding: 17 57353 13
 Width: 1170
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaAbove" 970 1500 basechar 0
+AnchorPoint: "TehtaAbove" 1070 1500 basechar 0
 AnchorPoint: "TehtaBelow" 770 -200 basechar 0
 LayerCount: 2
 Fore
@@ -1219,7 +1219,7 @@ Width: 1095
 GlyphClass: 1
 Flags: W
 AnchorPoint: "TehtaBelow" 695 -200 basechar 0
-AnchorPoint: "TehtaAbove" 895 1500 basechar 0
+AnchorPoint: "TehtaAbove" 795 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -1262,7 +1262,7 @@ Encoding: 19 57355 15
 Width: 1172
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaAbove" 972 1500 basechar 0
+AnchorPoint: "TehtaAbove" 872 1500 basechar 0
 AnchorPoint: "TehtaBelow" 772 -200 basechar 0
 LayerCount: 2
 Fore
@@ -2016,8 +2016,8 @@ Encoding: 32 57368 28
 Width: 1093
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaAbove" 893 1500 basechar 0
-AnchorPoint: "TehtaBelow" 693 -200 basechar 0
+AnchorPoint: "TehtaAbove" 993 1500 basechar 0
+AnchorPoint: "TehtaBelow" 793 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2057,8 +2057,8 @@ Encoding: 33 57369 29
 Width: 1170
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaAbove" 970 1500 basechar 0
-AnchorPoint: "TehtaBelow" 770 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1070 1500 basechar 0
+AnchorPoint: "TehtaBelow" 870 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2105,8 +2105,8 @@ Encoding: 34 57370 30
 Width: 1095
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaBelow" 695 -200 basechar 0
-AnchorPoint: "TehtaAbove" 895 1500 basechar 0
+AnchorPoint: "TehtaBelow" 595 -200 basechar 0
+AnchorPoint: "TehtaAbove" 795 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -2149,8 +2149,8 @@ Encoding: 35 57371 31
 Width: 1172
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaAbove" 972 1500 basechar 0
-AnchorPoint: "TehtaBelow" 772 -200 basechar 0
+AnchorPoint: "TehtaAbove" 872 1500 basechar 0
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3058,7 +3058,7 @@ Width: 1248
 GlyphClass: 1
 Flags: W
 AnchorPoint: "TehtaBelow" 848 -200 basechar 0
-AnchorPoint: "TehtaAbove" 1148 1500 basechar 0
+AnchorPoint: "TehtaAbove" 1248 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3095,7 +3095,7 @@ Width: 1465
 GlyphClass: 1
 Flags: W
 AnchorPoint: "TehtaBelow" 772 -200 basechar 0
-AnchorPoint: "TehtaAbove" 972 1500 basechar 0
+AnchorPoint: "TehtaAbove" 772 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -3596,7 +3596,7 @@ Encoding: 63 57399 59
 Width: 1172
 GlyphClass: 1
 Flags: W
-AnchorPoint: "TehtaBelow" 772 -200 basechar 0
+AnchorPoint: "TehtaBelow" 672 -200 basechar 0
 AnchorPoint: "TehtaAbove" 972 1500 basechar 0
 LayerCount: 2
 Fore
@@ -3646,7 +3646,7 @@ Width: 1172
 GlyphClass: 1
 Flags: W
 AnchorPoint: "TehtaBelow" 772 -200 basechar 0
-AnchorPoint: "TehtaAbove" 972 1500 basechar 0
+AnchorPoint: "TehtaAbove" 872 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
