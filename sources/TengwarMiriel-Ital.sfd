@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1275331864
-ModificationTime: 1687028901
+ModificationTime: 1687033041
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -83,7 +83,7 @@ Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2-1
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 5 2 "'kern' Horizontal Kerning in Latin lookup 2-2"
- 127 uniE000 uniE001 uniE004 uniE005 uniE008 uniE009 uniE00C uniE00D uniE010 uniE011 uniE014 uniE015 uniE018 uniE019 uniE01C uniE01D
+ 150 uniE000 uniE001 uniE004 uniE005 uniE008 uniE009 uniE00C uniE00D uniE010 uniE011 uniE014 uniE015 uniE018 uniE019 uniE01C uniE01D harmatinco hwestatinco
  63 uniE002 uniE003 uniE006 uniE007 uniE012 uniE013 uniE016 uniE017
  31 uniE00A uniE00B uniE00E uniE00F
  31 uniE01A uniE01B uniE01E uniE01F
@@ -5834,6 +5834,8 @@ StartChar: harmasilme
 Encoding: 134 -1 126
 Width: 1732
 Flags: W
+AnchorPoint: "TehtaAbove" 1232 1800 basechar 0
+AnchorPoint: "TehtaBelow" 1032 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5889,7 +5891,7 @@ SplineSet
  1475 383 1475 383 1482 400 c 2,64,-1
  1675 1310 l 1,24,25
 EndSplineSet
-Validated: 33
+LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" uniE024 zwj uniE00A
 EndChar
 
@@ -5897,6 +5899,8 @@ StartChar: harmatinco
 Encoding: 135 -1 127
 Width: 1733
 Flags: W
+AnchorPoint: "TehtaBelow" 1433 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1633 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -5949,7 +5953,7 @@ SplineSet
  1113 722 1113 722 1094 677 c 1,59,-1
  864 -406 l 1,0,-1
 EndSplineSet
-Validated: 33
+LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" uniE00A zwj uniE000
 EndChar
 
@@ -5957,6 +5961,8 @@ StartChar: hwestatinco
 Encoding: 136 -1 128
 Width: 1810
 Flags: W
+AnchorPoint: "TehtaAbove" 1710 1500 basechar 0
+AnchorPoint: "TehtaBelow" 1510 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6018,7 +6024,7 @@ SplineSet
  1027 846 1027 846 1032 906 c 1,69,-1
  617 906 l 1,48,49
 EndSplineSet
-Validated: 33
+LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" uniE00B zwj uniE000
 EndChar
 

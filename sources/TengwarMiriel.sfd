@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1275331735
-ModificationTime: 1687026560
+ModificationTime: 1687032864
 PfmFamily: 33
 TTFWeight: 400
 TTFWidth: 5
@@ -83,7 +83,7 @@ Lookup: 262 0 0 "'mkmk' Mark to Mark lookup 2" { "'mkmk' Mark to Mark lookup 2-1
 MarkAttachClasses: 1
 DEI: 91125
 KernClass2: 5 2 "'kern' Horizontal Kerning in Latin lookup 2-2"
- 63 uniE000 uniE004 uniE008 uniE00C uniE010 uniE014 uniE018 uniE01C
+ 86 uniE000 uniE004 uniE008 uniE00C uniE010 uniE014 uniE018 uniE01C harmatinco hwestatinco
  31 uniE001 uniE005 uniE019 uniE01D
  127 uniE002 uniE003 uniE006 uniE007 uniE00A uniE00B uniE00E uniE00F uniE012 uniE013 uniE016 uniE017 uniE01A uniE01B uniE01E uniE01F
  31 uniE009 uniE00D uniE011 uniE015
@@ -610,7 +610,7 @@ NameList: AGL For New Fonts
 DisplaySize: -48
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 39 14
+WinInfo: 0 31 11
 BeginPrivate: 0
 EndPrivate
 AnchorClass2: "LambeXhook" "Mark to base attachment lookup 1-1" "LambeBar" "Mark to base attachment lookup 1-1" "mkmk_down" "'mkmk' Mark to Mark lookup 2-1" "mkmk_up" "'mkmk' Mark to Mark lookup 2-1" "TehtaBelow" "Mark to base attachment lookup 1-1" "TehtaAbove" "Mark to base attachment lookup 1-1"
@@ -2525,6 +2525,7 @@ SplineSet
  256 692 256 692 306 701 c 1,57,-1
  68 1061 l 1,0,-1
 EndSplineSet
+Validated: 1
 EndChar
 
 StartChar: lambe
@@ -5960,6 +5961,8 @@ StartChar: harmasilme
 Encoding: 65544 -1 126
 Width: 1732
 Flags: W
+AnchorPoint: "TehtaBelow" 932 -200 basechar 0
+AnchorPoint: "TehtaAbove" 932 1800 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6015,7 +6018,7 @@ SplineSet
  1394 383 1394 383 1397 400 c 2,64,-1
  1397 1310 l 1,24,25
 EndSplineSet
-Validated: 1
+LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" uniE024 zwj uniE00A
 EndChar
 
@@ -6023,6 +6026,8 @@ StartChar: harmatinco
 Encoding: 65545 -1 127
 Width: 1733
 Flags: W
+AnchorPoint: "TehtaBelow" 1333 -200 basechar 0
+AnchorPoint: "TehtaAbove" 1333 1500 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6076,6 +6081,7 @@ SplineSet
  951 -406 l 1,0,-1
 EndSplineSet
 Validated: 1
+LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" uniE00A zwj uniE000
 EndChar
 
@@ -6083,6 +6089,8 @@ StartChar: hwestatinco
 Encoding: 65546 -1 128
 Width: 1810
 Flags: W
+AnchorPoint: "TehtaAbove" 1410 1500 basechar 0
+AnchorPoint: "TehtaBelow" 1410 -200 basechar 0
 LayerCount: 2
 Fore
 SplineSet
@@ -6145,6 +6153,7 @@ SplineSet
  425 906 l 1,48,49
 EndSplineSet
 Validated: 1
+LCarets2: 2 0 0
 Ligature2: "Ligatures subtable" uniE00B zwj uniE000
 EndChar
 
