@@ -21,7 +21,7 @@ OS2Version: 3
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1275331795
-ModificationTime: 1689170434
+ModificationTime: 1708138875
 PfmFamily: 33
 TTFWeight: 700
 TTFWidth: 5
@@ -2564,7 +2564,7 @@ Width: 1217
 GlyphClass: 1
 Flags: W
 AnchorPoint: "LambeXhook" 417 0 basechar 0
-AnchorPoint: "TehtaBelow" 717 300 basechar 0
+AnchorPoint: "TehtaBelow" 617 -300 basechar 0
 AnchorPoint: "TehtaAbove" 717 1500 basechar 0
 AnchorPoint: "LambeBar" 917 800 basechar 0
 LayerCount: 2
@@ -2618,7 +2618,6 @@ SplineSet
  1151 886 l 1,58,-1
  720 886 l 1,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 36 -50 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -50 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
@@ -2626,9 +2625,9 @@ StartChar: alda
 Encoding: 57379 57379 39
 Width: 1367
 GlyphClass: 1
-Flags: W
+Flags: WO
 AnchorPoint: "LambeXhook" 417 0 basechar 0
-AnchorPoint: "TehtaBelow" 717 300 basechar 0
+AnchorPoint: "TehtaBelow" 617 -300 basechar 0
 AnchorPoint: "TehtaAbove" 717 1500 basechar 0
 AnchorPoint: "LambeBar" 917 800 basechar 0
 LayerCount: 2
@@ -2698,7 +2697,6 @@ SplineSet
  999 -23 999 -23 968 -43 c 1,80,-1
  969 -42 l 1,0,1
 EndSplineSet
-Validated: 1
 Kerns2: 36 -200 "'kern' Horizontal Kerning in Latin lookup 2-1" 64 -200 "'kern' Horizontal Kerning in Latin lookup 2-1"
 EndChar
 
